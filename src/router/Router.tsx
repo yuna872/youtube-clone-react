@@ -1,6 +1,6 @@
 import { createBrowserRouter } from "react-router-dom";
-import Main from "../pages/Main/index";
-import Watch from "../pages/Watch/index";
+import Main from "../pages/main/index";
+import Watch from "../pages/watch/index";
 
 const router = createBrowserRouter([
   {
