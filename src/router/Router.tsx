@@ -8,7 +8,7 @@ const router = createBrowserRouter([
     element: <Main />, // Main Page (Hot Video)
   },
   {
-    path: "/result/:query",
+    path: "/result/:keyword",
     element: <Main />, // Main Page (Hot Video)
   },
   {

@@ -1,26 +1,37 @@
-import { useState } from "react";
+import { FormEvent, useEffect, useState } from "react";
 import { MagnifyingGlassIcon } from "@heroicons/react/24/outline";
+import { useNavigate, useParams } from "react-router-dom";
 
-type NavProps = {
-  keyword: string;
-  setKeyword: (v: string) => void;
-};
+function SearchHeader() {
+  const navigate = useNavigate();
+  const {keyword} = useParams();
 
-function SearchHeader({ keyword, setKeyword }: NavProps) {
+
+  const [text, setText] = useState("");
+
+  const handleSubmit = (e: FormEvent<HTMLFormElement>) => {
+    e.preventDefault();
+    navigate(`/result/${keyword}`);
+  };
+
+  useEffect(() => {
+    setText(keyword || '');
+  }, [keyword]);
+
   return (
     <div className="flex flex-row justify-between items-center h-[56px]">
       {/* 로고 */}
       <div></div>
       {/* 키워드 입력 */}
-      <div className="flex flex-row rounded-full border-solid border-white">
+      <form onSubmit={handleSubmit} className="flex flex-row rounded-full">
         <input
           placeholder="검색"
-          value={keyword}
-          onChange={(e) => setKeyword(e.target.value)}
+          value={text}
+          onChange={(e) => setText(e.target.value)}
           className="bg-transparent text-white"
         />
         <MagnifyingGlassIcon className="stroke-white w-[24px]" />
-      </div>
+      </form>
       {/* buttons */}
       <div></div>
     </div>
