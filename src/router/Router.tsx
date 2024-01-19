@@ -12,7 +12,7 @@ const router = createBrowserRouter([
     element: <Main />, // Main Page (Hot Video)
   },
   {
-    path: "/watch/:id",
+    path: "/watch/:videoId",
     element: <Watch />, // Main Page (Hot Video)
   },
 ]);

@@ -4,6 +4,8 @@ import { useParams } from "react-router-dom";
 import { useQuery } from "@tanstack/react-query";
 import Videos from "./components/Videos";
 import { TVideo } from "../../types/Video";
+import Loading from "../components/Loading";
+import Error from "../components/Error";
 
 function Main() {
   const { keyword } = useParams();
@@ -24,8 +26,8 @@ function Main() {
   return (
     <>
       <SearchHeader />
-      {isLoading && <p>Loading...</p>}
-      {error && <p>An error is occurred</p>}
+      {isLoading && <Loading/>}
+      {error && <Error/>}
       {videos && <Videos videos={videos}/>}
     </>
   );
