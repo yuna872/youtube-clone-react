@@ -2,6 +2,8 @@ import { useState } from "react";
 import SearchHeader from "./components/SearchHeader";
 import { useParams } from "react-router-dom";
 import { useQuery } from "@tanstack/react-query";
+import Videos from "./components/Videos";
+import { TVideo } from "../../types/Video";
 
 function Main() {
   const { keyword } = useParams();
@@ -9,13 +11,13 @@ function Main() {
   const {
     isLoading,
     error,
-    data: videos,
+    data : videos,
   } = useQuery({
     queryKey: ["videos", keyword],
     queryFn: async () => {
       return fetch(`/data/${keyword ? "list_by_keyword" : "most_popular"}.json`)
         .then((res) => res.json())
-        .then((data) => data.items);
+        .then((data) => data.items)
     },
   });
 
@@ -24,13 +26,7 @@ function Main() {
       <SearchHeader />
       {isLoading && <p>Loading...</p>}
       {error && <p>An error is occurred</p>}
-      {videos && (
-        <ul>
-          {videos.map((video: any) => (
-            <li className="text-white">{video.snippet.title}</li>
-          ))}
-        </ul>
-      )}
+      {videos && <Videos videos={videos}/>}
     </>
   );
 }

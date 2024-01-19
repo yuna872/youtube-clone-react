@@ -1,857 +1,1838 @@
 {
-    "kind": "youtube#searchListResponse",
-    "etag": "dT98wmfQRfX-cgTVzpkzfBu8Zd8",
-    "nextPageToken": "CBkQAA",
-    "regionCode": "KR",
-    "pageInfo": {
-      "totalResults": 1000000,
-      "resultsPerPage": 25
-    },
-    "items": [
+  "kind": "youtube#videoListResponse",
+  "etag": "SOG6X_Mkev6ZoNpq8iigmY-cxJM",
+  "items": [
       {
-        "kind": "youtube#searchResult",
-        "etag": "VxFlciT2h4qf6nzEFtmgMPX1nHs",
-        "id": {
           "kind": "youtube#video",
-          "videoId": "ma67yOdMQfs"
-        },
-        "snippet": {
-          "publishedAt": "2021-01-23T17:00:15Z",
-          "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
-          "title": "These Were The All-Time Surfing Moments Of The Year | Best Of 2020",
-          "description": "Well, that was a weird ride. Though it hasn't been easy, at least when we fixed our gaze on the ocean — or favorite place in the ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/ma67yOdMQfs/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/ma67yOdMQfs/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/ma67yOdMQfs/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "Red Bull Surfing",
-          "liveBroadcastContent": "none",
-          "publishTime": "2021-01-23T17:00:15Z"
-        }
+          "etag": "5n8eprpy2n141HcSM3lDnkQHlT8",
+          "id": "ll5LV8Ty8Kg",
+          "snippet": {
+              "publishedAt": "2024-01-18T09:01:34Z",
+              "channelId": "UCoe-0EVDJnjlSoPK8ygcGwQ",
+              "title": "놀뭐 회식에서 뭐하니... (Feat. 놀면 뭐하니)",
+              "description": "이런 즉흥적인 콘텐츠가 또 짐종국의 묘미 아니겠습니까 ㅎ\n간만에 하하네 가게.. 가 아닌 하하와 저의 가게! 홍대 401에 방문했습니다! \n\n지난번 새해 러이브를 가던 중 길 건너 401에서 ‘놀면 뭐하니’ 팀의 회식 소식에 아주 잠깐 들러서 재밌는 토크 뽑아 왔습니다 ㅋ\n\n아쉽게 불발된 놀뭐와 런닝맨의 콜라보 계획! 과연 다시 한번 불을 붙일 수 있을지! \n\n사랑 넘치는 덕담으로 가득 찬 오늘 영상 재밌게 보시고 많이 웃으시길 바랍니다!",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/ll5LV8Ty8Kg/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/ll5LV8Ty8Kg/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/ll5LV8Ty8Kg/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/ll5LV8Ty8Kg/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/ll5LV8Ty8Kg/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "김종국 GYM JONG KOOK",
+              "tags": [
+                  "김종국",
+                  "짐종국",
+                  "런닝맨",
+                  "미우새",
+                  "헬스",
+                  "운동",
+                  "유재석",
+                  "하하",
+                  "이광수",
+                  "송지효",
+                  "스포츠"
+              ],
+              "categoryId": "17",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "놀뭐 회식에서 뭐하니... (Feat. 놀면 뭐하니)",
+                  "description": "이런 즉흥적인 콘텐츠가 또 짐종국의 묘미 아니겠습니까 ㅎ\n간만에 하하네 가게.. 가 아닌 하하와 저의 가게! 홍대 401에 방문했습니다! \n\n지난번 새해 러이브를 가던 중 길 건너 401에서 ‘놀면 뭐하니’ 팀의 회식 소식에 아주 잠깐 들러서 재밌는 토크 뽑아 왔습니다 ㅋ\n\n아쉽게 불발된 놀뭐와 런닝맨의 콜라보 계획! 과연 다시 한번 불을 붙일 수 있을지! \n\n사랑 넘치는 덕담으로 가득 찬 오늘 영상 재밌게 보시고 많이 웃으시길 바랍니다!"
+              },
+              "defaultAudioLanguage": "ko"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "2C_Yd9YhowpbyzpyNr30lP7rSXw",
-        "id": {
           "kind": "youtube#video",
-          "videoId": "u3GDy4Z1xYg"
-        },
-        "snippet": {
-          "publishedAt": "2024-01-15T04:16:30Z",
-          "channelId": "UCn7s1bTIbscwY0w65U7WFAw",
-          "title": "Surfing. An Awesome, Pumping Dawn Session, Burleigh Heads,",
-          "description": "Surfing. The Pumping Dawn Session, Burleigh Heads, Tuesday 4th May 2021. An unexpected big jump in the swell overnight ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/u3GDy4Z1xYg/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/u3GDy4Z1xYg/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/u3GDy4Z1xYg/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "surfonmars",
-          "liveBroadcastContent": "none",
-          "publishTime": "2024-01-15T04:16:30Z"
-        }
+          "etag": "xjb1REb6-3uz0YjhvOOGbrYzDG8",
+          "id": "sDWeyVdXQwY",
+          "snippet": {
+              "publishedAt": "2024-01-17T23:30:17Z",
+              "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+              "title": "새로운 삼성 갤럭시 S24/S24+/S24 울트라 첫 인상! 아이폰같은데 예뻐졌습니다.",
+              "description": "2024년 첫 번째 삼성의 상반기 플래그십 스마트폰이 공개되었습니다. 좋은 기회로 미리 미디어데이에 참석해 한시간 가량 만져볼 수 있었는데요, 자세한 테스트는 할 수 없었지만 개인적으로 느낀 첫 인상 그리고 달라진 부분에 대해 모두 정리해봤습니다!\n\n🔋 Specs.\n모델명 : 갤럭시 S24/S24+/S24U\n프레임 : 아머알루미늄/티타늄(S24U)\n디스플레이 : 6.2인치, 6.7인치, 6.8인치\n프로세서 : 엑시노스 2400/퀄컴 스냅드래곤 8 Gen3 for Galaxy(S24U)\nRAM : 8GB, 12GB, 12GB\n전면카메라 : 12MP F2.2\n후면카메라 : 50MP 광각, 12MP 초광각, 10MP 망원(기본형, +) / 200MP 광각, 12MP 초광각, 50MP 5배망원\n배터리 : 4,000mAh, 4,900mAh, 5,000mAh\n무게 : 167g, 196g, 232g\n\n\n🎵 BGM.\nES_Ridiculo - Martin Landstrom\nES_Sorvete de Limao - Martin Landstrom\nES_Saturday Coffee\n\n\n⏲️ Timestamps.\n00:00 저혈압치료제\n00:09 오프닝\n00:23 S24 울트라\n04:47 카메라\n08:34 울트라 실물 느낌\n09:27 AI\n14:01 S24 & S24+\n17:33 오늘의 결론\n\n\n🔖Tags.\n#갤럭시S24\n#S24울트라\n#S24+\n\n\n💡 Merch.\n블랙카우랩스 굿즈를 사고 싶다면?\n-https://abit.ly/blackcowlabs\n\n\n📨 Business contacts.\n itsub@itud.io",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/sDWeyVdXQwY/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/sDWeyVdXQwY/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/sDWeyVdXQwY/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/sDWeyVdXQwY/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/sDWeyVdXQwY/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "ITSub잇섭",
+              "tags": [
+                  "갤럭시",
+                  "갤럭시 s24",
+                  "s24",
+                  "s24+",
+                  "s24 울트라",
+                  "s24 ultra",
+                  "갤럭시s24",
+                  "s24 실물",
+                  "s24 색상",
+                  "s24 컬러",
+                  "s24 잇섭",
+                  "잇섭 갤럭시",
+                  "갤럭시 아이폰",
+                  "아이폰 갤럭시",
+                  "s24 언팩",
+                  "삼성 언팩",
+                  "갤럭시 언팩",
+                  "언팩",
+                  "언팩 s24",
+                  "s24 사전예약",
+                  "s24울트라",
+                  "s24 플러스",
+                  "s24 ai",
+                  "s24 출시일",
+                  "s24 가격"
+              ],
+              "categoryId": "28",
+              "liveBroadcastContent": "none",
+              "defaultLanguage": "ko",
+              "localized": {
+                  "title": "새로운 삼성 갤럭시 S24/S24+/S24 울트라 첫 인상! 아이폰같은데 예뻐졌습니다.",
+                  "description": "2024년 첫 번째 삼성의 상반기 플래그십 스마트폰이 공개되었습니다. 좋은 기회로 미리 미디어데이에 참석해 한시간 가량 만져볼 수 있었는데요, 자세한 테스트는 할 수 없었지만 개인적으로 느낀 첫 인상 그리고 달라진 부분에 대해 모두 정리해봤습니다!\n\n🔋 Specs.\n모델명 : 갤럭시 S24/S24+/S24U\n프레임 : 아머알루미늄/티타늄(S24U)\n디스플레이 : 6.2인치, 6.7인치, 6.8인치\n프로세서 : 엑시노스 2400/퀄컴 스냅드래곤 8 Gen3 for Galaxy(S24U)\nRAM : 8GB, 12GB, 12GB\n전면카메라 : 12MP F2.2\n후면카메라 : 50MP 광각, 12MP 초광각, 10MP 망원(기본형, +) / 200MP 광각, 12MP 초광각, 50MP 5배망원\n배터리 : 4,000mAh, 4,900mAh, 5,000mAh\n무게 : 167g, 196g, 232g\n\n\n🎵 BGM.\nES_Ridiculo - Martin Landstrom\nES_Sorvete de Limao - Martin Landstrom\nES_Saturday Coffee\n\n\n⏲️ Timestamps.\n00:00 저혈압치료제\n00:09 오프닝\n00:23 S24 울트라\n04:47 카메라\n08:34 울트라 실물 느낌\n09:27 AI\n14:01 S24 & S24+\n17:33 오늘의 결론\n\n\n🔖Tags.\n#갤럭시S24\n#S24울트라\n#S24+\n\n\n💡 Merch.\n블랙카우랩스 굿즈를 사고 싶다면?\n-https://abit.ly/blackcowlabs\n\n\n📨 Business contacts.\n itsub@itud.io"
+              },
+              "defaultAudioLanguage": "ko"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "x9SBBIUFMycQWgVRGJB5ybBkPzY",
-        "id": {
           "kind": "youtube#video",
-          "videoId": "APjzxUTijm8"
-        },
-        "snippet": {
-          "publishedAt": "2024-01-14T07:00:04Z",
-          "channelId": "UC3DIR1s_jw1wr4p4wWg7JGQ",
-          "title": "TUBEFEST ON THE GREENMOUNT EXPRESS (RAW SURFING)",
-          "description": "The Superbank came to live this week with a easterly swell pulse and th ecleanest option was greenmount which delivered some ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/APjzxUTijm8/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/APjzxUTijm8/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/APjzxUTijm8/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "Raw Surfing",
-          "liveBroadcastContent": "none",
-          "publishTime": "2024-01-14T07:00:04Z"
-        }
+          "etag": "tF1dtidJddRZZztn4zRdjN1hlTU",
+          "id": "3x1-m0RxTMM",
+          "snippet": {
+              "publishedAt": "2024-01-18T03:00:02Z",
+              "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+              "title": "[EN] 240118 mini핑계고 : 유재석, 조정석, 조세호 @뜬뜬편집실 (OneCam) ㅣ EP.9",
+              "description": "주제 : 우리끼리 신나서 떠들어제낀 추억 이야기\n때 : 새해 기운 가득한 1월 초 어느 날의 오후\n장소 : 뜬뜬 편집실\n참여자 : 유재석, 조정석, 조세호\n\nㅡㅡㅡ\n\n[채널 '뜬뜬' of 안테나플러스]\n연출 | 조은진 조수빈 김다윤 이은솔 추형록 오민주\n작가 | 김송화 최수정 김이진 정채휴 전우성\n\nㅡㅡㅡ\n\n*본 콘텐츠와 무관한 내용의 댓글과 출연자에 대한 무분별한 욕설, 비난 및 조롱 등 악의적인 댓글은 무통보 삭제될 수 있습니다.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/3x1-m0RxTMM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/3x1-m0RxTMM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/3x1-m0RxTMM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/3x1-m0RxTMM/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/3x1-m0RxTMM/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "뜬뜬 DdeunDdeun",
+              "tags": [
+                  "뜬뜬",
+                  "핑계고",
+                  "미니핑계고",
+                  "mini핑",
+                  "조정석",
+                  "조세호",
+                  "유재석",
+                  "추억",
+                  "7080",
+                  "공감",
+                  "옛날예능",
+                  "토크추천",
+                  "드라마추천",
+                  "자기전에",
+                  "플레이리스트",
+                  "눈오는날",
+                  "비오는날",
+                  "K-pop플리",
+                  "노동요",
+                  "레시피추천",
+                  "운동",
+                  "활기찬",
+                  "세작",
+                  "세작매혹된자들",
+                  "신규드라마",
+                  "신세경",
+                  "거미",
+                  "아재개그"
+              ],
+              "categoryId": "23",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "[EN] 240118 mini핑계고 : 유재석, 조정석, 조세호 @뜬뜬편집실 (OneCam) ㅣ EP.9",
+                  "description": "주제 : 우리끼리 신나서 떠들어제낀 추억 이야기\n때 : 새해 기운 가득한 1월 초 어느 날의 오후\n장소 : 뜬뜬 편집실\n참여자 : 유재석, 조정석, 조세호\n\nㅡㅡㅡ\n\n[채널 '뜬뜬' of 안테나플러스]\n연출 | 조은진 조수빈 김다윤 이은솔 추형록 오민주\n작가 | 김송화 최수정 김이진 정채휴 전우성\n\nㅡㅡㅡ\n\n*본 콘텐츠와 무관한 내용의 댓글과 출연자에 대한 무분별한 욕설, 비난 및 조롱 등 악의적인 댓글은 무통보 삭제될 수 있습니다."
+              },
+              "defaultAudioLanguage": "ko"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "4nwJ6MrLnu8pVvr9XTy-bNnL3mQ",
-        "id": {
           "kind": "youtube#video",
-          "videoId": "AQSt87M4OMw"
-        },
-        "snippet": {
-          "publishedAt": "2024-01-14T18:46:19Z",
-          "channelId": "UChxPvPqxDjOeeI8amejXvfA",
-          "title": "SURFING THE BIGGEST STORM OF THE YEAR IN TOFINO, CANADA (RAW POV)",
-          "description": "The last days of 2023 went out with a banger swell that rocked Vancouver Island and the entire west coast, from Canada to ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/AQSt87M4OMw/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/AQSt87M4OMw/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/AQSt87M4OMw/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "Tofino Surf Photography - Keenan Bush",
-          "liveBroadcastContent": "none",
-          "publishTime": "2024-01-14T18:46:19Z"
-        }
+          "etag": "JEzMZqXPE59Aj4fEJPSDj75B2OY",
+          "id": "_Tnah0C0hvI",
+          "snippet": {
+              "publishedAt": "2024-01-17T16:30:05Z",
+              "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+              "title": "[2023 AFC 카타르 아시안컵] 2023 AFC 카타르 아시안컵 레바논 vs 중국 풀 하이라이트",
+              "description": "쿠팡플레이에서 2023 AFC 카타르 아시안컵 생중계와  풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 만나보세요!\n\n지금 쿠플하세요\nhttps://coupangplay.app.link/mPCvTkFskGb",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/_Tnah0C0hvI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/_Tnah0C0hvI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/_Tnah0C0hvI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/_Tnah0C0hvI/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/_Tnah0C0hvI/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "쿠팡플레이 스포츠",
+              "categoryId": "17",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "[2023 AFC 카타르 아시안컵] 2023 AFC 카타르 아시안컵 레바논 vs 중국 풀 하이라이트",
+                  "description": "쿠팡플레이에서 2023 AFC 카타르 아시안컵 생중계와  풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 만나보세요!\n\n지금 쿠플하세요\nhttps://coupangplay.app.link/mPCvTkFskGb"
+              }
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "ZfmdwKHLOyzvyaW2Km9WB5_iuJo",
-        "id": {
           "kind": "youtube#video",
-          "videoId": "eSWST13stO4"
-        },
-        "snippet": {
-          "publishedAt": "2022-03-27T15:00:32Z",
-          "channelId": "UCVo06dBGK9VBBhq15wJxZHQ",
-          "title": "🔵4k (ASMR) 10 Hour Store Loop - Hawaii Surfing - With Relaxing Music☑️",
-          "description": "Waves of the World Filmers: Chris Kincade: https://www.instagram.com/chriskincade.wotw Andre Botha: ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/eSWST13stO4/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/eSWST13stO4/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/eSWST13stO4/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "Waves of the World",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-03-27T15:00:32Z"
-        }
+          "etag": "6KjsLy4hPDgSEgezGiwL7K9zp8s",
+          "id": "o_CUczjAUSs",
+          "snippet": {
+              "publishedAt": "2024-01-17T10:01:04Z",
+              "channelId": "UClRNDVO8093rmRTtLe4GEPw",
+              "title": "한류스타와 일본에 가다 - 일본(1)",
+              "description": "안녕하세요\n오래간만에 다시 찾아왔습니다\n이번 일본 여정 중에 보현이 형과 처음을 같이하게 되었는데\n생각한 대로 잘 안돼서 아쉬웠지만 그래도 나머지 여정도 많이 남아있으니까\n기대해 주시면 감사하겠습니다 \n\n-------------------------------------------------------------------------------\ninsta : @jbkwak\nmail : kwaktube@sandboxnetwork.net\n촬영장비 : 고프로 히어로 12 블랙\n편집 : 맥북프로 16인치, 파이널컷 X\n음원 : Epidemic sound&Artlist",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/o_CUczjAUSs/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/o_CUczjAUSs/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/o_CUczjAUSs/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/o_CUczjAUSs/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/o_CUczjAUSs/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "곽튜브",
+              "categoryId": "19",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "한류스타와 일본에 가다 - 일본(1)",
+                  "description": "안녕하세요\n오래간만에 다시 찾아왔습니다\n이번 일본 여정 중에 보현이 형과 처음을 같이하게 되었는데\n생각한 대로 잘 안돼서 아쉬웠지만 그래도 나머지 여정도 많이 남아있으니까\n기대해 주시면 감사하겠습니다 \n\n-------------------------------------------------------------------------------\ninsta : @jbkwak\nmail : kwaktube@sandboxnetwork.net\n촬영장비 : 고프로 히어로 12 블랙\n편집 : 맥북프로 16인치, 파이널컷 X\n음원 : Epidemic sound&Artlist"
+              },
+              "defaultAudioLanguage": "en"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "Trr5CMv7JZiHZ_rkN1GubGvJmgY",
-        "id": {
           "kind": "youtube#video",
-          "videoId": "jPuGg3x2GVY"
-        },
-        "snippet": {
-          "publishedAt": "2024-01-14T20:25:34Z",
-          "channelId": "UC4cmPU5LlfEpEUT5eCaroIQ",
-          "title": "Mavericks  Bomb Of The Day 💣  Michael Joshua ⚡️12/28/23 #surf #mavericks #powerlinesproductions",
-          "description": "Nic Von Rupp tows Michael Joshua at MAVERICKS into the BOMB OF THE DAY ⚡️ Music created by Steve Freeman ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/jPuGg3x2GVY/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/jPuGg3x2GVY/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/jPuGg3x2GVY/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "Powerlines Productions",
-          "liveBroadcastContent": "none",
-          "publishTime": "2024-01-14T20:25:34Z"
-        }
+          "etag": "LnKKwfMUpY3DjN57oJAd48OOO0s",
+          "id": "4a2R4GN73MU",
+          "snippet": {
+              "publishedAt": "2024-01-16T02:29:01Z",
+              "channelId": "UCN5XdqTDRbyjXPF5NXUqWdA",
+              "title": "[sub]대체 왜 이렇게 루머가 많은 거야 현정아ㅠㅠㅠ❤️",
+              "description": "현정아 앞으로 너무 다 잘 될 일 밖에 없는 거야! 사랑한다.\n\n#고현정 #요정식탁 #정재형\n\n\n\n▼ Copy and Paste ▼\n🎧 Track Info \nTitle : absence    \n￼\n • [𝙸𝚝'𝚜 𝙵𝚁𝙴𝙴]  - 𝖆𝖇𝖘𝖊𝖓𝖈𝖊, 사극&동양풍, 저작권없는...  \nMusic by 𝙂𝙚𝙩𝙎𝙤𝙢𝙚 ♪ : https://url.kr/9hadcy",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/4a2R4GN73MU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/4a2R4GN73MU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/4a2R4GN73MU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/4a2R4GN73MU/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/4a2R4GN73MU/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "요정재형",
+              "tags": [
+                  "정재형",
+                  "요정재형",
+                  "요정",
+                  "페어리",
+                  "강민경",
+                  "걍밍경",
+                  "유재석",
+                  "뜬뜬",
+                  "뚠뚠",
+                  "이미주",
+                  "미주",
+                  "런닝맨",
+                  "이적",
+                  "다행이다",
+                  "안테나뮤직",
+                  "안테나",
+                  "유희열",
+                  "이효리",
+                  "해듬이",
+                  "강아지",
+                  "반려견",
+                  "반려인",
+                  "해듬",
+                  "시각장애인",
+                  "시각장애인 안내견",
+                  "안내견",
+                  "안내견학교",
+                  "삼성화재 안내견학교",
+                  "피아노",
+                  "피아노 연주",
+                  "정재형 피아노",
+                  "무한도전",
+                  "무한도전 정재형",
+                  "순정마초",
+                  "무한도전 순정마초",
+                  "정재형 순정마초",
+                  "애견인",
+                  "파리지앵",
+                  "프랑스어",
+                  "화분",
+                  "정원",
+                  "가드닝",
+                  "베란다 가드닝",
+                  "리트리버",
+                  "래브라도 리트리버",
+                  "엄정화",
+                  "이상순",
+                  "성시경",
+                  "running",
+                  "식물",
+                  "식집사",
+                  "식물 키우기",
+                  "베란다 정원",
+                  "정원 꾸미기",
+                  "고현정",
+                  "이선균",
+                  "고현정 정용진",
+                  "이마트",
+                  "이마트 정용진",
+                  "정용진 멸공",
+                  "정용진 이재용",
+                  "이재용",
+                  "고현정 이재용",
+                  "정용진 아들",
+                  "정용진 딸",
+                  "고현정 아들",
+                  "고현정 딸"
+              ],
+              "categoryId": "24",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "[sub]대체 왜 이렇게 루머가 많은 거야 현정아ㅠㅠㅠ❤️",
+                  "description": "현정아 앞으로 너무 다 잘 될 일 밖에 없는 거야! 사랑한다.\n\n#고현정 #요정식탁 #정재형\n\n\n\n▼ Copy and Paste ▼\n🎧 Track Info \nTitle : absence    \n￼\n • [𝙸𝚝'𝚜 𝙵𝚁𝙴𝙴]  - 𝖆𝖇𝖘𝖊𝖓𝖈𝖊, 사극&동양풍, 저작권없는...  \nMusic by 𝙂𝙚𝙩𝙎𝙤𝙢𝙚 ♪ : https://url.kr/9hadcy"
+              },
+              "defaultAudioLanguage": "ko"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "qDkYa8R9TBkVQCNlmTZ-DZ0f7Q8",
-        "id": {
           "kind": "youtube#video",
-          "videoId": "jD0IDa1D2yc"
-        },
-        "snippet": {
-          "publishedAt": "2024-01-14T11:01:19Z",
-          "channelId": "UC8pmG8IGaDyDTc6xBJiyXBQ",
-          "title": "The Fast Lane - Superbank  - Saturday 13 January 2024",
-          "description": "The Fast Lane - Superbank , Saturday afternoon and the tide dropped out , the crowd thickened up and it was on . Superbank ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/jD0IDa1D2yc/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/jD0IDa1D2yc/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/jD0IDa1D2yc/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "Surf Today ",
-          "liveBroadcastContent": "none",
-          "publishTime": "2024-01-14T11:01:19Z"
-        }
+          "etag": "QgX96SGGEMrTQZj3zKiZJ1CsqcQ",
+          "id": "dNIOPXgV53o",
+          "snippet": {
+              "publishedAt": "2024-01-18T15:26:25Z",
+              "channelId": "UCBkyj16n2snkRg1BAzpovXQ",
+              "title": "치지직 갈까 아프리카 갈까",
+              "description": "치지직 갈까 아프리카 갈까\n\n[서브채널]\n\n● 왁타버스 : https://www.youtube.com/@waktaverse \n● 왁타버스 ZERO : https://www.youtube.com/@wakzero \n● 우왁굳의 돚거 : https://www.youtube.com/@wakthief \n\n[MORE]\n\n● TWITCH 생방송 : https://www.twitch.tv/woowakgood \n● 우왁굳 팬카페 - 왁물원 : https://cafe.naver.com/steamindiegame \n● 카카오톡 팬치의 일상 : https://e.kakao.com/t/panzee-the-cute-chimpanzee\n● 카카오톡 왁모티콘 1 : https://e.kakao.com/t/woowakgood-so-good\n● 카카오톡 왁모티콘 2 : https://e.kakao.com/t/woowakgood-so-good-ver-2\n\n\n[SNS]\n\n● 우왁굳 인스타그램 : https://www.instagram.com/instawakgood \n● 웰시코기메시 인스타그램 : https://www.instagram.com/welshcorgimessi\n● 트위터 : https://www.twitter.com/jinjjawakgood \n\n\n광고 문의 : marketing@parable-asia.com\n개인 문의 : ecvhao@naver.com",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/dNIOPXgV53o/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/dNIOPXgV53o/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/dNIOPXgV53o/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/dNIOPXgV53o/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/dNIOPXgV53o/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "우왁굳의 게임방송",
+              "tags": [
+                  "우왁굳",
+                  "우왕굳",
+                  "우왁굳의게임방송",
+                  "왁두",
+                  "종합게임",
+                  "리그오브레전드",
+                  "스팀게임",
+                  "쿠소게임",
+                  "인디게임",
+                  "비디오게임",
+                  "레이싱게임",
+                  "레이스게임",
+                  "오버워치",
+                  "배틀그라운드",
+                  "배그",
+                  "vr",
+                  "마인크래프트",
+                  "마크",
+                  "vrchat",
+                  "vr챗",
+                  "노가리",
+                  "Minecraft"
+              ],
+              "categoryId": "20",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "치지직 갈까 아프리카 갈까",
+                  "description": "치지직 갈까 아프리카 갈까\n\n[서브채널]\n\n● 왁타버스 : https://www.youtube.com/@waktaverse \n● 왁타버스 ZERO : https://www.youtube.com/@wakzero \n● 우왁굳의 돚거 : https://www.youtube.com/@wakthief \n\n[MORE]\n\n● TWITCH 생방송 : https://www.twitch.tv/woowakgood \n● 우왁굳 팬카페 - 왁물원 : https://cafe.naver.com/steamindiegame \n● 카카오톡 팬치의 일상 : https://e.kakao.com/t/panzee-the-cute-chimpanzee\n● 카카오톡 왁모티콘 1 : https://e.kakao.com/t/woowakgood-so-good\n● 카카오톡 왁모티콘 2 : https://e.kakao.com/t/woowakgood-so-good-ver-2\n\n\n[SNS]\n\n● 우왁굳 인스타그램 : https://www.instagram.com/instawakgood \n● 웰시코기메시 인스타그램 : https://www.instagram.com/welshcorgimessi\n● 트위터 : https://www.twitter.com/jinjjawakgood \n\n\n광고 문의 : marketing@parable-asia.com\n개인 문의 : ecvhao@naver.com"
+              },
+              "defaultAudioLanguage": "ko"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "9mTQJChGJsH-6W7GGZhPm3jYut0",
-        "id": {
           "kind": "youtube#video",
-          "videoId": "JGuQLu8O-SM"
-        },
-        "snippet": {
-          "publishedAt": "2024-01-13T19:29:14Z",
-          "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
-          "title": "Jett Schilling vs Jackson Bunch | SAMBAZON World Junior Championships Hosted by Best Western",
-          "description": "The SAMBAZON World Junior Championships hosted by Best Western showcase the most talented 20-and-under surfers in the ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/JGuQLu8O-SM/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/JGuQLu8O-SM/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/JGuQLu8O-SM/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "World Surf League",
-          "liveBroadcastContent": "none",
-          "publishTime": "2024-01-13T19:29:14Z"
-        }
+          "etag": "U97lSQyl0fXyBD-76rChR3HYv_E",
+          "id": "kQ1f1RI8GdY",
+          "snippet": {
+              "publishedAt": "2024-01-18T11:30:09Z",
+              "channelId": "UC9cCBxBAQW2CzLYeT20q49A",
+              "title": "💀 한국인🇰🇷들이 해외여행 편하게 가는 이유 / 💀 대한민국 여권의 위엄 ㄷㄷ",
+              "description": "🏴‍☠️지식해적단 멤버십 가입\nhttps://www.youtube.com/channel/UC9cCBxBAQW2CzLYeT20q49A/join\n☠ 궁금한 거? 구독과 좋아요만 눌러주면 우리가 알아서 약탈해줄게! 🦜\n세계가 점점 더 촘촘하게 연결되면서, 무비자 협정 체결은 날이 갈수록 늘어나고 있습니다.\n사람대 사람으로 치면 일종의 서로이웃, 맞팔 같은 개념으로…\n무비자협정을 체결한 국가끼리는 서로의 국민들이 비자 신청과 발급 과정 없이 오고갈 수 있죠.\n그리고 대한민국은… 2024년 상반기 기준, 무려 193개국에 무비자 입국이 가능하다는 거~\n이게, 이웃집 지역패권국 중국은 가볍게 압도하고 세계 최강의 국가 미국도 근소한 차이로 앞서는 수치입니다.\n한국 여권만 있으면 전 세계 주요 국가에 대부분 프리패스로 입국할 수 있기 때문에\n생김새가 비슷한 아시아 각국에서 한국 여권 위조가 성행하기도 할 정도라고 해요.\n동아시아의 작은 나라 대한민국은 어쩌다 이런 인싸 국가가 됐을까요?\n대한민국 여권의 위상은 어느정도일까요?\n\n#여권 #한국여권 #무비자협정",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/kQ1f1RI8GdY/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/kQ1f1RI8GdY/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/kQ1f1RI8GdY/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/kQ1f1RI8GdY/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/kQ1f1RI8GdY/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "지식해적단",
+              "tags": [
+                  "지식채널",
+                  "지식채널e",
+                  "역사채널. 국제정치",
+                  "유엔",
+                  "해외여행",
+                  "전자비자",
+                  "eTA",
+                  "헨리여권지수",
+                  "히드로공항",
+                  "유럽여행"
+              ],
+              "categoryId": "25",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "💀 한국인🇰🇷들이 해외여행 편하게 가는 이유 / 💀 대한민국 여권의 위엄 ㄷㄷ",
+                  "description": "🏴‍☠️지식해적단 멤버십 가입\nhttps://www.youtube.com/channel/UC9cCBxBAQW2CzLYeT20q49A/join\n☠ 궁금한 거? 구독과 좋아요만 눌러주면 우리가 알아서 약탈해줄게! 🦜\n세계가 점점 더 촘촘하게 연결되면서, 무비자 협정 체결은 날이 갈수록 늘어나고 있습니다.\n사람대 사람으로 치면 일종의 서로이웃, 맞팔 같은 개념으로…\n무비자협정을 체결한 국가끼리는 서로의 국민들이 비자 신청과 발급 과정 없이 오고갈 수 있죠.\n그리고 대한민국은… 2024년 상반기 기준, 무려 193개국에 무비자 입국이 가능하다는 거~\n이게, 이웃집 지역패권국 중국은 가볍게 압도하고 세계 최강의 국가 미국도 근소한 차이로 앞서는 수치입니다.\n한국 여권만 있으면 전 세계 주요 국가에 대부분 프리패스로 입국할 수 있기 때문에\n생김새가 비슷한 아시아 각국에서 한국 여권 위조가 성행하기도 할 정도라고 해요.\n동아시아의 작은 나라 대한민국은 어쩌다 이런 인싸 국가가 됐을까요?\n대한민국 여권의 위상은 어느정도일까요?\n\n#여권 #한국여권 #무비자협정"
+              },
+              "defaultAudioLanguage": "ko"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "ZjD0ROrF2v17cl64BmWJI67rVyA",
-        "id": {
           "kind": "youtube#video",
-          "videoId": "QB8GMebrFXg"
-        },
-        "snippet": {
-          "publishedAt": "2023-03-04T18:00:11Z",
-          "channelId": "UCJBWZDkunrjWh50Etxdys2g",
-          "title": "Big wave surfers in Southern California #shorts",
-          "description": "",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/QB8GMebrFXg/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/QB8GMebrFXg/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/QB8GMebrFXg/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "SoCal Surfer",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-03-04T18:00:11Z"
-        }
+          "etag": "HEJWv-Z_xqmhfZZ4PGPg7KgNHJw",
+          "id": "zKgYEiUtRVk",
+          "snippet": {
+              "publishedAt": "2024-01-18T10:00:47Z",
+              "channelId": "UCRMA_Nb5VF-YoWApSVeXPVA",
+              "title": "[#유퀴즈온더블럭] 윤상에게 아이돌 하고 싶다고 말한 아들(현 라이즈 앤톤)🔥 10년 동안 수영 하던 아들이 S★ 오디션을 봤다?!",
+              "description": "〈유 퀴즈 온 더 블럭〉 매주 수 오후 8시 45분 tvN에서!\nTVING으로 다시보기 👉 https://www.tving.com/contents/P000643144\n\n방송국놈들의 하드털이 채널 '디글 클래식' \nwe’re :DIGGLE family",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/zKgYEiUtRVk/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/zKgYEiUtRVk/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/zKgYEiUtRVk/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/zKgYEiUtRVk/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/zKgYEiUtRVk/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "디글 클래식 :Diggle Classic",
+              "tags": [
+                  "Diggle",
+                  "Diggle Classic",
+                  "dbznlwm",
+                  "love 119",
+                  "tvn",
+                  "겟어기타",
+                  "노가리",
+                  "노가리 유퀴즈",
+                  "디글",
+                  "디글 유퀴즈",
+                  "디글클래식",
+                  "디클",
+                  "라이즈 성찬",
+                  "라이즈 소희",
+                  "라이즈 예능",
+                  "라이즈 원빈",
+                  "박원빈",
+                  "사이렌",
+                  "성찬",
+                  "소희",
+                  "쇼타로",
+                  "앤톤 수영",
+                  "앤톤 유퀴즈",
+                  "앤톤 직캠",
+                  "유 퀴즈 온 더 블럭",
+                  "유재석",
+                  "유퀴즈",
+                  "유퀴즈 228화",
+                  "유퀴즈 감동",
+                  "유퀴즈 길거리",
+                  "유퀴즈 띵장면",
+                  "유퀴즈 라이즈",
+                  "유퀴즈 레전드",
+                  "유퀴즈 모음",
+                  "유퀴즈 문제",
+                  "유퀴즈 앤톤",
+                  "유퀴즈 예전",
+                  "유퀴즈 온 더 블럭",
+                  "유퀴즈 웃긴",
+                  "유퀴즈 유재석",
+                  "유퀴즈 윤상",
+                  "유퀴즈 인터뷰",
+                  "유퀴즈 일반인",
+                  "유퀴즈 일반인 레전드",
+                  "유퀴즈 재미",
+                  "유퀴즈 조세호",
+                  "유퀴즈 초창기",
+                  "유퀴즈 토크",
+                  "유퀴즈보기",
+                  "유퀴즈온 더 블럭",
+                  "유퀴즈온더블럭",
+                  "유퀴즈온더블록",
+                  "윤상 라이즈",
+                  "윤상 아들",
+                  "윤상 앤톤",
+                  "윤상 앤톤 챌린지",
+                  "은석",
+                  "일반인 레전드",
+                  "조세호"
+              ],
+              "categoryId": "24",
+              "liveBroadcastContent": "none",
+              "defaultLanguage": "ko",
+              "localized": {
+                  "title": "[#유퀴즈온더블럭] 윤상에게 아이돌 하고 싶다고 말한 아들(현 라이즈 앤톤)🔥 10년 동안 수영 하던 아들이 S★ 오디션을 봤다?!",
+                  "description": "〈유 퀴즈 온 더 블럭〉 매주 수 오후 8시 45분 tvN에서!\nTVING으로 다시보기 👉 https://www.tving.com/contents/P000643144\n\n방송국놈들의 하드털이 채널 '디글 클래식' \nwe’re :DIGGLE family"
+              },
+              "defaultAudioLanguage": "en-US"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "mC6wVdCZ1IrO4YwgGxGgEqDSDmY",
-        "id": {
           "kind": "youtube#video",
-          "videoId": "ejSvL5jll9U"
-        },
-        "snippet": {
-          "publishedAt": "2023-12-30T15:30:13Z",
-          "channelId": "UC4qa5EroJxnQM6Sng9WhgsQ",
-          "title": "Historic Blacks Beach XXL San Diego 20-25ft Surf",
-          "description": "What an absolute trip to be home in New Jersey for the biggest swell I've ever seen & end up in California for this Historic Blacks ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/ejSvL5jll9U/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/ejSvL5jll9U/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/ejSvL5jll9U/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "Ben Gravy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-12-30T15:30:13Z"
-        }
+          "etag": "P3vOWO7ux6nSNEf_HIK0uNjBHrg",
+          "id": "o9SFYl5mHyo",
+          "snippet": {
+              "publishedAt": "2024-01-16T13:40:00Z",
+              "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+              "title": "[5-6화 요약] 쓰레기 갑질 상사 나락 보낸 박민영 참교육💯 조력자 나인우의 진짜 정체를 눈치 채다..?!  #내남편과결혼해줘",
+              "description": "#내남편과결혼해줘\n\nwe’re :DIGGLE family",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/o9SFYl5mHyo/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/o9SFYl5mHyo/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/o9SFYl5mHyo/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/o9SFYl5mHyo/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/o9SFYl5mHyo/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "디글 :Diggle",
+              "tags": [
+                  "Diggle",
+                  "tvN",
+                  "tvN드라마",
+                  "请和我的老公结婚",
+                  "강지원",
+                  "공민정",
+                  "나인우",
+                  "내남결",
+                  "내남결원작",
+                  "내남편과결혼해줘",
+                  "내남편과결혼해줘드라마",
+                  "내남편과결혼해줘원작",
+                  "디글",
+                  "박민영",
+                  "박민영나인우",
+                  "박민영드라마",
+                  "보아",
+                  "사이다",
+                  "사이다드라마",
+                  "송하윤",
+                  "웹툰원작",
+                  "이기광",
+                  "이이경",
+                  "참교육",
+                  "참교육드라마"
+              ],
+              "categoryId": "24",
+              "liveBroadcastContent": "none",
+              "defaultLanguage": "ko",
+              "localized": {
+                  "title": "[5-6화 요약] 쓰레기 갑질 상사 나락 보낸 박민영 참교육💯 조력자 나인우의 진짜 정체를 눈치 채다..?!  #내남편과결혼해줘",
+                  "description": "#내남편과결혼해줘\n\nwe’re :DIGGLE family"
+              },
+              "defaultAudioLanguage": "ko"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "uDdCpkOei3I8Uhh4GE426RNcG10",
-        "id": {
           "kind": "youtube#video",
-          "videoId": "O1IINu3wLrc"
-        },
-        "snippet": {
-          "publishedAt": "2024-01-09T20:00:10Z",
-          "channelId": "UCnDcnuhRMNxsI14ZnwIh6fQ",
-          "title": "SURFING THE SWELL OF THE DECADE IN MADEIRA ISLAND | VON FROTH",
-          "description": "Known for its powerful, heavy, long, and perfect waves, Madeira Island is seen by many as the Hawaii of the Atlantic. Surrounded ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/O1IINu3wLrc/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/O1IINu3wLrc/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/O1IINu3wLrc/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "Nic Von Rupp",
-          "liveBroadcastContent": "none",
-          "publishTime": "2024-01-09T20:00:10Z"
-        }
+          "etag": "pof_9BKbR_84Y7jCmpJFhfwMmik",
+          "id": "SnctWnNqlqM",
+          "snippet": {
+              "publishedAt": "2024-01-18T09:00:19Z",
+              "channelId": "UCaxbXRPhdHPXjM-e-F00LVA",
+              "title": "볼 사람 띱",
+              "description": "#띱 #비하인드 #스케치코미디 \n\n\n항상 감사합니다 여러분\n\n\n이모티콘 할인 구매 링크\nT인 사람 띱 - https://sbsb.kr/OENAOP\nF인 사람 띱 - https://sbsb.kr/1vKDi5\n\n윤태용 - https://www.instagram.com/actor_y16/\n김규남 - https://www.instagram.com/knamiiiiii/\n윤혁준 - https://www.instagram.com/yhjune/",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/SnctWnNqlqM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/SnctWnNqlqM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/SnctWnNqlqM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/SnctWnNqlqM/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/SnctWnNqlqM/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "띱 Deep",
+              "tags": [
+                  "동영상",
+                  "공유",
+                  "카메라폰",
+                  "동영상폰",
+                  "무료",
+                  "올리기",
+                  "스케치코미디",
+                  "개그",
+                  "코믹숏무비",
+                  "김규남",
+                  "윤태용",
+                  "윤혁준"
+              ],
+              "categoryId": "23",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "볼 사람 띱",
+                  "description": "#띱 #비하인드 #스케치코미디 \n\n\n항상 감사합니다 여러분\n\n\n이모티콘 할인 구매 링크\nT인 사람 띱 - https://sbsb.kr/OENAOP\nF인 사람 띱 - https://sbsb.kr/1vKDi5\n\n윤태용 - https://www.instagram.com/actor_y16/\n김규남 - https://www.instagram.com/knamiiiiii/\n윤혁준 - https://www.instagram.com/yhjune/"
+              },
+              "defaultAudioLanguage": "ko"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "AcV_wvUesbuyhjW0xAisYY8AMRA",
-        "id": {
           "kind": "youtube#video",
-          "videoId": "a48-c7kCdYI"
-        },
-        "snippet": {
-          "publishedAt": "2023-08-31T08:00:08Z",
-          "channelId": "UCoicMEw3njXscfwHlaAJVcQ",
-          "title": "SURFING A GLASSY REEF BREAK! (4K POV)",
-          "description": "In this video, we went and surfed one of our favourite reef breaks! It got super glassy Then we went for a skate at the bowl For ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/a48-c7kCdYI/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/a48-c7kCdYI/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/a48-c7kCdYI/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "Surfing With Noz",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-08-31T08:00:08Z"
-        }
+          "etag": "tnajXYcyz9DV5Mgn5dd5lh4hO4g",
+          "id": "dXHDl05Kh3o",
+          "snippet": {
+              "publishedAt": "2024-01-17T09:59:17Z",
+              "channelId": "UCJpAwvQaZyCI5spAz7tipGA",
+              "title": "장롱면허",
+              "description": "파카 생방송:  https://www.twitch.tv/paka9999\n\n파카 이메일 - soninuki@gmail.com\n비즈니스 이메일 - charon@gysent.com",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/dXHDl05Kh3o/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/dXHDl05Kh3o/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/dXHDl05Kh3o/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/dXHDl05Kh3o/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/dXHDl05Kh3o/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "PAKA",
+              "tags": [
+                  "파카",
+                  "paka",
+                  "손인욱",
+                  "리그오브레전드"
+              ],
+              "categoryId": "20",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "장롱면허",
+                  "description": "파카 생방송:  https://www.twitch.tv/paka9999\n\n파카 이메일 - soninuki@gmail.com\n비즈니스 이메일 - charon@gysent.com"
+              },
+              "defaultAudioLanguage": "ko"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "D6jriUgu69hx0p0aJEYpThCYRzo",
-        "id": {
           "kind": "youtube#video",
-          "videoId": "xtHZKToMvus"
-        },
-        "snippet": {
-          "publishedAt": "2022-11-02T17:46:49Z",
-          "channelId": "UCTYHNSWYy4jCSCj1Q1Fq0ew",
-          "title": "Interlusion | A Billabong Surf Film Shot in the Mentawai Islands",
-          "description": "Welcome to the Interlusion. What happens when the best surf trip of former world champ Joel Parkinson's life happens years after ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/xtHZKToMvus/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/xtHZKToMvus/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/xtHZKToMvus/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "Billabong",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-11-02T17:46:49Z"
-        }
+          "etag": "_1N_j3gkoK3-ShzRxk-zrkvJDPc",
+          "id": "Tg3StDQJNbo",
+          "snippet": {
+              "publishedAt": "2024-01-17T09:16:00Z",
+              "channelId": "UC3WZlO2Zl8NE1yIUgtwUtQw",
+              "title": "역대급 레전드 무대🎤 즉석에서 말아보는 웅 맘대로 편곡 노래방ㅋㅋ feat.고통받는 밴드팀 | IM HERO TOUR 2023 @대전",
+              "description": "#임영웅 #LimYoungWoong #임영웅의스페이스\n\n임영웅 웅튜브 \n구독♡좋아요♡알람설정\n열심히 할게요/당신도 누를 수 있도록 \n\nLim Young Woong  [I'm HERO] Youtube Channel\nSubscribe Like Alert Setting \nThank You♡\n\n공식 팬카페 [영웅시대]\nhttp://cafe.daum.net/hero0616",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/Tg3StDQJNbo/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/Tg3StDQJNbo/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/Tg3StDQJNbo/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/Tg3StDQJNbo/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  }
+              },
+              "channelTitle": "임영웅",
+              "tags": [
+                  "미스터트롯",
+                  "트로트",
+                  "임영웅",
+                  "트로트영웅",
+                  "포천의아들",
+                  "아침마당",
+                  "판듀",
+                  "전국노래자랑",
+                  "영웅",
+                  "홍대트로트",
+                  "뭣이중헌디",
+                  "계단말고 엘리베이터",
+                  "kbs",
+                  "가요무대",
+                  "도전꿈의무대",
+                  "박서진",
+                  "진달래",
+                  "천재원",
+                  "명지",
+                  "성국",
+                  "미스트롯",
+                  "장윤정",
+                  "박현빈",
+                  "박상철",
+                  "박구윤",
+                  "현장스케치",
+                  "예능",
+                  "트롯",
+                  "TV조선",
+                  "사랑의콜센타",
+                  "뽕숭아학당",
+                  "hero",
+                  "imhero",
+                  "이제나만믿어요",
+                  "이나믿",
+                  "별빛같은나의사랑아",
+                  "별나사",
+                  "사연",
+                  "임영웅의스페이스",
+                  "임영웅의 스페이스",
+                  "사연 읽어주는 남자",
+                  "스페이스웅"
+              ],
+              "categoryId": "10",
+              "liveBroadcastContent": "none",
+              "defaultLanguage": "ko",
+              "localized": {
+                  "title": "역대급 레전드 무대🎤 즉석에서 말아보는 웅 맘대로 편곡 노래방ㅋㅋ feat.고통받는 밴드팀 | IM HERO TOUR 2023 @대전",
+                  "description": "#임영웅 #LimYoungWoong #임영웅의스페이스\n\n임영웅 웅튜브 \n구독♡좋아요♡알람설정\n열심히 할게요/당신도 누를 수 있도록 \n\nLim Young Woong  [I'm HERO] Youtube Channel\nSubscribe Like Alert Setting \nThank You♡\n\n공식 팬카페 [영웅시대]\nhttp://cafe.daum.net/hero0616"
+              },
+              "defaultAudioLanguage": "ko"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "znY8QAOgEmmwgABqm3rjRle5dBs",
-        "id": {
           "kind": "youtube#video",
-          "videoId": "b7Pl5Rr8ZYk"
-        },
-        "snippet": {
-          "publishedAt": "2023-02-01T19:14:10Z",
-          "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
-          "title": "The BEST of Surfing in 2022",
-          "description": "What a year. 2022 was packed to the gills with everything the surfing world has to offer. Whether it be seemingly endless historic ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/b7Pl5Rr8ZYk/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/b7Pl5Rr8ZYk/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/b7Pl5Rr8ZYk/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "Red Bull Surfing",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-02-01T19:14:10Z"
-        }
+          "etag": "c_Xdd81N-sCk4O7uqt4ndbN0Fss",
+          "id": "CnLwteltY4g",
+          "snippet": {
+              "publishedAt": "2024-01-17T09:00:08Z",
+              "channelId": "UCRuSxVu4iqTK5kCh90ntAgA",
+              "title": "퇴근 후 혼밥러 - 굽네 맵단짠 칩킨 편",
+              "description": "오늘도 시청해주셔서 감사드립니다♥\n본 컨텐츠는 굽네치킨의 지원을 받아 제작되었습니다!\n\n굽네에서 매콤, 달콤, 짭짤, 바삭! 다~하는 칩킨이 나왔다고?\n맵단짠이 입안에서 돌고 도는 '맵단짠 칩킨' 출시!\nhttps://bit.ly/48DeHA6\n\n ▶ 1/17 (수) 단 하루, 무려 맵단짠 칩킨 6,000원 할인쿠폰을 받을 수 있다굽 ◀\nT멤버십 앱에서 쿠폰 다운로드 후, 요기요에서 쿠폰 등록하여 사용 가능 🤗\nhttps://bit.ly/4aN6QRW\n\n1/17 (수) ~ 1/19 (금) 단 3일간 사용 가능한 역.대.굽 할인쿠폰 놓치지 마세요!\n\n\n[총몇명 스튜디오]\n총감독 : 총몇명 / 부감독 : 즁즁 / 제작진행 : 스노유진 / 스토리보드 : 호빵 / 원동화 : 민수몬 / 편집 : 두빗 / 배경 : 지서클  / 기획 : 총몇명, Belli / 사운드 : 총몇명, 세인러문, 즁즁",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/CnLwteltY4g/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/CnLwteltY4g/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/CnLwteltY4g/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/CnLwteltY4g/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/CnLwteltY4g/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "총몇명",
+              "tags": [
+                  "총몇명",
+                  "굽네",
+                  "맵단짠칩킨",
+                  "ㅋㅋㅋ",
+                  "먹방",
+                  "MUKBANG",
+                  "치킨",
+                  "알바",
+                  "굽네알바"
+              ],
+              "categoryId": "1",
+              "liveBroadcastContent": "none",
+              "defaultLanguage": "ko",
+              "localized": {
+                  "title": "퇴근 후 혼밥러 - 굽네 맵단짠 칩킨 편",
+                  "description": "오늘도 시청해주셔서 감사드립니다♥\n본 컨텐츠는 굽네치킨의 지원을 받아 제작되었습니다!\n\n굽네에서 매콤, 달콤, 짭짤, 바삭! 다~하는 칩킨이 나왔다고?\n맵단짠이 입안에서 돌고 도는 '맵단짠 칩킨' 출시!\nhttps://bit.ly/48DeHA6\n\n ▶ 1/17 (수) 단 하루, 무려 맵단짠 칩킨 6,000원 할인쿠폰을 받을 수 있다굽 ◀\nT멤버십 앱에서 쿠폰 다운로드 후, 요기요에서 쿠폰 등록하여 사용 가능 🤗\nhttps://bit.ly/4aN6QRW\n\n1/17 (수) ~ 1/19 (금) 단 3일간 사용 가능한 역.대.굽 할인쿠폰 놓치지 마세요!\n\n\n[총몇명 스튜디오]\n총감독 : 총몇명 / 부감독 : 즁즁 / 제작진행 : 스노유진 / 스토리보드 : 호빵 / 원동화 : 민수몬 / 편집 : 두빗 / 배경 : 지서클  / 기획 : 총몇명, Belli / 사운드 : 총몇명, 세인러문, 즁즁"
+              },
+              "defaultAudioLanguage": "ko"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "R2XD4DjMvX9q7Xvo7PmIDsvIiUo",
-        "id": {
           "kind": "youtube#video",
-          "videoId": "zZqxPozl2Ec"
-        },
-        "snippet": {
-          "publishedAt": "2023-01-24T07:00:09Z",
-          "channelId": "UCEUYW6zm6KnUxPcwY1D8HsQ",
-          "title": "Surfing Massive Waves Waimea Bay (Jan 22, 2023)  4K",
-          "description": "What occurred on January 22, 2023, at Waimea Bay on the North Shore of Oahu is nothing short of historical. We're simply doing ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/zZqxPozl2Ec/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/zZqxPozl2Ec/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/zZqxPozl2Ec/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "Eimy’s Hawaii Happy life 🏄🏻",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-01-24T07:00:09Z"
-        }
+          "etag": "ETqvhlzAwll23McuFP-4EujDz8g",
+          "id": "D0f3JdLSsgw",
+          "snippet": {
+              "publishedAt": "2024-01-18T11:00:19Z",
+              "channelId": "UCstr4UR6WzsYUAA9ovVc9Qw",
+              "title": "주지원 & 민이수 먹짱 방어모임 vlog 🐟 | 주미웅니의 본캐를 폭로합니다 (feat. 이주빈) | 유남매 & 주민규 데이트❣️ | 이수에옹 ESU [ENG]",
+              "description": "여러분들 할룽 ㅎ_ㅎ \n11월에 했던 주지원 민이수 먹짱 방어모임 브이로그 입니당! 😽\n방어 방어 노래를 불렀던 터라 먹잘알 주미언니가 보물섬으로 데려가 줬어요 😉\n제가 너무나도 아끼고 사랑하는 주미언니와 보기만해도 든든한 저의 남자분들과 한 웃음이 끊이질 않았던 하루였습니다 :-)\n영상을 보시는 분들께도 저희의 에너지와 서로의 아끼는 마음까지 다 전해지는 브이로그가 된다면 좋겠네요!\n흠흠 많관부 ~ 🩷\n\n\n#vlog #주지원 #민이수 #브이로그 #유이수 #신민규 #이주미 #유지원 #heartsignal4 #하트시그널4 #esuyoo #yisoo\n\n❣️ Instagram: @eesuhy\n❣️ Business inquiry: contact.moou1@gmail.com\n❣️ 서울시 강남구 영동대로106길 17, 6층 유이수 담당자 앞",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/D0f3JdLSsgw/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/D0f3JdLSsgw/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/D0f3JdLSsgw/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/D0f3JdLSsgw/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/D0f3JdLSsgw/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "이수에옹 ESU",
+              "categoryId": "22",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "주지원 & 민이수 먹짱 방어모임 vlog 🐟 | 주미웅니의 본캐를 폭로합니다 (feat. 이주빈) | 유남매 & 주민규 데이트❣️ | 이수에옹 ESU [ENG]",
+                  "description": "여러분들 할룽 ㅎ_ㅎ \n11월에 했던 주지원 민이수 먹짱 방어모임 브이로그 입니당! 😽\n방어 방어 노래를 불렀던 터라 먹잘알 주미언니가 보물섬으로 데려가 줬어요 😉\n제가 너무나도 아끼고 사랑하는 주미언니와 보기만해도 든든한 저의 남자분들과 한 웃음이 끊이질 않았던 하루였습니다 :-)\n영상을 보시는 분들께도 저희의 에너지와 서로의 아끼는 마음까지 다 전해지는 브이로그가 된다면 좋겠네요!\n흠흠 많관부 ~ 🩷\n\n\n#vlog #주지원 #민이수 #브이로그 #유이수 #신민규 #이주미 #유지원 #heartsignal4 #하트시그널4 #esuyoo #yisoo\n\n❣️ Instagram: @eesuhy\n❣️ Business inquiry: contact.moou1@gmail.com\n❣️ 서울시 강남구 영동대로106길 17, 6층 유이수 담당자 앞"
+              },
+              "defaultAudioLanguage": "ko"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "h8ibn1DYArhw5RJGIBzn9vMNvZM",
-        "id": {
           "kind": "youtube#video",
-          "videoId": "ecmWtNU5QYQ"
-        },
-        "snippet": {
-          "publishedAt": "2024-01-13T18:53:14Z",
-          "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
-          "title": "Sierra Kerr vs Zoe Benedetto | SAMBAZON World Junior Championships Hosted by Best Western",
-          "description": "The SAMBAZON World Junior Championships hosted by Best Western showcase the most talented 20-and-under surfers in the ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/ecmWtNU5QYQ/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/ecmWtNU5QYQ/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/ecmWtNU5QYQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "World Surf League",
-          "liveBroadcastContent": "none",
-          "publishTime": "2024-01-13T18:53:14Z"
-        }
+          "etag": "ppK1winU6vAebzhcKNsWa0YUI0k",
+          "id": "aZRgTg6HAxo",
+          "snippet": {
+              "publishedAt": "2024-01-17T07:00:01Z",
+              "channelId": "UCicKQUi8h4NI81wDmrDBD4A",
+              "title": "미국인 아빠와 영어를 거부하는 체리, 이유를 알고 말문이 막혔어요",
+              "description": "[신간] 당도 100퍼센트의 행복]\n예스24 : https://bit.ly/40AzHEq\n알라딘 : https://bit.ly/46aZaFG\n교보문고 : https://bit.ly/3QXnAyi\n\n[올리버쌤 도서로 학습하기]\n(신간) 올리버쌤의 미국식아이영어습관365\nhttps://url.kr/udpt4h\n올리버쌤의 영어 회화 일력 365\nhttps://bit.ly/389tTbX\n올리버쌤의 영어 꿀팁\nhttp://bit.ly/2QigDck\n\n[인스타그램] \n올리버쌤 http://instagram.com/oliverkorea \n마님툰 http://instagram.com/manim_toon\n체리 http://instagram.com/cherry_bbobbo\n\n[네이버 웹툰]\nhttps://comic.naver.com/webtoon/list?titleId=814048\n\n[유기견 입양 신청 및 해외 이동봉사 문의]\n메일 2798catherine@gmail.com\n인스타 http://instagram.com/volunteer_abcd",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/aZRgTg6HAxo/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/aZRgTg6HAxo/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/aZRgTg6HAxo/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/aZRgTg6HAxo/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/aZRgTg6HAxo/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "올리버쌤",
+              "categoryId": "22",
+              "liveBroadcastContent": "none",
+              "defaultLanguage": "ko",
+              "localized": {
+                  "title": "미국인 아빠와 영어를 거부하는 체리, 이유를 알고 말문이 막혔어요",
+                  "description": "[신간] 당도 100퍼센트의 행복]\n예스24 : https://bit.ly/40AzHEq\n알라딘 : https://bit.ly/46aZaFG\n교보문고 : https://bit.ly/3QXnAyi\n\n[올리버쌤 도서로 학습하기]\n(신간) 올리버쌤의 미국식아이영어습관365\nhttps://url.kr/udpt4h\n올리버쌤의 영어 회화 일력 365\nhttps://bit.ly/389tTbX\n올리버쌤의 영어 꿀팁\nhttp://bit.ly/2QigDck\n\n[인스타그램] \n올리버쌤 http://instagram.com/oliverkorea \n마님툰 http://instagram.com/manim_toon\n체리 http://instagram.com/cherry_bbobbo\n\n[네이버 웹툰]\nhttps://comic.naver.com/webtoon/list?titleId=814048\n\n[유기견 입양 신청 및 해외 이동봉사 문의]\n메일 2798catherine@gmail.com\n인스타 http://instagram.com/volunteer_abcd"
+              },
+              "defaultAudioLanguage": "ko"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "zbZvRqi2QYj8uwD9PMzVNUNdvf4",
-        "id": {
           "kind": "youtube#video",
-          "videoId": "7hOeMR4ItiE"
-        },
-        "snippet": {
-          "publishedAt": "2023-12-23T08:00:51Z",
-          "channelId": "UCoicMEw3njXscfwHlaAJVcQ",
-          "title": "POV SURFING THE FAMOUS AUSSIE PIPELINE!!! (PERFECT TUBES)",
-          "description": "I finally surfed at the famous Aussie Pipe! I've been wanting to surf this wave my whole life. I hope you legends enjoy the video.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/7hOeMR4ItiE/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/7hOeMR4ItiE/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/7hOeMR4ItiE/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "Surfing With Noz",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-12-23T08:00:51Z"
-        }
+          "etag": "7oQ-JUAkoc3fHMWzvbDNgIdUBAE",
+          "id": "fis610G5ylI",
+          "snippet": {
+              "publishedAt": "2024-01-18T09:15:01Z",
+              "channelId": "UCtkRVaUSpkuhqdKv39oBXKA",
+              "title": "이지혜 집안 먹여살린 30년 보쌈 레시피 최초공개(30년노하우)",
+              "description": "관심이들 까꿍~❤\n\n유튜브 인생 3년동안 저희 친정엄마에게 제발 해달라고 설득하고 설득했던 보쌈 김치 비법!!!!! \n보쌈 김치 장인의 30년 노하우를 드디어 공개합니다ㅋㅋㅋㅋ\n\n30년전 찐 원할머니에게 전수받은 비법!!\n제가 유학생물 먹을 수 있게 도와준 엄청난 보쌈 김치 레시피 입니다ㅋㅋㅋㅋㅋㅋ\n안보면 후회합니다!!ㅋㅋㅋㅋㅋ\n오늘도 많관부!!!!!!!\n\n참고로 \n엄마가 본인얼굴 많이 나오는거 별로 안좋아하셔서 최대한 편집했어용 \nㅋㅋ\n얼굴은 집중해서 보지 말아주세요 ㅋㅋㅋㅋㅋ\n73세 할머니의 바램이십니다 ㅋㅋ\n\n재밌게 보셨다면~~\n좋아요, 구독, 알림 설정 필수!\n고고띵!\n\n#밉지않은관종언니 #이지혜 #보쌈김치",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/fis610G5ylI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/fis610G5ylI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/fis610G5ylI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/fis610G5ylI/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/fis610G5ylI/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "밉지않은 관종언니",
+              "tags": [
+                  "이지혜",
+                  "밉지않은 관종언니",
+                  "밉관",
+                  "큰태리",
+                  "문재완",
+                  "이지혜 문재완",
+                  "문태리",
+                  "문엘리",
+                  "작은태리",
+                  "엘리",
+                  "관종언니",
+                  "밉지않은관종언니",
+                  "관종언니 이지혜",
+                  "동상이몽 이지혜",
+                  "동상이몽",
+                  "관종 이지혜",
+                  "이지혜 관종",
+                  "관심이",
+                  "돌싱글즈",
+                  "이지혜 노래",
+                  "밉지않은관종",
+                  "이지혜 태리",
+                  "보쌈김치",
+                  "김치레시피",
+                  "보쌈레시피",
+                  "보쌈",
+                  "김치 보쌈",
+                  "이지혜 요리",
+                  "이지혜 보쌈집"
+              ],
+              "categoryId": "22",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "이지혜 집안 먹여살린 30년 보쌈 레시피 최초공개(30년노하우)",
+                  "description": "관심이들 까꿍~❤\n\n유튜브 인생 3년동안 저희 친정엄마에게 제발 해달라고 설득하고 설득했던 보쌈 김치 비법!!!!! \n보쌈 김치 장인의 30년 노하우를 드디어 공개합니다ㅋㅋㅋㅋ\n\n30년전 찐 원할머니에게 전수받은 비법!!\n제가 유학생물 먹을 수 있게 도와준 엄청난 보쌈 김치 레시피 입니다ㅋㅋㅋㅋㅋㅋ\n안보면 후회합니다!!ㅋㅋㅋㅋㅋ\n오늘도 많관부!!!!!!!\n\n참고로 \n엄마가 본인얼굴 많이 나오는거 별로 안좋아하셔서 최대한 편집했어용 \nㅋㅋ\n얼굴은 집중해서 보지 말아주세요 ㅋㅋㅋㅋㅋ\n73세 할머니의 바램이십니다 ㅋㅋ\n\n재밌게 보셨다면~~\n좋아요, 구독, 알림 설정 필수!\n고고띵!\n\n#밉지않은관종언니 #이지혜 #보쌈김치"
+              },
+              "defaultAudioLanguage": "ko"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "dl0mnryXlyxfVEUlN9vH_24Kzi8",
-        "id": {
-          "kind": "youtube#channel",
-          "channelId": "UC3DIR1s_jw1wr4p4wWg7JGQ"
-        },
-        "snippet": {
-          "publishedAt": "2021-09-26T00:36:17Z",
-          "channelId": "UC3DIR1s_jw1wr4p4wWg7JGQ",
-          "title": "Raw Surfing",
-          "description": "",
-          "thumbnails": {
-            "default": {
-              "url": "https://yt3.ggpht.com/CB7KEy_n9i65XUxaN9-DDGl5fhMvEfgH7E_ZVpsLvQ30R9YYrSGdfQXZm_l_JzYsIPtn18LRJg=s88-c-k-c0xffffffff-no-rj-mo"
-            },
-            "medium": {
-              "url": "https://yt3.ggpht.com/CB7KEy_n9i65XUxaN9-DDGl5fhMvEfgH7E_ZVpsLvQ30R9YYrSGdfQXZm_l_JzYsIPtn18LRJg=s240-c-k-c0xffffffff-no-rj-mo"
-            },
-            "high": {
-              "url": "https://yt3.ggpht.com/CB7KEy_n9i65XUxaN9-DDGl5fhMvEfgH7E_ZVpsLvQ30R9YYrSGdfQXZm_l_JzYsIPtn18LRJg=s800-c-k-c0xffffffff-no-rj-mo"
-            }
-          },
-          "channelTitle": "Raw Surfing",
-          "liveBroadcastContent": "none",
-          "publishTime": "2021-09-26T00:36:17Z"
-        }
+          "kind": "youtube#video",
+          "etag": "0F_z63NPG3I9poWptdaRvbCPJn4",
+          "id": "eE0Op-IKnYE",
+          "snippet": {
+              "publishedAt": "2024-01-17T10:00:33Z",
+              "channelId": "UCUj6rrhMTR9pipbAWBAMvUQ",
+              "title": "침착맨의 새로운 생방송 플랫폼",
+              "description": "▶같이 보면 좋은 추천 영상\nhttps://youtu.be/kCEHSguvnoM?si=EkrcRDFkT6ccJ5e7\n\n▶'침착맨의 일상재롱' 모아보기\nhttps://www.youtube.com/playlist?list=PLif_jr7pPZAASWh1-PVn4UZHsjzDO99z3\n\n▶이 영상의 생방송 원본\n  •2024년 1월 17일 방송분: https://www.youtube.com/live/kRP9ySosB40?si=aXNj5Giv499BUWKg\n\n오토김밥 - 오토콤비: 10,000원\n\n#침착맨 #플랫폼 #치지직 #아프리카TV #유튜브 #트위치",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/eE0Op-IKnYE/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/eE0Op-IKnYE/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/eE0Op-IKnYE/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/eE0Op-IKnYE/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/eE0Op-IKnYE/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "침착맨",
+              "categoryId": "24",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "침착맨의 새로운 생방송 플랫폼",
+                  "description": "▶같이 보면 좋은 추천 영상\nhttps://youtu.be/kCEHSguvnoM?si=EkrcRDFkT6ccJ5e7\n\n▶'침착맨의 일상재롱' 모아보기\nhttps://www.youtube.com/playlist?list=PLif_jr7pPZAASWh1-PVn4UZHsjzDO99z3\n\n▶이 영상의 생방송 원본\n  •2024년 1월 17일 방송분: https://www.youtube.com/live/kRP9ySosB40?si=aXNj5Giv499BUWKg\n\n오토김밥 - 오토콤비: 10,000원\n\n#침착맨 #플랫폼 #치지직 #아프리카TV #유튜브 #트위치"
+              },
+              "defaultAudioLanguage": "ko"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "Khlpr87Bl8a93Wlb91VxiurvWDM",
-        "id": {
           "kind": "youtube#video",
-          "videoId": "j1AQ_s-y52M"
-        },
-        "snippet": {
-          "publishedAt": "2022-07-16T19:00:13Z",
-          "channelId": "UCvOh9i-BOFzu51rpj33fGag",
-          "title": "7 tips to transition from beginner to intermediate | How to Surf",
-          "description": "In this video, we break down our 7 best tips on how to transition from Beginner to Intermediate faster. 00:00 Intro 00:24 Surf The ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/j1AQ_s-y52M/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/j1AQ_s-y52M/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/j1AQ_s-y52M/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "Barefoot Surf",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-07-16T19:00:13Z"
-        }
+          "etag": "ikhTdFkZNnE549wUpOKHDRjsG_4",
+          "id": "xU8mQMLx0tk",
+          "snippet": {
+              "publishedAt": "2024-01-19T00:00:11Z",
+              "channelId": "UC-Fnix71vRP64WXeo0ikd0Q",
+              "title": "IVE 아이브 'All Night (Feat. Saweetie)' Official Music Video",
+              "description": "IVE 아이브 'All Night (Feat. Saweetie)' Official Music Video\n\nListen to & Download \"All Night\" out now: https://ive.lnk.to/AllNight\n \nAmazon Music: https://ive.lnk.to/AllNight/AmazonMusic\nApple Music: https://ive.lnk.to/AllNight/AppleMusic\niTunes: https://ive.lnk.to/AllNight/iTunes\nPandora: https://ive.lnk.to/AllNight/Pandora\nSoundcloud: https://ive.lnk.to/AllNight/Soundcloud\nSpotify: https://ive.lnk.to/AllNight/Spotify\nYouTube Music: https://ive.lnk.to/AllNight/YouTubeMusic\nYouTube: https://ive.lnk.to/AllNight/YouTube\n \nFollow IVE:\nhttps://fb.me/IVEstarship\nhttps://twitter.com/IVEstarship\nhttps://www.tiktok.com/@IVE.official\nhttps://www.instagram.com/IVEstarship\nhttps://www.youtube.com/@IVEstarship\nhttps://discord.com/invite/ivestarship\n \nFollow Saweetie:\nhttps://www.facebook.com/Saweetie\nhttps://twitter.com/saweetie\nhttps://www.tiktok.com/@saweetie\nhttps://www.instagram.com/saweetie\nhttps://www.youtube.com/@OfficialSaweetieMusic\n \nCredits:\nDirected by: Charlotte Rutherford & Crystalline\nAgent Charlotte Rutherford: SN37 Agency\nAgent Crystalline: SELECT Management Group\n \nProduction Company: LEFT \nMusic Video Rep: LARK CREATIVE\n \nExecutive Producers: Boris Labourguigne & Benjamin Bernard\nCommissioner: Bryan Younce\nCreative Producer: Adam Armesto\nProducers: Fabien Colas & Malcolm Duncan\nProduction Manager: Wyatt Whitaker\n \n1st AD: Parker McMillan\n2nd AD: Andrea Quinonez\n2nd 2nd AD: Justine Kwon\n \nDirector of Photography: Rob Witt\nB Camera Operator: Zachary Shea\n1st AC: Patrick Bensimmon \n2nd AC: Mike Prior\nVTR: Ryan Steward\nCamera PA: Marco Apun\n \nGaffer: Tate McCurdy\nKey Grip: Charles Lenz\nBBE: Evan Gering\nBBG: Andy Wilson\nElectric: Wei \"Colvin\" Ang\nElectric: Mayur Patankar\nGrip: David Gonzalez\nGrip: Kenneth Coblentz\n \nProduction Designer: Kendra Bradanini\nSet Decorator: Ashley Kron\nProp Master: Hannah Olsen\nSet Dresser: Day Hernandez\nSet Dresser: Joshua Taylor\nSet Dresser: Lauren Dunn\nSet Dresser: Heather Whitesides\n \nWardrobe Stylist (BG): Sakinah Bashir \n \nEditor: Natalie Wozniak\nColorist: Dylan Hageman\nVFX: Thermonuclear\nBeauty: Lucas Latil\n \nSet Medic: Marco Galluccio\nGang Boss: Matt Sully O'Sullivan\nCasting Director: Copelan Cash\n \nAD PA: Frank Pfiefer\nClient PA: Gilbert Villa\nTruck PA’s: Marcel Sorzal, David Johnson, Jonathan Davis\nPA: Joel Montgomery\nPA: Andrew Preimesberger\nPA: Ryan Lane\n \nLyrics:\nWe always dreamed about this better life, this better life\nWe always felt it coming all along, yeah, all along\nWe've got the keys to open paradise, yeah, paradise\nNow let's go walking hand in hand\nCome on, baby, we can hit the lights, make the wrongs turn right\nWe can smash the clock, make the pop go rock\nWith the love this deep, we don't need no sleep\nAnd it feels like\nWe could do this all night\nWe could do this all night\nYeah, everything is alright\nWe've got the keys to open paradise, yeah, paradise\nIt feels like\nWe could do this all night\nWe could do this all night\n \nWe could do this all night\n \nI been dreamin’ ‘bout this memory\nFeels like we could do this for centuries\nWe’re in harmony\nFollow the melody\nGot me fallin’ very deep\nWith you I feel clarity\n \nGot me speedin’ through the city like “woo”\nYou shot yo’ shot and it sounded like “coo”\nLookin’ at the stars what a nice view\nWhere the gummies at tryna catch a vibe with you\nAye coming through the spot with my icy girls\nRed lips Birkin bag in the newest Manolos\nAll my baddies get the bag I ain’t ****** with dodos\nBaddest ***** online but I look better than my photos\nUh put yo’ lighters up throwing dirt on my name make ‘em bite the dust\nYeah it’s Diamonte with the diamond cuts\nWe can go all night we ain’t gotta rush aye\n \nWe can hit the lights, make the wrongs turn right\nWe can smash the clock, make the pop go rock\nWith the love this deep, we don't need no sleep\nAnd it feels like\nWe could do this all night\nWe could do this all night\nYeah, everything is alright\nWe've got the keys to open paradise, yeah, paradise\nIt feels like\nWe could do this all night\nWe could do this all night\n \nCome on, baby, we can hit the lights, make the wrongs turn right\nWe can smash the clock, make the pop go rock\nWith the love this deep, we don't need no sleep\nAnd it feels like\nWe could do this all night\nWe could do this all night\nYeah, everything is alright\nWe've got the keys to open paradise, yeah, paradise\nIt feels like\nWe could do this all night\n \n#IVE #아이브 #IVExSaweetie #IVEAllNight #AllNight #PopGoRock",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/xU8mQMLx0tk/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/xU8mQMLx0tk/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/xU8mQMLx0tk/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/xU8mQMLx0tk/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/xU8mQMLx0tk/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "IVE",
+              "tags": [
+                  "Kpop",
+                  "girl group",
+                  "Starshiptv",
+                  "starship",
+                  "뮤비",
+                  "MV",
+                  "Teaser",
+                  "신곡",
+                  "new",
+                  "song",
+                  "한류",
+                  "idol",
+                  "hallyu",
+                  "ロエン",
+                  "ミュージック",
+                  "ミュージックビデオ",
+                  "アイドル",
+                  "韓流",
+                  "韓国",
+                  "아이돌",
+                  "아이브",
+                  "IVE",
+                  "アイヴ",
+                  "유진",
+                  "원영",
+                  "가을",
+                  "레이",
+                  "리즈",
+                  "이서",
+                  "GAEUL",
+                  "REI",
+                  "LIZ",
+                  "LEESEO",
+                  "ユジン",
+                  "ガウル",
+                  "レイ",
+                  "ウォニョン",
+                  "リズ",
+                  "イソ",
+                  "일레븐",
+                  "eleven",
+                  "take it",
+                  "dive",
+                  "다이브",
+                  "behind",
+                  "아이브온",
+                  "IVE ON",
+                  "비하인드",
+                  "러브다이브",
+                  "LOVE DIVE",
+                  "After LIKE",
+                  "애프터라이크",
+                  "Kitsch",
+                  "키치",
+                  "I AM",
+                  "안유진",
+                  "장원영",
+                  "ANYUJIN",
+                  "JANGWONYOUNG",
+                  "아이엠",
+                  "Either Way",
+                  "이더웨이",
+                  "Off The Record",
+                  "오프더레코드",
+                  "Baddie",
+                  "배디",
+                  "All Night",
+                  "올나잇",
+                  "아이브 올나잇",
+                  "IVE All Night"
+              ],
+              "categoryId": "24",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "IVE 아이브 'All Night (Feat. Saweetie)' Official Music Video",
+                  "description": "IVE 아이브 'All Night (Feat. Saweetie)' Official Music Video\n\nListen to & Download \"All Night\" out now: https://ive.lnk.to/AllNight\n \nAmazon Music: https://ive.lnk.to/AllNight/AmazonMusic\nApple Music: https://ive.lnk.to/AllNight/AppleMusic\niTunes: https://ive.lnk.to/AllNight/iTunes\nPandora: https://ive.lnk.to/AllNight/Pandora\nSoundcloud: https://ive.lnk.to/AllNight/Soundcloud\nSpotify: https://ive.lnk.to/AllNight/Spotify\nYouTube Music: https://ive.lnk.to/AllNight/YouTubeMusic\nYouTube: https://ive.lnk.to/AllNight/YouTube\n \nFollow IVE:\nhttps://fb.me/IVEstarship\nhttps://twitter.com/IVEstarship\nhttps://www.tiktok.com/@IVE.official\nhttps://www.instagram.com/IVEstarship\nhttps://www.youtube.com/@IVEstarship\nhttps://discord.com/invite/ivestarship\n \nFollow Saweetie:\nhttps://www.facebook.com/Saweetie\nhttps://twitter.com/saweetie\nhttps://www.tiktok.com/@saweetie\nhttps://www.instagram.com/saweetie\nhttps://www.youtube.com/@OfficialSaweetieMusic\n \nCredits:\nDirected by: Charlotte Rutherford & Crystalline\nAgent Charlotte Rutherford: SN37 Agency\nAgent Crystalline: SELECT Management Group\n \nProduction Company: LEFT \nMusic Video Rep: LARK CREATIVE\n \nExecutive Producers: Boris Labourguigne & Benjamin Bernard\nCommissioner: Bryan Younce\nCreative Producer: Adam Armesto\nProducers: Fabien Colas & Malcolm Duncan\nProduction Manager: Wyatt Whitaker\n \n1st AD: Parker McMillan\n2nd AD: Andrea Quinonez\n2nd 2nd AD: Justine Kwon\n \nDirector of Photography: Rob Witt\nB Camera Operator: Zachary Shea\n1st AC: Patrick Bensimmon \n2nd AC: Mike Prior\nVTR: Ryan Steward\nCamera PA: Marco Apun\n \nGaffer: Tate McCurdy\nKey Grip: Charles Lenz\nBBE: Evan Gering\nBBG: Andy Wilson\nElectric: Wei \"Colvin\" Ang\nElectric: Mayur Patankar\nGrip: David Gonzalez\nGrip: Kenneth Coblentz\n \nProduction Designer: Kendra Bradanini\nSet Decorator: Ashley Kron\nProp Master: Hannah Olsen\nSet Dresser: Day Hernandez\nSet Dresser: Joshua Taylor\nSet Dresser: Lauren Dunn\nSet Dresser: Heather Whitesides\n \nWardrobe Stylist (BG): Sakinah Bashir \n \nEditor: Natalie Wozniak\nColorist: Dylan Hageman\nVFX: Thermonuclear\nBeauty: Lucas Latil\n \nSet Medic: Marco Galluccio\nGang Boss: Matt Sully O'Sullivan\nCasting Director: Copelan Cash\n \nAD PA: Frank Pfiefer\nClient PA: Gilbert Villa\nTruck PA’s: Marcel Sorzal, David Johnson, Jonathan Davis\nPA: Joel Montgomery\nPA: Andrew Preimesberger\nPA: Ryan Lane\n \nLyrics:\nWe always dreamed about this better life, this better life\nWe always felt it coming all along, yeah, all along\nWe've got the keys to open paradise, yeah, paradise\nNow let's go walking hand in hand\nCome on, baby, we can hit the lights, make the wrongs turn right\nWe can smash the clock, make the pop go rock\nWith the love this deep, we don't need no sleep\nAnd it feels like\nWe could do this all night\nWe could do this all night\nYeah, everything is alright\nWe've got the keys to open paradise, yeah, paradise\nIt feels like\nWe could do this all night\nWe could do this all night\n \nWe could do this all night\n \nI been dreamin’ ‘bout this memory\nFeels like we could do this for centuries\nWe’re in harmony\nFollow the melody\nGot me fallin’ very deep\nWith you I feel clarity\n \nGot me speedin’ through the city like “woo”\nYou shot yo’ shot and it sounded like “coo”\nLookin’ at the stars what a nice view\nWhere the gummies at tryna catch a vibe with you\nAye coming through the spot with my icy girls\nRed lips Birkin bag in the newest Manolos\nAll my baddies get the bag I ain’t ****** with dodos\nBaddest ***** online but I look better than my photos\nUh put yo’ lighters up throwing dirt on my name make ‘em bite the dust\nYeah it’s Diamonte with the diamond cuts\nWe can go all night we ain’t gotta rush aye\n \nWe can hit the lights, make the wrongs turn right\nWe can smash the clock, make the pop go rock\nWith the love this deep, we don't need no sleep\nAnd it feels like\nWe could do this all night\nWe could do this all night\nYeah, everything is alright\nWe've got the keys to open paradise, yeah, paradise\nIt feels like\nWe could do this all night\nWe could do this all night\n \nCome on, baby, we can hit the lights, make the wrongs turn right\nWe can smash the clock, make the pop go rock\nWith the love this deep, we don't need no sleep\nAnd it feels like\nWe could do this all night\nWe could do this all night\nYeah, everything is alright\nWe've got the keys to open paradise, yeah, paradise\nIt feels like\nWe could do this all night\n \n#IVE #아이브 #IVExSaweetie #IVEAllNight #AllNight #PopGoRock"
+              },
+              "defaultAudioLanguage": "ko"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "zA6ws8AmbP7dLOwblflJmWLrDME",
-        "id": {
           "kind": "youtube#video",
-          "videoId": "a2NxgF2aSDw"
-        },
-        "snippet": {
-          "publishedAt": "2022-08-22T07:30:02Z",
-          "channelId": "UCOtHosOqPe9d6vLy-8LfHzQ",
-          "title": "Kelis Kaleopaa surfing at Sayulita during Mexi Log Fest 2022 | Highlight from the RAW DAYS",
-          "description": "Mexi Log Fest 2022 with stylish loggers around the world. Footage by Heiko Bothe. Full edit: ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/a2NxgF2aSDw/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/a2NxgF2aSDw/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/a2NxgF2aSDw/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "NobodySurf : Surfing Videos",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-08-22T07:30:02Z"
-        }
+          "etag": "msY64Qj9nm5kuj6ne2jR3LIdWXM",
+          "id": "2MtjHPLiQNA",
+          "snippet": {
+              "publishedAt": "2024-01-17T18:00:01Z",
+              "channelId": "UCB11SAf7WSN4GrCquKoOHrw",
+              "title": "실시간 전화 통역 이게 진짜 되네요ㄷㄷ 미친AI 품고 돌아온 갤럭시S24 시리즈 실물 후기",
+              "description": "실물보니까 역대 갤럭시 중에 제일 예쁜듯..  새롭게 추가된 Ai 기능들까지 자세하게 살펴봤습니다실물보니까 역대 갤럭시 중에 제일 예쁜듯..  새롭게 추가된 Ai 기능들까지 자세하게 살펴봤습니다🤩\n\n✅ 쿠팡 갤럭시S24: https://link.coupang.com/a/bnmblt\n\n✅ 쿠팡에서 아무거나 사러가기: https://link.coupang.com/a/bkrL0A\n\n-위 링크로 제품을 구매하면 소정의 수수료를 받아 채널 운영에 도움이 됩니다\n\n\n🤍인스타그램: https://www.instagram.com/zuyoni/\n\n※ 본 제품의 기능, 성능, 디자인, 가격, 구성요소 등에 관한 사양은 양산과 출시 과정에서 변경될 수 있습니다.\n\n00:00 오프닝\n01:01 외관\n07:55 디스플레이\n09:23 실시간 통역\n11:07 서클 투 서치\n15:40 텍스트 변환 어시스트\n17:36 카메라&AI 편집\n21:52 마무리\n\n-제작: 주연 / 편집: 안희라, 이동환\n-비즈니스: business@zuyoni.com\n\n-해당 영상은 영리 목적으로 사용하실 수 없습니다.\n-비영리 목적으로 사용시에도 반드시 출처와 영상 링크 남겨주세요:)\n.\n.\n-Tag: #갤럭시s24 #갤럭시 #갤럭시s24울트라\n#주연 #테크유튜버 #주연리뷰 #IT리뷰",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/2MtjHPLiQNA/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/2MtjHPLiQNA/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/2MtjHPLiQNA/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/2MtjHPLiQNA/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/2MtjHPLiQNA/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "주연 ZUYONI",
+              "tags": [
+                  "주연",
+                  "아이폰",
+                  "갤럭시",
+                  "맥북",
+                  "스마트폰",
+                  "테크리뷰",
+                  "테크유튜버",
+                  "IT리뷰",
+                  "전자기기",
+                  "IT유튜버",
+                  "갤럭시S24",
+                  "Galaxy S24",
+                  "Galaxy S24 Ultra",
+                  "Galaxy S24+"
+              ],
+              "categoryId": "28",
+              "liveBroadcastContent": "none",
+              "defaultLanguage": "ko",
+              "localized": {
+                  "title": "실시간 전화 통역 이게 진짜 되네요ㄷㄷ 미친AI 품고 돌아온 갤럭시S24 시리즈 실물 후기",
+                  "description": "실물보니까 역대 갤럭시 중에 제일 예쁜듯..  새롭게 추가된 Ai 기능들까지 자세하게 살펴봤습니다실물보니까 역대 갤럭시 중에 제일 예쁜듯..  새롭게 추가된 Ai 기능들까지 자세하게 살펴봤습니다🤩\n\n✅ 쿠팡 갤럭시S24: https://link.coupang.com/a/bnmblt\n\n✅ 쿠팡에서 아무거나 사러가기: https://link.coupang.com/a/bkrL0A\n\n-위 링크로 제품을 구매하면 소정의 수수료를 받아 채널 운영에 도움이 됩니다\n\n\n🤍인스타그램: https://www.instagram.com/zuyoni/\n\n※ 본 제품의 기능, 성능, 디자인, 가격, 구성요소 등에 관한 사양은 양산과 출시 과정에서 변경될 수 있습니다.\n\n00:00 오프닝\n01:01 외관\n07:55 디스플레이\n09:23 실시간 통역\n11:07 서클 투 서치\n15:40 텍스트 변환 어시스트\n17:36 카메라&AI 편집\n21:52 마무리\n\n-제작: 주연 / 편집: 안희라, 이동환\n-비즈니스: business@zuyoni.com\n\n-해당 영상은 영리 목적으로 사용하실 수 없습니다.\n-비영리 목적으로 사용시에도 반드시 출처와 영상 링크 남겨주세요:)\n.\n.\n-Tag: #갤럭시s24 #갤럭시 #갤럭시s24울트라\n#주연 #테크유튜버 #주연리뷰 #IT리뷰"
+              },
+              "defaultAudioLanguage": "ko"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "3zqn6RoQHOSL-LO7RXuV3x53o4w",
-        "id": {
           "kind": "youtube#video",
-          "videoId": "dvUSm5Q2zFU"
-        },
-        "snippet": {
-          "publishedAt": "2024-01-13T21:28:29Z",
-          "channelId": "UCTYHNSWYy4jCSCj1Q1Fq0ew",
-          "title": "Burleigh Heads Single Fin Festival - 2024",
-          "description": "And just like that the Burleigh Heads Single Fin Festival is a wrap for 2024. No amount of rain or weather could stop the vibes on ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/dvUSm5Q2zFU/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/dvUSm5Q2zFU/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/dvUSm5Q2zFU/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "Billabong",
-          "liveBroadcastContent": "none",
-          "publishTime": "2024-01-13T21:28:29Z"
-        }
+          "etag": "dS4lCMlgKh7SdFURtpdb_AfHU48",
+          "id": "AaTei1VrAZs",
+          "snippet": {
+              "publishedAt": "2024-01-18T08:00:08Z",
+              "channelId": "UCtybqqaTj6Nx74Azdz1KrsA",
+              "title": "[2023 AFC 아시안컵 카타르] 오늘의 아시안컵 6회",
+              "description": "[2023 AFC 아시안컵 카타르] 오늘의 아시안컵 6회\n\n시리아 vs 호주 오늘(목) 저녁 08시 30분 tvN SPORTS LIVE🔥\n우즈베키스탄 vs 인도 오늘(목) 저녁 11시 30분 tvN SPORTS LIVE🔥\n팔레스타인 vs UAE 내일(금) 새벽 02시 30분 tvN SPORTS LIVE🔥\n\n*아시안컵 경기 일정 \n24년 1월 13일 (토) ~ 24년 2월 11일 (일)",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/AaTei1VrAZs/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/AaTei1VrAZs/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/AaTei1VrAZs/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/AaTei1VrAZs/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/AaTei1VrAZs/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "tvN SPORTS",
+              "tags": [
+                  "AFC",
+                  "Coupangplay",
+                  "FC서울",
+                  "KFATV",
+                  "Kim",
+                  "PSG",
+                  "SMG",
+                  "SPOTV",
+                  "Sonny",
+                  "r김진짜",
+                  "강원FC",
+                  "광주FC",
+                  "국가대표",
+                  "김민재",
+                  "김승규",
+                  "김영원",
+                  "김주성",
+                  "김지수",
+                  "김진수",
+                  "김태환",
+                  "달수네라이브",
+                  "대구FC",
+                  "대전하나시티즌",
+                  "대한민국",
+                  "대한민국국대",
+                  "대한민국축구",
+                  "동현kldh",
+                  "리춘수",
+                  "문선민",
+                  "뭉쳐야찬다",
+                  "뮌헨",
+                  "바이에른뮌헨",
+                  "박문성",
+                  "박용우",
+                  "박지성",
+                  "박진섭양현준",
+                  "박축공",
+                  "배성재",
+                  "베트남",
+                  "서형욱",
+                  "설영우",
+                  "손흥민",
+                  "송범근",
+                  "수원FC",
+                  "수원삼성블루윙즈",
+                  "슛포러브",
+                  "스브스스포츠",
+                  "스포츠머그",
+                  "스포타임",
+                  "스포티비",
+                  "아시안컵",
+                  "안정환",
+                  "오현규",
+                  "울버햄튼",
+                  "울브스",
+                  "울산현대",
+                  "이강인",
+                  "이거해조원희형",
+                  "이기제",
+                  "이라크",
+                  "이란",
+                  "이순민",
+                  "이재성",
+                  "이천수",
+                  "인천유나이티드",
+                  "일본",
+                  "잇으우",
+                  "전북현대",
+                  "전북현대모터스",
+                  "정승현",
+                  "정우영",
+                  "제주유나이티드",
+                  "조규성",
+                  "조현우",
+                  "중국",
+                  "축구",
+                  "축구국대",
+                  "카타르",
+                  "카타르아시안컵",
+                  "쿠팡플레이",
+                  "클린스만",
+                  "클린스만호",
+                  "토트넘",
+                  "파링생제르맹",
+                  "포항스틸러스",
+                  "한국",
+                  "한국축구",
+                  "호주",
+                  "홍현석",
+                  "황인범",
+                  "황희찬"
+              ],
+              "categoryId": "17",
+              "liveBroadcastContent": "none",
+              "defaultLanguage": "ko",
+              "localized": {
+                  "title": "[2023 AFC 아시안컵 카타르] 오늘의 아시안컵 6회",
+                  "description": "[2023 AFC 아시안컵 카타르] 오늘의 아시안컵 6회\n\n시리아 vs 호주 오늘(목) 저녁 08시 30분 tvN SPORTS LIVE🔥\n우즈베키스탄 vs 인도 오늘(목) 저녁 11시 30분 tvN SPORTS LIVE🔥\n팔레스타인 vs UAE 내일(금) 새벽 02시 30분 tvN SPORTS LIVE🔥\n\n*아시안컵 경기 일정 \n24년 1월 13일 (토) ~ 24년 2월 11일 (일)"
+              },
+              "defaultAudioLanguage": "ko"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "HtdFBLvWBJFeSIliY9f1rQlfQgU",
-        "id": {
           "kind": "youtube#video",
-          "videoId": "IDB0U-eqJ8s"
-        },
-        "snippet": {
-          "publishedAt": "2023-03-27T18:00:07Z",
-          "channelId": "UCm9NnEJTi7_B86QWgQiUCJA",
-          "title": "An AMAZING surf session! #shorts",
-          "description": "In this awe-inspiring YouTube video, we explore the amazing and rare experience of surfing and how it can positively impact ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/IDB0U-eqJ8s/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/IDB0U-eqJ8s/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/IDB0U-eqJ8s/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "Koa Smith",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-03-27T18:00:07Z"
-        }
+          "etag": "ZXKkv9yOJ0UDHcOQpRooO3mE-mE",
+          "id": "_pZ67Wqm9XA",
+          "snippet": {
+              "publishedAt": "2024-01-18T23:00:31Z",
+              "channelId": "UCAhKKbDO9-ymWZ_7iAFLBQQ",
+              "title": "입양한 유기견이 갑자기 출산?! 뜻밖의 새로운 가족의 탄생 🐾✨ | KBS 생생정보통 2012 방송",
+              "description": "여우야, 고생 많았어 🥺🥹\n\n시골에서 아버지와 함께 동물병원을 운영하는 초보 수의사🩺\n👉 https://youtu.be/ovYfrSy_TQk?feature=shared\n\n**출연진을 향한 심한 욕설은 사전 예고 없이 삭제될 수 있습니다.\n\n※ 회차 정보 : 주주클럽 (2012.05.01., 2012.05.09. 방송)\n#개 #강아지 #애니멀포유 #주주클럽레전드 #주주클럽 #레전드 #반려견 #베스트 #개 #견공 #반려동물 #동물 #동물티비 #동물예능 #동물다큐 #코미디 #애니멀 #유기견 #사지말고입양하세요 #입양 #버리지마세요",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/_pZ67Wqm9XA/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/_pZ67Wqm9XA/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/_pZ67Wqm9XA/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/_pZ67Wqm9XA/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/_pZ67Wqm9XA/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "KBS동물티비 : 애니멀포유 animal4u",
+              "tags": [
+                  "애니멀포유",
+                  "animal4u",
+                  "kbs동물",
+                  "동물채널",
+                  "강아지",
+                  "고양이",
+                  "사자",
+                  "백호",
+                  "늑대",
+                  "dog",
+                  "cat",
+                  "개는 훌륭하다",
+                  "개훌륭",
+                  "강형욱",
+                  "개는 훌륭하다 강형욱",
+                  "aggressive dog",
+                  "개훌륭 역대급",
+                  "주주클럽",
+                  "스펀지",
+                  "단짝",
+                  "동물다큐",
+                  "야생동물",
+                  "동물 다큐멘터리",
+                  "골든 레트리버",
+                  "포메라니안",
+                  "보더콜리",
+                  "사파리",
+                  "애니멀봐",
+                  "댕댕이",
+                  "동물",
+                  "귀여움",
+                  "kbs",
+                  "무한리필샐러드",
+                  "추천",
+                  "멧돼지",
+                  "멧돼지할아버지",
+                  "악어",
+                  "멧돼지아저씨",
+                  "애니멀포유멧돼지",
+                  "신기",
+                  "오랑이",
+                  "오랑우탄",
+                  "보라",
+                  "위기탈출넘버원",
+                  "위탈넘",
+                  "햄스터",
+                  "동물실험"
+              ],
+              "categoryId": "15",
+              "liveBroadcastContent": "none",
+              "defaultLanguage": "en",
+              "localized": {
+                  "title": "입양한 유기견이 갑자기 출산?! 뜻밖의 새로운 가족의 탄생 🐾✨ | KBS 생생정보통 2012 방송",
+                  "description": "여우야, 고생 많았어 🥺🥹\n\n시골에서 아버지와 함께 동물병원을 운영하는 초보 수의사🩺\n👉 https://youtu.be/ovYfrSy_TQk?feature=shared\n\n**출연진을 향한 심한 욕설은 사전 예고 없이 삭제될 수 있습니다.\n\n※ 회차 정보 : 주주클럽 (2012.05.01., 2012.05.09. 방송)\n#개 #강아지 #애니멀포유 #주주클럽레전드 #주주클럽 #레전드 #반려견 #베스트 #개 #견공 #반려동물 #동물 #동물티비 #동물예능 #동물다큐 #코미디 #애니멀 #유기견 #사지말고입양하세요 #입양 #버리지마세요"
+              },
+              "defaultAudioLanguage": "ko"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "9Sqwi_Jb6vEMuRP7eLxL8tWXVT4",
-        "id": {
           "kind": "youtube#video",
-          "videoId": "T555ZCoeRKw"
-        },
-        "snippet": {
-          "publishedAt": "2024-01-07T15:00:23Z",
-          "channelId": "UC4qa5EroJxnQM6Sng9WhgsQ",
-          "title": "Historic &quot;Day of the Decade&quot; Surf at La Jolla Cove, San DIego",
-          "description": "It's not often you experience the \"day of the decade\" surf at any spot, let alone the world renown big wave novelty of La Jolla Cove ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/T555ZCoeRKw/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/T555ZCoeRKw/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/T555ZCoeRKw/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "Ben Gravy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2024-01-07T15:00:23Z"
-        }
+          "etag": "UGjbrZqmxSRehuuP0aaaJwG3QXk",
+          "id": "77PNxXJ-X_M",
+          "snippet": {
+              "publishedAt": "2024-01-17T11:00:09Z",
+              "channelId": "UCIX0AlGuCbiXBGtUiFsLYUw",
+              "title": "6명만 남은 모솔들의 운명은? | Tiny Room Ep3-2",
+              "description": "#tinyroom #모쏠 #소개팅 #방탈출 \n\n계속 모쏠 앤딩 vs 커플 앤딩 ?",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/77PNxXJ-X_M/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/77PNxXJ-X_M/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/77PNxXJ-X_M/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/77PNxXJ-X_M/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/77PNxXJ-X_M/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "film94",
+              "categoryId": "22",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "6명만 남은 모솔들의 운명은? | Tiny Room Ep3-2",
+                  "description": "#tinyroom #모쏠 #소개팅 #방탈출 \n\n계속 모쏠 앤딩 vs 커플 앤딩 ?"
+              },
+              "defaultAudioLanguage": "ko"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "ZTPxlh6Wt9XUWXnVvfFZ42y2vXI",
-        "id": {
           "kind": "youtube#video",
-          "videoId": "Q3kI8atcI6E"
-        },
-        "snippet": {
-          "publishedAt": "2022-06-10T19:07:20Z",
-          "channelId": "UCx18ywTcohtS9lpNXt8noWQ",
-          "title": "The greatest surfer of all-time 🤯 (via @AustinKeen)",
-          "description": "",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/Q3kI8atcI6E/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/Q3kI8atcI6E/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/Q3kI8atcI6E/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "Omar Raja - ESPN",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-06-10T19:07:20Z"
-        }
+          "etag": "Q3YVfKyX5Ku6JIMwckLc4wFgKv8",
+          "id": "8CFWnb_frQs",
+          "snippet": {
+              "publishedAt": "2024-01-18T13:26:57Z",
+              "channelId": "UCTQVIXvcHrR9jYoJ6qaBAow",
+              "title": "[MPD직캠] 라이즈 1위 앵콜 직캠 4K 'Love 119' (RIIZE FanCam No.1 Encore) | @MCOUNTDOWN_2024.1.18",
+              "description": "[MPD직캠] 라이즈 - 러브 119 1위 앵콜\n[MPD FanCam] RIIZE - Love 119 No.1 Encore\n@MCOUNTDOWN_2024.1.18\n\n#RIIZE #MPD직캠 #MPDFanCam\n\nMore from #M2? :D\n\nFacebook:  https://www.facebook.com/MnetM2/\nTwitter:       https://twitter.com/M2MPD/\nInstagram: https://www.instagram.com/M2MPD/\nTikTok:       https://www.tiktok.com/@m2mpd",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/8CFWnb_frQs/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/8CFWnb_frQs/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/8CFWnb_frQs/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/8CFWnb_frQs/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/8CFWnb_frQs/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "M2",
+              "tags": [
+                  "엠넷",
+                  "Mnet",
+                  "엠투",
+                  "M2",
+                  "MPD",
+                  "엠피디",
+                  "Kpop",
+                  "K-Pop",
+                  "K팝",
+                  "아이돌",
+                  "한국",
+                  "라이브",
+                  "Live",
+                  "Dance",
+                  "댄스",
+                  "안무",
+                  "MCOUNTDOWN",
+                  "MPD FANCAM",
+                  "MPD직캠",
+                  "RIIZE",
+                  "RIIZE love119",
+                  "anton",
+                  "eunseok",
+                  "fancam",
+                  "mnet",
+                  "riize",
+                  "riize fancam",
+                  "riize 러브119",
+                  "shotaro",
+                  "sohee",
+                  "sungchan",
+                  "love 119",
+                  "wonbin",
+                  "라이즈",
+                  "라이즈 직캠",
+                  "라이즈 러브119",
+                  "성찬",
+                  "소희",
+                  "쇼타로",
+                  "앤톤",
+                  "엠넷직캠",
+                  "엠카",
+                  "엠카 직캠",
+                  "엠카운트다운",
+                  "엠피디직캠",
+                  "원빈",
+                  "은석",
+                  "직캠",
+                  "러브119",
+                  "팬캠"
+              ],
+              "categoryId": "24",
+              "liveBroadcastContent": "none",
+              "defaultLanguage": "ko",
+              "localized": {
+                  "title": "[MPD직캠] 라이즈 1위 앵콜 직캠 4K 'Love 119' (RIIZE FanCam No.1 Encore) | @MCOUNTDOWN_2024.1.18",
+                  "description": "[MPD직캠] 라이즈 - 러브 119 1위 앵콜\n[MPD FanCam] RIIZE - Love 119 No.1 Encore\n@MCOUNTDOWN_2024.1.18\n\n#RIIZE #MPD직캠 #MPDFanCam\n\nMore from #M2? :D\n\nFacebook:  https://www.facebook.com/MnetM2/\nTwitter:       https://twitter.com/M2MPD/\nInstagram: https://www.instagram.com/M2MPD/\nTikTok:       https://www.tiktok.com/@m2mpd"
+              },
+              "defaultAudioLanguage": "en-US"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "Y62WUoeWEMAvLIg93xegrvsgCZA",
-        "id": {
           "kind": "youtube#video",
-          "videoId": "GJc4Ir78KdE"
-        },
-        "snippet": {
-          "publishedAt": "2020-11-04T17:00:10Z",
-          "channelId": "UCTl3QQTvqHFjurroKxexy2Q",
-          "title": "Are these the largest Waves ever surfed? | Nazare 2020: The Beast Awakens",
-          "description": "Want to watch live sport and original documentaries for free? Check out our website: https://oly.ch/WatchLiveSport When the ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/GJc4Ir78KdE/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/GJc4Ir78KdE/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/GJc4Ir78KdE/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "Olympics",
-          "liveBroadcastContent": "none",
-          "publishTime": "2020-11-04T17:00:10Z"
-        }
+          "etag": "GU0m-5-x3uUZalU7thkNdSUYjyA",
+          "id": "A4xPw4IXb-g",
+          "snippet": {
+              "publishedAt": "2024-01-18T08:00:12Z",
+              "channelId": "UCyn-K7rZLXjGl7VXGweIlcA",
+              "title": "[백종원의 님아 그 시장을 가오_EP.38_청주] 하루에 4접시만 팝니다",
+              "description": "이 식당은 선택받아야 먹을 수 있는 곳이에요\n3대가 덕을 쌓거나... 아님 오픈런 하거나...\n저도 먹으려고 새벽 5시에 집에서 나왔다니까요😁\n\n“님아 수육 먹으러 백종원 시장 가오”\n\n\n\n\n#백종원  #님아그시장을가오  #청주 #수육",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/A4xPw4IXb-g/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/A4xPw4IXb-g/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/A4xPw4IXb-g/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/A4xPw4IXb-g/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/A4xPw4IXb-g/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "백종원 PAIK JONG WON",
+              "tags": [
+                  "청주",
+                  "수육",
+                  "설렁탕",
+                  "오픈런",
+                  "4접시",
+                  "토성",
+                  "정북동",
+                  "충청도",
+                  "소문",
+                  "우설",
+                  "머릿고기",
+                  "시원",
+                  "콜라겐",
+                  "대파",
+                  "당면",
+                  "뚝배기",
+                  "국물",
+                  "깍두기",
+                  "혓바닥"
+              ],
+              "categoryId": "22",
+              "liveBroadcastContent": "none",
+              "defaultLanguage": "ko",
+              "localized": {
+                  "title": "[백종원의 님아 그 시장을 가오_EP.38_청주] 하루에 4접시만 팝니다",
+                  "description": "이 식당은 선택받아야 먹을 수 있는 곳이에요\n3대가 덕을 쌓거나... 아님 오픈런 하거나...\n저도 먹으려고 새벽 5시에 집에서 나왔다니까요😁\n\n“님아 수육 먹으러 백종원 시장 가오”\n\n\n\n\n#백종원  #님아그시장을가오  #청주 #수육"
+              },
+              "defaultAudioLanguage": "ko"
+          }
       }
-    ]
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+      "totalResults": 200,
+      "resultsPerPage": 25
   }
-  
+}
