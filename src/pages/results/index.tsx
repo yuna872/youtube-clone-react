@@ -26,7 +26,7 @@ function Results() {
       {isLoading && <Loading />}
       {error && <Error />}
       {results && (
-        <>
+        <div className="flex flex-col gap-5">
           {results.map((result: TVideo) => {
             if (result.id.kind === "youtube#video")
               return (
@@ -46,7 +46,7 @@ function Results() {
                 description : result.snippet.description
               }}/>;
           })}
-        </>
+        </div>
       )}
     </>
   );
