@@ -6,12 +6,11 @@ function SearchHeader() {
   const navigate = useNavigate();
   const {keyword} = useParams();
 
-
   const [text, setText] = useState("");
 
   const handleSubmit = (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault();
-    navigate(`/result/${keyword}`);
+    navigate(`/results/${text}`);
   };
 
   useEffect(() => {

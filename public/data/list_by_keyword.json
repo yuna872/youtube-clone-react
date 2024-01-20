@@ -1,857 +1,856 @@
 {
-    "kind": "youtube#searchListResponse",
-    "etag": "dT98wmfQRfX-cgTVzpkzfBu8Zd8",
-    "nextPageToken": "CBkQAA",
-    "regionCode": "KR",
-    "pageInfo": {
-      "totalResults": 1000000,
+  "kind": "youtube#searchListResponse",
+  "etag": "qz3qWgA445cA7xs0iunlxhgUJkM",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+      "totalResults": 188732,
       "resultsPerPage": 25
-    },
-    "items": [
+  },
+  "items": [
       {
-        "kind": "youtube#searchResult",
-        "etag": "VxFlciT2h4qf6nzEFtmgMPX1nHs",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "ma67yOdMQfs"
-        },
-        "snippet": {
-          "publishedAt": "2021-01-23T17:00:15Z",
-          "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
-          "title": "These Were The All-Time Surfing Moments Of The Year | Best Of 2020",
-          "description": "Well, that was a weird ride. Though it hasn't been easy, at least when we fixed our gaze on the ocean — or favorite place in the ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/ma67yOdMQfs/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/ma67yOdMQfs/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/ma67yOdMQfs/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "_adVYFAoyOf-reFGEHF5iQxX6EM",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCBCJHYNHAWcD041KKlgbnKg"
           },
-          "channelTitle": "Red Bull Surfing",
-          "liveBroadcastContent": "none",
-          "publishTime": "2021-01-23T17:00:15Z"
-        }
+          "snippet": {
+              "publishedAt": "2013-03-12T11:40:48Z",
+              "channelId": "UCBCJHYNHAWcD041KKlgbnKg",
+              "title": "매아리넷",
+              "description": "안녕하세요:) 저는 이화여자대학교 음악대학원에 다니는! 졸업 앞두고 발등에 불 떨어져서 2024 갓생살기 프로젝트 진행중인 사람 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/7xEZjqclnae7u0dvimRFiozmRu3L7u2wgni8LvrCqlbosHHLTjUjKtnpkW0jrXm3jAHD5HSf=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/7xEZjqclnae7u0dvimRFiozmRu3L7u2wgni8LvrCqlbosHHLTjUjKtnpkW0jrXm3jAHD5HSf=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/7xEZjqclnae7u0dvimRFiozmRu3L7u2wgni8LvrCqlbosHHLTjUjKtnpkW0jrXm3jAHD5HSf=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "매아리넷",
+              "liveBroadcastContent": "none",
+              "publishTime": "2013-03-12T11:40:48Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "2C_Yd9YhowpbyzpyNr30lP7rSXw",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "u3GDy4Z1xYg"
-        },
-        "snippet": {
-          "publishedAt": "2024-01-15T04:16:30Z",
-          "channelId": "UCn7s1bTIbscwY0w65U7WFAw",
-          "title": "Surfing. An Awesome, Pumping Dawn Session, Burleigh Heads,",
-          "description": "Surfing. The Pumping Dawn Session, Burleigh Heads, Tuesday 4th May 2021. An unexpected big jump in the swell overnight ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/u3GDy4Z1xYg/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/u3GDy4Z1xYg/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/u3GDy4Z1xYg/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "WuwshaUSbnGzUAGbpaNBzaycbRE",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "jTXUlhZM9zw"
           },
-          "channelTitle": "surfonmars",
-          "liveBroadcastContent": "none",
-          "publishTime": "2024-01-15T04:16:30Z"
-        }
+          "snippet": {
+              "publishedAt": "2024-01-06T17:40:29Z",
+              "channelId": "UCBCJHYNHAWcD041KKlgbnKg",
+              "title": "28살의 첫 해돋이 ☀️ 굿바이 2023, 웰컴 2024",
+              "description": "안녕하세요~! 모두 새해맞이 잘 하셨나요 이번 영상은 저의 소중한 사람들과 함께한 2023년의 마지막과 2024년의 시작을 담았 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/jTXUlhZM9zw/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/jTXUlhZM9zw/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/jTXUlhZM9zw/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "매아리넷",
+              "liveBroadcastContent": "none",
+              "publishTime": "2024-01-06T17:40:29Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "x9SBBIUFMycQWgVRGJB5ybBkPzY",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "APjzxUTijm8"
-        },
-        "snippet": {
-          "publishedAt": "2024-01-14T07:00:04Z",
-          "channelId": "UC3DIR1s_jw1wr4p4wWg7JGQ",
-          "title": "TUBEFEST ON THE GREENMOUNT EXPRESS (RAW SURFING)",
-          "description": "The Superbank came to live this week with a easterly swell pulse and th ecleanest option was greenmount which delivered some ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/APjzxUTijm8/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/APjzxUTijm8/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/APjzxUTijm8/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "xqqXd6DBMOOrmA5EWc3fbninAmQ",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "jWonVJE38ws"
           },
-          "channelTitle": "Raw Surfing",
-          "liveBroadcastContent": "none",
-          "publishTime": "2024-01-14T07:00:04Z"
-        }
+          "snippet": {
+              "publishedAt": "2024-01-15T09:15:20Z",
+              "channelId": "UCBCJHYNHAWcD041KKlgbnKg",
+              "title": "[vlog] 미라클 모닝 이게 맞냐..?",
+              "description": "안녕하세요~! 혹시 제 미라클 모닝의 성공여부에 대하여 궁금하셨던 분들이 계실까요? ㅎ ㅎ 오늘 영상에서는 미라클 모닝과 더불어 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/jWonVJE38ws/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/jWonVJE38ws/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/jWonVJE38ws/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "매아리넷",
+              "liveBroadcastContent": "none",
+              "publishTime": "2024-01-15T09:15:20Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "4nwJ6MrLnu8pVvr9XTy-bNnL3mQ",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "AQSt87M4OMw"
-        },
-        "snippet": {
-          "publishedAt": "2024-01-14T18:46:19Z",
-          "channelId": "UChxPvPqxDjOeeI8amejXvfA",
-          "title": "SURFING THE BIGGEST STORM OF THE YEAR IN TOFINO, CANADA (RAW POV)",
-          "description": "The last days of 2023 went out with a banger swell that rocked Vancouver Island and the entire west coast, from Canada to ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/AQSt87M4OMw/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/AQSt87M4OMw/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/AQSt87M4OMw/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "vveD7BwcGyPLxkkXWCp9diCPsrE",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "wtxThE58Whk"
           },
-          "channelTitle": "Tofino Surf Photography - Keenan Bush",
-          "liveBroadcastContent": "none",
-          "publishTime": "2024-01-14T18:46:19Z"
-        }
+          "snippet": {
+              "publishedAt": "2024-01-01T14:03:24Z",
+              "channelId": "UCBCJHYNHAWcD041KKlgbnKg",
+              "title": "이화여대 대학원생의 현타온 2023년, 이제 보내준다 🥹 | 언더독마인드, 2024 키워드",
+              "description": "Instagram @kimhyehwa__ 안녕하세요 매아리넷 입니다. 최선을 다해 살았다고 자부했던 2023년의 막바지에는 많은 고민과 생각 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/wtxThE58Whk/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/wtxThE58Whk/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/wtxThE58Whk/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "매아리넷",
+              "liveBroadcastContent": "none",
+              "publishTime": "2024-01-01T14:03:24Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "ZfmdwKHLOyzvyaW2Km9WB5_iuJo",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "eSWST13stO4"
-        },
-        "snippet": {
-          "publishedAt": "2022-03-27T15:00:32Z",
-          "channelId": "UCVo06dBGK9VBBhq15wJxZHQ",
-          "title": "🔵4k (ASMR) 10 Hour Store Loop - Hawaii Surfing - With Relaxing Music☑️",
-          "description": "Waves of the World Filmers: Chris Kincade: https://www.instagram.com/chriskincade.wotw Andre Botha: ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/eSWST13stO4/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/eSWST13stO4/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/eSWST13stO4/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "3vx4l7h_-eSkw-DKE5F6dDX5FLA",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "fiMnaN5D1i0"
           },
-          "channelTitle": "Waves of the World",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-03-27T15:00:32Z"
-        }
+          "snippet": {
+              "publishedAt": "2024-01-16T23:35:30Z",
+              "channelId": "UCnfwIKyFYRuqZzzKBDt6JOA",
+              "title": "[매아리] 월러 연준 이사 &quot;금리 빠르게 인하할 이유 없다&quot; | 유사남 미국주식전문유튜버,  신광섭 MBN골드매니저, 김유정아나운서 | 매경아메리카리포트",
+              "description": "2024년 1월 17일 오전 7:20 00:00 00:27 미국 증시 마감 리뷰 47:00 개장 전 국내 증시 미리보기 #다보스포럼 #엔비디아 #필라델피아 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/fiMnaN5D1i0/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/fiMnaN5D1i0/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/fiMnaN5D1i0/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "매일경제TV",
+              "liveBroadcastContent": "none",
+              "publishTime": "2024-01-16T23:35:30Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "Trr5CMv7JZiHZ_rkN1GubGvJmgY",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "jPuGg3x2GVY"
-        },
-        "snippet": {
-          "publishedAt": "2024-01-14T20:25:34Z",
-          "channelId": "UC4cmPU5LlfEpEUT5eCaroIQ",
-          "title": "Mavericks  Bomb Of The Day 💣  Michael Joshua ⚡️12/28/23 #surf #mavericks #powerlinesproductions",
-          "description": "Nic Von Rupp tows Michael Joshua at MAVERICKS into the BOMB OF THE DAY ⚡️ Music created by Steve Freeman ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/jPuGg3x2GVY/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/jPuGg3x2GVY/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/jPuGg3x2GVY/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "EoUUIxXZ8ebnXbwIyO5uGv1Pql0",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "jDKnkhml0SU"
           },
-          "channelTitle": "Powerlines Productions",
-          "liveBroadcastContent": "none",
-          "publishTime": "2024-01-14T20:25:34Z"
-        }
+          "snippet": {
+              "publishedAt": "2020-05-21T14:00:35Z",
+              "channelId": "UCPEIG1tL9asHjHx5VXy2hwQ",
+              "title": "성전환 수술 후 불편한점 Top 5",
+              "description": "성전환 수술 후 불편한 점 5가지에 대해 얘기해보았어요. 주의) 영상의 내용은 저의 개인적인 경험과 의견으므로 모든 사람이 같지 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/jDKnkhml0SU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/jDKnkhml0SU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/jDKnkhml0SU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "파니Pani",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-05-21T14:00:35Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "qDkYa8R9TBkVQCNlmTZ-DZ0f7Q8",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "jD0IDa1D2yc"
-        },
-        "snippet": {
-          "publishedAt": "2024-01-14T11:01:19Z",
-          "channelId": "UC8pmG8IGaDyDTc6xBJiyXBQ",
-          "title": "The Fast Lane - Superbank  - Saturday 13 January 2024",
-          "description": "The Fast Lane - Superbank , Saturday afternoon and the tide dropped out , the crowd thickened up and it was on . Superbank ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/jD0IDa1D2yc/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/jD0IDa1D2yc/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/jD0IDa1D2yc/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "dfHEiu2My_nJDY1Di6UAVfUHC44",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "1qoRDdG-TB0"
           },
-          "channelTitle": "Surf Today ",
-          "liveBroadcastContent": "none",
-          "publishTime": "2024-01-14T11:01:19Z"
-        }
+          "snippet": {
+              "publishedAt": "2024-01-09T23:32:05Z",
+              "channelId": "UCnfwIKyFYRuqZzzKBDt6JOA",
+              "title": "[매아리] 2024 주도할까? 달리는 바이오·AI | 유사남 미국주식전문유튜버, 신광섭 MBN골드매니저, 김유정아나운서 | 매경아메리카리포트",
+              "description": "2024년 1월 10일 오전 7:20 00:00 00:43 미국 증시 마감 리뷰 50:22 개장 전 국내 증시 미리보기 #jp모건헬스케어 #바이오 #ces ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/1qoRDdG-TB0/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/1qoRDdG-TB0/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/1qoRDdG-TB0/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "매일경제TV",
+              "liveBroadcastContent": "none",
+              "publishTime": "2024-01-09T23:32:05Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "9mTQJChGJsH-6W7GGZhPm3jYut0",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "JGuQLu8O-SM"
-        },
-        "snippet": {
-          "publishedAt": "2024-01-13T19:29:14Z",
-          "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
-          "title": "Jett Schilling vs Jackson Bunch | SAMBAZON World Junior Championships Hosted by Best Western",
-          "description": "The SAMBAZON World Junior Championships hosted by Best Western showcase the most talented 20-and-under surfers in the ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/JGuQLu8O-SM/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/JGuQLu8O-SM/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/JGuQLu8O-SM/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "a-0BnP-vt3EfVh-AdyGQFTTepSg",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "6mFnovwFsQM"
           },
-          "channelTitle": "World Surf League",
-          "liveBroadcastContent": "none",
-          "publishTime": "2024-01-13T19:29:14Z"
-        }
+          "snippet": {
+              "publishedAt": "2023-03-03T10:00:08Z",
+              "channelId": "UC-PmC4FRssFs7NnFAzxK4vg",
+              "title": "{오정쇼} 분ㅅㅜ 장인을 만난 뒤 에이V 배우가 됐어요",
+              "description": "",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/6mFnovwFsQM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/6mFnovwFsQM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/6mFnovwFsQM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "오윤혜정미녀 TV",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-03-03T10:00:08Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "ZjD0ROrF2v17cl64BmWJI67rVyA",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "QB8GMebrFXg"
-        },
-        "snippet": {
-          "publishedAt": "2023-03-04T18:00:11Z",
-          "channelId": "UCJBWZDkunrjWh50Etxdys2g",
-          "title": "Big wave surfers in Southern California #shorts",
-          "description": "",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/QB8GMebrFXg/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/QB8GMebrFXg/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/QB8GMebrFXg/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "GIstcKfzjRo5TRZDm48mtT_D8wE",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "hT2VqxOBJJs"
           },
-          "channelTitle": "SoCal Surfer",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-03-04T18:00:11Z"
-        }
+          "snippet": {
+              "publishedAt": "2021-06-06T08:05:53Z",
+              "channelId": "UCLE8p8wtDGSNEPv2w0OG8yg",
+              "title": "얼굴 까고 말하는 그녀들의 세계 | MIB 소영",
+              "description": "안녕하세요 여러분 오늘은 배우 소영님의 이야기를 들어보았습니다 인터뷰문의: wodqod1234@gmail.com.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/hT2VqxOBJJs/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/hT2VqxOBJJs/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/hT2VqxOBJJs/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "잼뱅TV",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-06-06T08:05:53Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "mC6wVdCZ1IrO4YwgGxGgEqDSDmY",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "ejSvL5jll9U"
-        },
-        "snippet": {
-          "publishedAt": "2023-12-30T15:30:13Z",
-          "channelId": "UC4qa5EroJxnQM6Sng9WhgsQ",
-          "title": "Historic Blacks Beach XXL San Diego 20-25ft Surf",
-          "description": "What an absolute trip to be home in New Jersey for the biggest swell I've ever seen & end up in California for this Historic Blacks ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/ejSvL5jll9U/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/ejSvL5jll9U/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/ejSvL5jll9U/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "zcsUm4J63IlBm4ZMyZeDU_Y6g_Y",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "Uf2xTLT3h7E"
           },
-          "channelTitle": "Ben Gravy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-12-30T15:30:13Z"
-        }
+          "snippet": {
+              "publishedAt": "2021-05-05T01:04:10Z",
+              "channelId": "UCsU3fr78Lyzjp2RGLoQIdbw",
+              "title": "일본에서 난리난 스모선수",
+              "description": "스모 #전통스포츠 스모= 뚱뚱한 사람이 하는 스포츠 생각 하는 사람은 그냥 딱 한 번 보면 된다. # 영상 일부에 기미가요가 사용 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/Uf2xTLT3h7E/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/Uf2xTLT3h7E/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/Uf2xTLT3h7E/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "동심파괴",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-05-05T01:04:10Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "uDdCpkOei3I8Uhh4GE426RNcG10",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "O1IINu3wLrc"
-        },
-        "snippet": {
-          "publishedAt": "2024-01-09T20:00:10Z",
-          "channelId": "UCnDcnuhRMNxsI14ZnwIh6fQ",
-          "title": "SURFING THE SWELL OF THE DECADE IN MADEIRA ISLAND | VON FROTH",
-          "description": "Known for its powerful, heavy, long, and perfect waves, Madeira Island is seen by many as the Hawaii of the Atlantic. Surrounded ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/O1IINu3wLrc/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/O1IINu3wLrc/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/O1IINu3wLrc/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "FZlvdbjXg4eqbCNqh3V418Fe-gs",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "qDmYY97FnsU"
           },
-          "channelTitle": "Nic Von Rupp",
-          "liveBroadcastContent": "none",
-          "publishTime": "2024-01-09T20:00:10Z"
-        }
+          "snippet": {
+              "publishedAt": "2021-08-12T02:00:17Z",
+              "channelId": "UCTvi2BjajINRhv-8p7gCGoA",
+              "title": "실제 나타나고 있는 괴생명체",
+              "description": "안녕하세요? Miss테리입니다. 1986년 4월 26일 우크라이나 키예프 북쪽에서 체르노빌 원자력 발전소의 제4호기 원자로가 폭발하는 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/qDmYY97FnsU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/qDmYY97FnsU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/qDmYY97FnsU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Miss테리의 미스테리",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-08-12T02:00:17Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "AcV_wvUesbuyhjW0xAisYY8AMRA",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "a48-c7kCdYI"
-        },
-        "snippet": {
-          "publishedAt": "2023-08-31T08:00:08Z",
-          "channelId": "UCoicMEw3njXscfwHlaAJVcQ",
-          "title": "SURFING A GLASSY REEF BREAK! (4K POV)",
-          "description": "In this video, we went and surfed one of our favourite reef breaks! It got super glassy Then we went for a skate at the bowl For ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/a48-c7kCdYI/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/a48-c7kCdYI/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/a48-c7kCdYI/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "XJDG3yWfTNDArKr33VzVG5Er8Cc",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "kQ9PHFt6644"
           },
-          "channelTitle": "Surfing With Noz",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-08-31T08:00:08Z"
-        }
+          "snippet": {
+              "publishedAt": "2024-01-08T23:36:28Z",
+              "channelId": "UCnfwIKyFYRuqZzzKBDt6JOA",
+              "title": "[매아리] 다시 달리는 美 증시, 지금 뭐 살까? | 권동우 메리츠증권 도곡금융센터 부장, 신광섭 MBN골드매니저, 김유정아나운서 | 매경아메리카리포트",
+              "description": "2024년 1월 9일 오전 7:20 00:00 준비 01:38 미국 증시 마감 리뷰 52:21 개장 전 국내 증시 미리보기 #엔비디아 #엔비디아최고가 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/kQ9PHFt6644/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/kQ9PHFt6644/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/kQ9PHFt6644/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "매일경제TV",
+              "liveBroadcastContent": "none",
+              "publishTime": "2024-01-08T23:36:28Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "D6jriUgu69hx0p0aJEYpThCYRzo",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "xtHZKToMvus"
-        },
-        "snippet": {
-          "publishedAt": "2022-11-02T17:46:49Z",
-          "channelId": "UCTYHNSWYy4jCSCj1Q1Fq0ew",
-          "title": "Interlusion | A Billabong Surf Film Shot in the Mentawai Islands",
-          "description": "Welcome to the Interlusion. What happens when the best surf trip of former world champ Joel Parkinson's life happens years after ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/xtHZKToMvus/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/xtHZKToMvus/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/xtHZKToMvus/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "_YW_AkojB3DQ2wXZPh_WRvUJLgY",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "sU0pQYk10Cw"
           },
-          "channelTitle": "Billabong",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-11-02T17:46:49Z"
-        }
+          "snippet": {
+              "publishedAt": "2024-01-15T23:36:56Z",
+              "channelId": "UCnfwIKyFYRuqZzzKBDt6JOA",
+              "title": "[매아리] 3일 만의 개장 앞둔 美 증시, 오늘은 이렇게 투자해야 합니다 | 신일섭 벤자민 투자 연구소 소장, 신광섭 MBN골드매니저, 김유정아나운서 | 매경아메리카리포트",
+              "description": "2024년 1월 16일 오전 7:20 00:00 00:21 미국 증시 마감 리뷰 38:51 개장 전 국내 증시 미리보기 #다보스포럼 #대만해협 #ces ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/sU0pQYk10Cw/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/sU0pQYk10Cw/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/sU0pQYk10Cw/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "매일경제TV",
+              "liveBroadcastContent": "none",
+              "publishTime": "2024-01-15T23:36:56Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "znY8QAOgEmmwgABqm3rjRle5dBs",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "b7Pl5Rr8ZYk"
-        },
-        "snippet": {
-          "publishedAt": "2023-02-01T19:14:10Z",
-          "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
-          "title": "The BEST of Surfing in 2022",
-          "description": "What a year. 2022 was packed to the gills with everything the surfing world has to offer. Whether it be seemingly endless historic ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/b7Pl5Rr8ZYk/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/b7Pl5Rr8ZYk/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/b7Pl5Rr8ZYk/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "-7GBztw48Az3FaiV-l6dGo51dPU",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "UD2cGhDRqp8"
           },
-          "channelTitle": "Red Bull Surfing",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-02-01T19:14:10Z"
-        }
+          "snippet": {
+              "publishedAt": "2021-03-17T08:42:32Z",
+              "channelId": "UCl7MKZHz017uFK_gFrgD0sw",
+              "title": "해변에서 죽은 고래를 보면 무조건 도망가야 합니다...",
+              "description": "해변에서 죽은 고래는, 엄청나게 위험하다고 합니다. 왜 그럴까요? 코코보라에서 알아봤습니다! - 영상 출처 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/UD2cGhDRqp8/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/UD2cGhDRqp8/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/UD2cGhDRqp8/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "코코보라",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-03-17T08:42:32Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "R2XD4DjMvX9q7Xvo7PmIDsvIiUo",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "zZqxPozl2Ec"
-        },
-        "snippet": {
-          "publishedAt": "2023-01-24T07:00:09Z",
-          "channelId": "UCEUYW6zm6KnUxPcwY1D8HsQ",
-          "title": "Surfing Massive Waves Waimea Bay (Jan 22, 2023)  4K",
-          "description": "What occurred on January 22, 2023, at Waimea Bay on the North Shore of Oahu is nothing short of historical. We're simply doing ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/zZqxPozl2Ec/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/zZqxPozl2Ec/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/zZqxPozl2Ec/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "uXAYUFvb1qc43lN9RR7TgVyGQes",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "dk_9_0mwQqw"
           },
-          "channelTitle": "Eimy’s Hawaii Happy life 🏄🏻",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-01-24T07:00:09Z"
-        }
+          "snippet": {
+              "publishedAt": "2019-12-22T09:31:53Z",
+              "channelId": "UCTwymiA3xW_8K10uokJEFOQ",
+              "title": "통일메아리악단~단장 백 미경(대표/유현주) @2019 상주곶감축제~탈북녀 기타리스트@한수애",
+              "description": "자유를찾아온 이쁜 낭자님들 마음껏 재주부리면서 행복한삶을 살수있기를 바랍니다 ※유현주 대표님의입담&단원들의넘치는끼와 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/dk_9_0mwQqw/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/dk_9_0mwQqw/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/dk_9_0mwQqw/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "작은거인tv",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-12-22T09:31:53Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "h8ibn1DYArhw5RJGIBzn9vMNvZM",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "ecmWtNU5QYQ"
-        },
-        "snippet": {
-          "publishedAt": "2024-01-13T18:53:14Z",
-          "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
-          "title": "Sierra Kerr vs Zoe Benedetto | SAMBAZON World Junior Championships Hosted by Best Western",
-          "description": "The SAMBAZON World Junior Championships hosted by Best Western showcase the most talented 20-and-under surfers in the ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/ecmWtNU5QYQ/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/ecmWtNU5QYQ/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/ecmWtNU5QYQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "DxYYPU23MCoueIMwwD5-qwGDGno",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "etmayRih0Hw"
           },
-          "channelTitle": "World Surf League",
-          "liveBroadcastContent": "none",
-          "publishTime": "2024-01-13T18:53:14Z"
-        }
+          "snippet": {
+              "publishedAt": "2024-01-11T23:32:09Z",
+              "channelId": "UCnfwIKyFYRuqZzzKBDt6JOA",
+              "title": "[매아리] CPI 예상치 상회! 향후 시장의 변화, 이렇게 대응하세요 | 신중호 이베스트투자증권센터장, 신광섭 MBN골드매니저, 김유정아나운서 | 매경아메리카리포트",
+              "description": "2024년 1월 12일 오전 7:20 00:00 01:08 미국 증시 마감 리뷰 53:30 개장 전 국내 증시 미리보기 #cpi #마이크로소프트 #금리인하 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/etmayRih0Hw/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/etmayRih0Hw/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/etmayRih0Hw/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "매일경제TV",
+              "liveBroadcastContent": "none",
+              "publishTime": "2024-01-11T23:32:09Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "zbZvRqi2QYj8uwD9PMzVNUNdvf4",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "7hOeMR4ItiE"
-        },
-        "snippet": {
-          "publishedAt": "2023-12-23T08:00:51Z",
-          "channelId": "UCoicMEw3njXscfwHlaAJVcQ",
-          "title": "POV SURFING THE FAMOUS AUSSIE PIPELINE!!! (PERFECT TUBES)",
-          "description": "I finally surfed at the famous Aussie Pipe! I've been wanting to surf this wave my whole life. I hope you legends enjoy the video.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/7hOeMR4ItiE/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/7hOeMR4ItiE/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/7hOeMR4ItiE/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "nFo60f_dUwKlEkOgNAGMW-UfQac",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "xbUkC6oE8CQ"
           },
-          "channelTitle": "Surfing With Noz",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-12-23T08:00:51Z"
-        }
+          "snippet": {
+              "publishedAt": "2024-01-07T23:41:42Z",
+              "channelId": "UCnfwIKyFYRuqZzzKBDt6JOA",
+              "title": "[매아리] 본격 어닝시즌 돌입, 지금부터 이 종목은 사 모으세요! | 장우진 전자공시생 팀장, 신광섭 MBN골드매니저, 김유정아나운서 | 매경아메리카리포트",
+              "description": "2024년 1월 8일 오전 7:20 00:00 준비 03:55 미국 증시 마감 리뷰 50:06 개장 전 국내 증시 미리보기 #미증시 #고용지표 #인플레이션 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/xbUkC6oE8CQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/xbUkC6oE8CQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/xbUkC6oE8CQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "매일경제TV",
+              "liveBroadcastContent": "none",
+              "publishTime": "2024-01-07T23:41:42Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "dl0mnryXlyxfVEUlN9vH_24Kzi8",
-        "id": {
-          "kind": "youtube#channel",
-          "channelId": "UC3DIR1s_jw1wr4p4wWg7JGQ"
-        },
-        "snippet": {
-          "publishedAt": "2021-09-26T00:36:17Z",
-          "channelId": "UC3DIR1s_jw1wr4p4wWg7JGQ",
-          "title": "Raw Surfing",
-          "description": "",
-          "thumbnails": {
-            "default": {
-              "url": "https://yt3.ggpht.com/CB7KEy_n9i65XUxaN9-DDGl5fhMvEfgH7E_ZVpsLvQ30R9YYrSGdfQXZm_l_JzYsIPtn18LRJg=s88-c-k-c0xffffffff-no-rj-mo"
-            },
-            "medium": {
-              "url": "https://yt3.ggpht.com/CB7KEy_n9i65XUxaN9-DDGl5fhMvEfgH7E_ZVpsLvQ30R9YYrSGdfQXZm_l_JzYsIPtn18LRJg=s240-c-k-c0xffffffff-no-rj-mo"
-            },
-            "high": {
-              "url": "https://yt3.ggpht.com/CB7KEy_n9i65XUxaN9-DDGl5fhMvEfgH7E_ZVpsLvQ30R9YYrSGdfQXZm_l_JzYsIPtn18LRJg=s800-c-k-c0xffffffff-no-rj-mo"
-            }
+          "kind": "youtube#searchResult",
+          "etag": "RBwMXWIebz7EP8YE581VIyn4cK0",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "ArNyXVEY4Mo"
           },
-          "channelTitle": "Raw Surfing",
-          "liveBroadcastContent": "none",
-          "publishTime": "2021-09-26T00:36:17Z"
-        }
+          "snippet": {
+              "publishedAt": "2021-05-01T05:53:42Z",
+              "channelId": "UC0E20GTURtozqNvioYTl_Zg",
+              "title": "이부진의 뒤를 이을 삼성家 막내 공주, 이재용 딸 이원주 양에 대한 재밌는 사실",
+              "description": "",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/ArNyXVEY4Mo/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/ArNyXVEY4Mo/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/ArNyXVEY4Mo/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "썰&사",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-05-01T05:53:42Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "Khlpr87Bl8a93Wlb91VxiurvWDM",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "j1AQ_s-y52M"
-        },
-        "snippet": {
-          "publishedAt": "2022-07-16T19:00:13Z",
-          "channelId": "UCvOh9i-BOFzu51rpj33fGag",
-          "title": "7 tips to transition from beginner to intermediate | How to Surf",
-          "description": "In this video, we break down our 7 best tips on how to transition from Beginner to Intermediate faster. 00:00 Intro 00:24 Surf The ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/j1AQ_s-y52M/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/j1AQ_s-y52M/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/j1AQ_s-y52M/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "yVxySiQPrui1s1KnjreYmYselTs",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "Bzn5yyXJVFE"
           },
-          "channelTitle": "Barefoot Surf",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-07-16T19:00:13Z"
-        }
+          "snippet": {
+              "publishedAt": "2024-01-10T23:34:55Z",
+              "channelId": "UCnfwIKyFYRuqZzzKBDt6JOA",
+              "title": "[매아리] 비트코인 현물 ETF 승인! GPT스토어 출시! 엔비디아 신고가 랠리! |신광섭 MBN골드매니저, 김유정아나운서 | 매경아메리카리포트",
+              "description": "2024년 1월 11일 오전 7:20 00:00 02:16 미국 증시 마감 리뷰 57:48 개장 전 국내 증시 미리보기 #cpi #인플레이션 #메타 #엔비디아 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/Bzn5yyXJVFE/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/Bzn5yyXJVFE/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/Bzn5yyXJVFE/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "매일경제TV",
+              "liveBroadcastContent": "none",
+              "publishTime": "2024-01-10T23:34:55Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "zA6ws8AmbP7dLOwblflJmWLrDME",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "a2NxgF2aSDw"
-        },
-        "snippet": {
-          "publishedAt": "2022-08-22T07:30:02Z",
-          "channelId": "UCOtHosOqPe9d6vLy-8LfHzQ",
-          "title": "Kelis Kaleopaa surfing at Sayulita during Mexi Log Fest 2022 | Highlight from the RAW DAYS",
-          "description": "Mexi Log Fest 2022 with stylish loggers around the world. Footage by Heiko Bothe. Full edit: ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/a2NxgF2aSDw/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/a2NxgF2aSDw/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/a2NxgF2aSDw/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "YjpdkjBgUdgXyBAwOzxe39_Siek",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "gDzi5Xt6I4s"
           },
-          "channelTitle": "NobodySurf : Surfing Videos",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-08-22T07:30:02Z"
-        }
+          "snippet": {
+              "publishedAt": "2021-02-02T09:02:34Z",
+              "channelId": "UCTvi2BjajINRhv-8p7gCGoA",
+              "title": "드론에 찍히지 않았다면 절대 믿지 않았을 오싹한 순간들",
+              "description": "안녕하세요? Miss테리입니다. 우연히 카메라에 포착된 소름끼치는 것들을 담은 영상들을 가지고 왔습니다. 재미있게 시청해주시면 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/gDzi5Xt6I4s/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/gDzi5Xt6I4s/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/gDzi5Xt6I4s/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Miss테리의 미스테리",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-02-02T09:02:34Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "3zqn6RoQHOSL-LO7RXuV3x53o4w",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "dvUSm5Q2zFU"
-        },
-        "snippet": {
-          "publishedAt": "2024-01-13T21:28:29Z",
-          "channelId": "UCTYHNSWYy4jCSCj1Q1Fq0ew",
-          "title": "Burleigh Heads Single Fin Festival - 2024",
-          "description": "And just like that the Burleigh Heads Single Fin Festival is a wrap for 2024. No amount of rain or weather could stop the vibes on ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/dvUSm5Q2zFU/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/dvUSm5Q2zFU/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/dvUSm5Q2zFU/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "MbXdldkdwuukVSDI4HCd0TVVk3Q",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "0lmAxLHOx2E"
           },
-          "channelTitle": "Billabong",
-          "liveBroadcastContent": "none",
-          "publishTime": "2024-01-13T21:28:29Z"
-        }
+          "snippet": {
+              "publishedAt": "2024-01-04T00:16:45Z",
+              "channelId": "UCnfwIKyFYRuqZzzKBDt6JOA",
+              "title": "[매아리] 2024 오른 적 없는 뉴욕증시, 지금이 매수 타이밍? | 신광섭 MBN골드매니저, 김유정아나운서 | 매경아메리카리포트",
+              "description": "2024년 1월 4일 오전 7:20 00:00 준비 04:20 미국 증시 마감 리뷰 52:10 개장 전 국내 증시 미리보기 #곱버스 #테슬라 #애플 #전기차 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/0lmAxLHOx2E/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/0lmAxLHOx2E/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/0lmAxLHOx2E/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "매일경제TV",
+              "liveBroadcastContent": "none",
+              "publishTime": "2024-01-04T00:16:45Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "HtdFBLvWBJFeSIliY9f1rQlfQgU",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "IDB0U-eqJ8s"
-        },
-        "snippet": {
-          "publishedAt": "2023-03-27T18:00:07Z",
-          "channelId": "UCm9NnEJTi7_B86QWgQiUCJA",
-          "title": "An AMAZING surf session! #shorts",
-          "description": "In this awe-inspiring YouTube video, we explore the amazing and rare experience of surfing and how it can positively impact ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/IDB0U-eqJ8s/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/IDB0U-eqJ8s/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/IDB0U-eqJ8s/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "6pq9W0YAc7RdmKIMJPAe_YESpeQ",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "y9IFOgdW7es"
           },
-          "channelTitle": "Koa Smith",
-          "liveBroadcastContent": "none",
-          "publishTime": "2023-03-27T18:00:07Z"
-        }
+          "snippet": {
+              "publishedAt": "2023-12-27T23:40:15Z",
+              "channelId": "UCnfwIKyFYRuqZzzKBDt6JOA",
+              "title": "[매아리] 내년 준비하는 韓 증시, 美 증시 마지막 수익 전략 | 신광섭 MBN골드매니저 김유정아나운서 | 매경아메리카리포트",
+              "description": "2023년 12월 28일 오전 7:20 #금리인하 #테슬라 #애플워치 #애플 #바이든 #일론머스크 #모델Y #삼성전자 #뉴욕타임즈 #연준 #해외 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/y9IFOgdW7es/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/y9IFOgdW7es/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/y9IFOgdW7es/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "매일경제TV",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-12-27T23:40:15Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "9Sqwi_Jb6vEMuRP7eLxL8tWXVT4",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "T555ZCoeRKw"
-        },
-        "snippet": {
-          "publishedAt": "2024-01-07T15:00:23Z",
-          "channelId": "UC4qa5EroJxnQM6Sng9WhgsQ",
-          "title": "Historic &quot;Day of the Decade&quot; Surf at La Jolla Cove, San DIego",
-          "description": "It's not often you experience the \"day of the decade\" surf at any spot, let alone the world renown big wave novelty of La Jolla Cove ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/T555ZCoeRKw/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/T555ZCoeRKw/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/T555ZCoeRKw/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "lerBFuqf67LBISyzA83zdwu4QnA",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "JzAtE-WxA4I"
           },
-          "channelTitle": "Ben Gravy",
-          "liveBroadcastContent": "none",
-          "publishTime": "2024-01-07T15:00:23Z"
-        }
+          "snippet": {
+              "publishedAt": "2023-03-28T03:00:08Z",
+              "channelId": "UCGKIpPxf0U0WWOn6RsT1wGw",
+              "title": "아나운서 퇴출된 실수 사고6",
+              "description": "Shorts.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/JzAtE-WxA4I/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/JzAtE-WxA4I/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/JzAtE-WxA4I/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "시간순삭s",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-03-28T03:00:08Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "ZTPxlh6Wt9XUWXnVvfFZ42y2vXI",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "Q3kI8atcI6E"
-        },
-        "snippet": {
-          "publishedAt": "2022-06-10T19:07:20Z",
-          "channelId": "UCx18ywTcohtS9lpNXt8noWQ",
-          "title": "The greatest surfer of all-time 🤯 (via @AustinKeen)",
-          "description": "",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/Q3kI8atcI6E/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/Q3kI8atcI6E/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/Q3kI8atcI6E/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "QCrRfycm77rTPSmAr_uf24FXcTc",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "qstT9tpIlAo"
           },
-          "channelTitle": "Omar Raja - ESPN",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-06-10T19:07:20Z"
-        }
+          "snippet": {
+              "publishedAt": "2024-01-01T23:35:40Z",
+              "channelId": "UCnfwIKyFYRuqZzzKBDt6JOA",
+              "title": "[매아리] 새해 첫 거래일, 오늘은 어떻게 대응할까? | 장우진 전자공시생 팀장, 신광섭 MBN골드매니저, 김유정아나운서 | 매경아메리카리포트",
+              "description": "2024년 1월 2일 오전 7:20 00:00 준비 02:52 미국 증시 마감 리뷰 54:21 개장 전 국내 증시 미리보기 *전자공시생 블로그 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/qstT9tpIlAo/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/qstT9tpIlAo/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/qstT9tpIlAo/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "매일경제TV",
+              "liveBroadcastContent": "none",
+              "publishTime": "2024-01-01T23:35:40Z"
+          }
       },
       {
-        "kind": "youtube#searchResult",
-        "etag": "Y62WUoeWEMAvLIg93xegrvsgCZA",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "GJc4Ir78KdE"
-        },
-        "snippet": {
-          "publishedAt": "2020-11-04T17:00:10Z",
-          "channelId": "UCTl3QQTvqHFjurroKxexy2Q",
-          "title": "Are these the largest Waves ever surfed? | Nazare 2020: The Beast Awakens",
-          "description": "Want to watch live sport and original documentaries for free? Check out our website: https://oly.ch/WatchLiveSport When the ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/GJc4Ir78KdE/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/GJc4Ir78KdE/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/GJc4Ir78KdE/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
+          "kind": "youtube#searchResult",
+          "etag": "ObkLj6BoR6odxrTrvGA5BMqpTtU",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "IP7ICeixJco"
           },
-          "channelTitle": "Olympics",
-          "liveBroadcastContent": "none",
-          "publishTime": "2020-11-04T17:00:10Z"
-        }
+          "snippet": {
+              "publishedAt": "2024-01-14T23:39:06Z",
+              "channelId": "UCnfwIKyFYRuqZzzKBDt6JOA",
+              "title": "[매아리] 친미 택한 대만, 휴장 속 공화당 첫 경선, 핵심 짚기 | 장우진 범송공자 팀장, 신광섭 MBN골드매니저, 김유정아나운서 | 매경아메리카리포트",
+              "description": "2024년 1월 15일 오전 7:20 00:00 01:47 미국 증시 마감 리뷰 49:14 개장 전 국내 증시 미리보기 #은행주 #실적발표 #대만선거 #대만 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/IP7ICeixJco/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/IP7ICeixJco/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/IP7ICeixJco/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "매일경제TV",
+              "liveBroadcastContent": "none",
+              "publishTime": "2024-01-14T23:39:06Z"
+          }
       }
-    ]
-  }
-  
+  ]
+}
