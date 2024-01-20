@@ -18,7 +18,7 @@ function SearchHeader() {
   }, [keyword]);
 
   return (
-    <div className="flex flex-row justify-between items-center h-[56px]">
+    <div className="bg-bgColor w-full flex flex-row justify-between items-center h-[56px] sticky top-0">
       {/* 로고 */}
       <div></div>
       {/* 키워드 입력 */}

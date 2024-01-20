@@ -2,7 +2,8 @@ import { Outlet, createBrowserRouter } from "react-router-dom";
 import Watch from "../pages/watch/index";
 import Results from "../pages/results";
 import SearchHeader from "../pages/components/SearchHeader";
-import Videos from "../pages/main/index";
+import Videos from "../pages/home/index";
+import SideBar from "../pages/components/SideBar";
 
 
 const router = createBrowserRouter([
@@ -28,10 +29,14 @@ const router = createBrowserRouter([
 
 function Layout(): JSX.Element {
   return (
-    <>
+    <div className="relative">
       <SearchHeader />
+      <div className="flex flex-row">
+
+      <SideBar/>
       <Outlet />
-    </>
+      </div>
+    </div>
   );
 }
 export default router;

@@ -9,6 +9,7 @@ module.exports = {
       desc: "12px",
     },
     colors: {
+      bgColor: "#0F0F0F",
       youtubeWhite: "#F1F1F1",
       youtubeGray: "#AAAAAA",
     },
