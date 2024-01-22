@@ -26,25 +26,31 @@ function Results() {
       {isLoading && <Loading />}
       {error && <Error />}
       {results && (
-        <div className="flex flex-col gap-5">
+        <div className="flex flex-col max-w-[1096px] gap-5 mx-auto">
           {results.map((result: TVideo) => {
             if (result.id.kind === "youtube#video")
               return (
                 <Video
-                key={result.id.videoId}
+                  key={result.id.videoId}
                   video={{
                     thumbnails: result.snippet.thumbnails.high.url,
                     title: result.snippet.title,
-                    channelTitle : result.snippet.channelTitle,
-                    description : result.snippet.description
+                    channelTitle: result.snippet.channelTitle,
+                    description: result.snippet.description,
                   }}
                 />
               );
-            else if (result.id.kind === "youtube#channel") return <Channel key={result.snippet.channelId} channel={{
-                thumbnails: result.snippet.thumbnails.high.url,
-                channelTitle : result.snippet.channelTitle,
-                description : result.snippet.description
-              }}/>;
+            else if (result.id.kind === "youtube#channel")
+              return (
+                <Channel
+                  key={result.snippet.channelId}
+                  channel={{
+                    thumbnails: result.snippet.thumbnails.high.url,
+                    channelTitle: result.snippet.channelTitle,
+                    description: result.snippet.description,
+                  }}
+                />
+              );
           })}
         </div>
       )}

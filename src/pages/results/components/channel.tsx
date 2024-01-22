@@ -4,7 +4,7 @@ type TChannelProps = {
     channelTitle: string;
     description: string;
   };
-};
+}
 
 function Channel({ channel }: TChannelProps) {
   return (
@@ -19,11 +19,14 @@ function Channel({ channel }: TChannelProps) {
           {channel.channelTitle}
         </p>
         <p className="text-youtubeGray text-desc mb-[4px]">
+          {`@Maearinet 구독자 49명`}
+        </p>
+        <p className="text-youtubeGray text-desc mb-[4px]">
           {channel.description}
         </p>
       </div>
       <div className="flex flex-col justify-center">
-        <button className="text-[14px] bg-youtubeWhite text-black rounded-[18px] px-[16px] h-[36px]">
+        <button className="text-[14px] bg-youtubeWhite text-black rounded-[18px] px-[16px] h-[36px] whitespace-nowrap">
           구독
         </button>
       </div>

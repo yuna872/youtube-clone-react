@@ -1,10 +1,18 @@
 import { FormEvent, useEffect, useState } from "react";
-import { MagnifyingGlassIcon } from "@heroicons/react/24/outline";
+import {
+  MagnifyingGlassIcon,
+  Bars3Icon,
+  XMarkIcon,
+  VideoCameraIcon,
+  BellIcon,
+} from "@heroicons/react/24/outline";
+import { MicrophoneIcon } from "@heroicons/react/24/solid";
 import { useNavigate, useParams } from "react-router-dom";
+import { ReactComponent as Logo } from "../../assets/logo.svg";
 
 function SearchHeader() {
   const navigate = useNavigate();
-  const {keyword} = useParams();
+  const { keyword } = useParams();
 
   const [text, setText] = useState("");
 
@@ -14,25 +22,48 @@ function SearchHeader() {
   };
 
   useEffect(() => {
-    setText(keyword || '');
+    setText(keyword || "");
   }, [keyword]);
 
   return (
-    <div className="bg-bgColor w-full flex flex-row justify-between items-center h-[56px] sticky top-0">
+    <div className="bg-bgColor w-full flex flex-row justify-between items-center h-[56px] sticky top-0 px-[16px]">
       {/* 로고 */}
-      <div></div>
+      <div className="flex flex-row align-middle gap-[16px]">
+        <Bars3Icon className="fill-white-100 w-[24px] h-[24px] storke-white m-[8px]" />
+        <Logo />
+      </div>
       {/* 키워드 입력 */}
-      <form onSubmit={handleSubmit} className="flex flex-row rounded-full">
-        <input
-          placeholder="검색"
-          value={text}
-          onChange={(e) => setText(e.target.value)}
-          className="bg-transparent text-white"
-        />
-        <MagnifyingGlassIcon className="stroke-white w-[24px]" />
-      </form>
+      <div className="flex flex-row basis-[50%] gap-3"> 
+        <div className="w-full flex flex-row rounded-full border border-[#717171] h-[40px] overflow-hidden">
+          <form
+            onSubmit={handleSubmit}
+            className="w-full flex flex-row justify-between"
+          >
+            <input
+              placeholder="검색"
+              value={text}
+              onChange={(e) => setText(e.target.value)}
+              className="bg-transparent text-white ml-[32px] w-full"
+            />
+            {text && <XMarkIcon onClick={() => setText("")} />}
+            <div className="w-[64px] flex justify-center bg-[#717171]">
+              <MagnifyingGlassIcon className="stroke-white w-[24px]" />
+            </div>
+          </form>
+        </div>
+        <div className="w-[40px] h-[40px] bg-[#717171] rounded-full flex justify-center align-middle">
+          <MicrophoneIcon className="w-[20px] h-[20px] storke-white my-auto" />
+        </div>
+      </div>
+
       {/* buttons */}
-      <div></div>
+      <div className="flex flex-row gap-6 align-middle">
+        <VideoCameraIcon className="w-[24px] h-[24px] stroke-white my-auto"/>
+        <BellIcon className="w-[24px] h-[24px] stroke-white my-auto"/>
+        <div className="w-[32px] h-[32px] rounded-full flex justify-center align-middle overflow-hidden">
+          <img className="object-cover" src="https://yt3.ggpht.com/yti/AGOGRCqQl9wuLJFhjx1cdrdcMexTLA9StA3OveWfAA=s88-c-k-c0x00ffffff-no-rj-mo"/>
+        </div>
+      </div>
     </div>
   );
 }
