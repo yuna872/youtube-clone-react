@@ -12,6 +12,7 @@ module.exports = {
       bgColor: "#0F0F0F",
       youtubeWhite: "#F1F1F1",
       youtubeGray: "#AAAAAA",
+      youtubeDarkGray: "#717171",
     },
   },
   plugins: [],

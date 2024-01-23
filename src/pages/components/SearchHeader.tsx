@@ -33,8 +33,8 @@ function SearchHeader() {
         <Logo />
       </div>
       {/* 키워드 입력 */}
-      <div className="flex flex-row basis-[50%] gap-3"> 
-        <div className="w-full flex flex-row rounded-full border border-[#717171] h-[40px] overflow-hidden">
+      <div className="flex flex-row basis-[35%] gap-3"> 
+        <div className="w-full flex flex-row rounded-full border border-[#FFFFFF1A] h-[40px] overflow-hidden">
           <form
             onSubmit={handleSubmit}
             className="w-full flex flex-row justify-between"
@@ -46,18 +46,18 @@ function SearchHeader() {
               className="bg-transparent text-white ml-[32px] w-full"
             />
             {text && <XMarkIcon onClick={() => setText("")} />}
-            <div className="w-[64px] flex justify-center bg-[#717171]">
+            <div className="w-[64px] flex justify-center bg-[#FFFFFF1A]">
               <MagnifyingGlassIcon className="stroke-white w-[24px]" />
             </div>
           </form>
         </div>
-        <div className="w-[40px] h-[40px] bg-[#717171] rounded-full flex justify-center align-middle">
+        <div className="w-[40px] h-[40px] bg-[#FFFFFF1A] rounded-full flex justify-center align-middle">
           <MicrophoneIcon className="w-[20px] h-[20px] storke-white my-auto" />
         </div>
       </div>
 
       {/* buttons */}
-      <div className="flex flex-row gap-6 align-middle">
+      <div className="flex flex-row gap-6 align-middle mr-[20px]">
         <VideoCameraIcon className="w-[24px] h-[24px] stroke-white my-auto"/>
         <BellIcon className="w-[24px] h-[24px] stroke-white my-auto"/>
         <div className="w-[32px] h-[32px] rounded-full flex justify-center align-middle overflow-hidden">

@@ -3,6 +3,7 @@ import { useQuery } from "@tanstack/react-query";
 import { TVideo } from "../../types/Video";
 import Loading from "../components/Loading";
 import Error from "../components/Error";
+import Chips from "./components/Chips";
 
 function Videos() {
   const { keyword } = useParams();
@@ -25,11 +26,12 @@ function Videos() {
       {isLoading && <Loading />}
       {error && <Error />}
       {videos && (
-        <>
-          <div className="grid sm:grid-cols-1 xxl:grid-cols-5 xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 grid-flow-row gap-4 justify-center">
+        <div className="flex flex-col justify-center border">
+          <Chips />
+          <div className="grid sm:grid-cols-1 xxl:grid-cols-5 xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 grid-flow-row gap-4">
             {videos.map((video: TVideo) => {
               return (
-                <div key={video.snippet.description} className="col mx-[16px]">
+                <div key={video.snippet.description} className="col mr-[16px]">
                   <a href={`/watch/${video.id.videoId}`} className="w-full">
                     <img
                       src={video.snippet.thumbnails.medium.url}
@@ -56,7 +58,7 @@ function Videos() {
               );
             })}
           </div>
-        </>
+        </div>
       )}
     </>
   );
