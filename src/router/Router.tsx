@@ -4,7 +4,7 @@ import Results from "../pages/results";
 import SearchHeader from "../pages/components/SearchHeader";
 import Videos from "../pages/home/index";
 import SideBar from "../pages/components/SideBar";
-
+import Chips from "../pages/components/Chips";
 
 const router = createBrowserRouter([
   {
@@ -32,9 +32,11 @@ function Layout(): JSX.Element {
     <div className="relative">
       <SearchHeader />
       <div className="flex flex-row">
-
-      <SideBar/>
-      <Outlet />
+        <SideBar />
+        <div className="flex flex-col w-full">
+          <Chips />
+          <Outlet />
+        </div>
       </div>
     </div>
   );

@@ -15,5 +15,5 @@ module.exports = {
       youtubeDarkGray: "#717171",
     },
   },
-  plugins: [],
+  plugins: [require("tailwind-scrollbar-hide")],
 };

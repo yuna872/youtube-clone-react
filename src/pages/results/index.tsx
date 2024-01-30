@@ -1,23 +1,30 @@
 import { useQuery } from "@tanstack/react-query";
-import { useParams } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 import Loading from "../components/Loading";
 import Error from "../components/Error";
-import { TVideo } from "../../types/Video";
 import Video from "./components/video";
 import Channel from "./components/channel";
+import GetVideos from "../../apis/getVideos";
+import { TVideo } from "../../types/Video";
 
 function Results() {
   const { keyword } = useParams();
+  const navigate = useNavigate();
+
   const {
     isLoading,
     error,
-    data: results,
-  } = useQuery({
+    data: videos,
+  } = useQuery<TVideo[] | [], Error>({
     queryKey: ["videos", keyword],
-    queryFn: async () => {
-      return fetch(`/data/list_by_keyword.json`)
-        .then((res) => res.json())
-        .then((data) => data.items);
+    queryFn: () => {
+      if(keyword) {
+        const videos = new GetVideos();
+        return videos.searchByKeyword(keyword);
+      } else {
+        navigate('/')
+        return []
+      }
     },
   });
 
@@ -25,9 +32,9 @@ function Results() {
     <>
       {isLoading && <Loading />}
       {error && <Error />}
-      {results && (
+      {videos && (
         <div className="flex flex-col max-w-[1096px] gap-5 mx-auto">
-          {results.map((result: TVideo) => {
+          {videos.map((result: TVideo) => {
             if (result.id.kind === "youtube#video")
               return (
                 <Video

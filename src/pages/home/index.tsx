@@ -3,7 +3,9 @@ import { useQuery } from "@tanstack/react-query";
 import { TVideo } from "../../types/Video";
 import Loading from "../components/Loading";
 import Error from "../components/Error";
-import Chips from "./components/Chips";
+import Chips from "../components/Chips";
+import FakeVideos from "../../apis/fakeGetVidoes";
+import GetVideos from "../../apis/getVideos";
 
 function Videos() {
   const { keyword } = useParams();
@@ -14,10 +16,9 @@ function Videos() {
     data: videos,
   } = useQuery({
     queryKey: ["videos", keyword],
-    queryFn: async () => {
-      return fetch(`/data/most_popular.json`)
-        .then((res) => res.json())
-        .then((data) => data.items);
+    queryFn: () => {
+      const getVideos = new GetVideos();
+      return getVideos.mostPopular();
     },
   });
 
@@ -27,12 +28,11 @@ function Videos() {
       {error && <Error />}
       {videos && (
         <div className="flex flex-col justify-center border">
-          <Chips />
           <div className="grid sm:grid-cols-1 xxl:grid-cols-5 xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 grid-flow-row gap-4">
             {videos.map((video: TVideo) => {
               return (
                 <div key={video.snippet.description} className="col mr-[16px]">
-                  <a href={`/watch/${video.id.videoId}`} className="w-full">
+                  <a href={`/watch/${video.id}`} className="w-full">
                     <img
                       src={video.snippet.thumbnails.medium.url}
                       className="object-none rounded-[12px]"
