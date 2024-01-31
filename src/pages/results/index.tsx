@@ -1,29 +1,25 @@
 import { useQuery } from "@tanstack/react-query";
-import { useNavigate, useParams } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import Loading from "../components/Loading";
 import Error from "../components/Error";
 import Video from "./components/video";
 import Channel from "./components/channel";
-import GetVideos from "../../apis/getVideos";
 import { TVideo } from "../../types/Video";
+import { useYoutubeApi } from "../../context/YoutubeApiContext";
 
 function Results() {
   const { keyword } = useParams();
-  const navigate = useNavigate();
+  const { youtube } = useYoutubeApi();
 
   const {
     isLoading,
     error,
     data: videos,
-  } = useQuery<TVideo[] | [], Error>({
+  } = useQuery({
     queryKey: ["videos", keyword],
     queryFn: () => {
-      if(keyword) {
-        const videos = new GetVideos();
-        return videos.searchByKeyword(keyword);
-      } else {
-        navigate('/')
-        return []
+      if (keyword) {
+        return youtube.searchByKeyword(keyword);
       }
     },
   });

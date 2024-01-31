@@ -1,14 +1,17 @@
 import { useParams } from "react-router-dom";
 import { useQuery } from "@tanstack/react-query";
-import { TVideo } from "../../types/Video";
+import { TPopularVideo, TVideo } from "../../types/Video";
 import Loading from "../components/Loading";
 import Error from "../components/Error";
 import Chips from "../components/Chips";
 import FakeVideos from "../../apis/fakeGetVidoes";
 import GetVideos from "../../apis/getVideos";
+import FakeGetVideos from "../../apis/fakeGetVidoes";
+import { useYoutubeApi } from "../../context/YoutubeApiContext";
 
 function Videos() {
   const { keyword } = useParams();
+  const { youtube } = useYoutubeApi();
 
   const {
     isLoading,
@@ -17,8 +20,7 @@ function Videos() {
   } = useQuery({
     queryKey: ["videos", keyword],
     queryFn: () => {
-      const getVideos = new GetVideos();
-      return getVideos.mostPopular();
+      return youtube.mostPopular();
     },
   });
 
@@ -29,7 +31,7 @@ function Videos() {
       {videos && (
         <div className="flex flex-col justify-center border">
           <div className="grid sm:grid-cols-1 xxl:grid-cols-5 xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 grid-flow-row gap-4">
-            {videos.map((video: TVideo) => {
+            {videos.map((video: TPopularVideo) => {
               return (
                 <div key={video.snippet.description} className="col mr-[16px]">
                   <a href={`/watch/${video.id}`} className="w-full">

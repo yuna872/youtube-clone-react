@@ -1,18 +1,16 @@
+import { TPopularVideo, TVideo } from './../types/Video';
 import axios from "axios";
 
 export default class FakeGetVideos {
   constructor() {}
 
-  async searchByKeyword(keyword : string) {
+  async searchByKeyword(keyword : string) : Promise<TVideo[]> {
     return axios
       .get(`/data/list_by_keyword.json`)
       .then((res) => res.data.items)
-      .then((items) =>
-        items.map((item : any) => ({ ...item, id: item.id.videoId }))
-      );
   }
 
-  async mostPopular() {
+  async mostPopular(): Promise<TPopularVideo[]> {
     return axios.get(`/data/most_popular.json`).then((res) => res.data.items);
   }
 }
