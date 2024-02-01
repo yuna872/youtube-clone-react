@@ -5,16 +5,24 @@ export default class FakeGetVideos {
   constructor() {}
 
   async getVideos(keyword: string | undefined) {
-    return keyword ? this.searchByKeyword("") : this.mostPopular();
+    return keyword ? this.listByKeyword("") : this.mostPopular();
   }
 
-  async searchByKeyword(keyword: string): Promise<TVideo[]> {
+  async getVideo(id: string) {
+    return this.listByKeyword(id);
+  }
+
+  private async mostPopular(): Promise<TPopularVideo[]> {
+    return axios.get(`/data/most_popular.json`).then((res) => res.data.items);
+  }
+
+  private async listByKeyword(keyword: string): Promise<TVideo[]> {
     return axios
       .get(`/data/list_by_keyword.json`)
       .then((res) => res.data.items);
   }
 
-  async mostPopular(): Promise<TPopularVideo[]> {
-    return axios.get(`/data/most_popular.json`).then((res) => res.data.items);
+  private async listByVideoId(id: string) {
+    return axios.get(`/data/video.json`).then((res) => res.data.items);
   }
 }

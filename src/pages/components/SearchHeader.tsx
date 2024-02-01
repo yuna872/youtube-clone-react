@@ -28,12 +28,15 @@ function SearchHeader() {
   return (
     <div className="bg-bgColor w-full flex flex-row justify-between items-center h-[56px] sticky top-0 px-[16px]">
       {/* 로고 */}
-      <div className="flex flex-row align-middle gap-[16px]">
+      <div
+        className="flex flex-row align-middle gap-[16px]"
+        onClick={() => navigate("/")}
+      >
         <Bars3Icon className="fill-white-100 w-[24px] h-[24px] storke-white m-[8px]" />
         <Logo />
       </div>
       {/* 키워드 입력 */}
-      <div className="flex flex-row basis-[35%] gap-3"> 
+      <div className="flex flex-row basis-[35%] gap-3">
         <div className="w-full flex flex-row rounded-full border border-[#FFFFFF1A] h-[40px] overflow-hidden">
           <form
             onSubmit={handleSubmit}
@@ -58,10 +61,13 @@ function SearchHeader() {
 
       {/* buttons */}
       <div className="flex flex-row gap-6 align-middle mr-[20px]">
-        <VideoCameraIcon className="w-[24px] h-[24px] stroke-white my-auto"/>
-        <BellIcon className="w-[24px] h-[24px] stroke-white my-auto"/>
+        <VideoCameraIcon className="w-[24px] h-[24px] stroke-white my-auto" />
+        <BellIcon className="w-[24px] h-[24px] stroke-white my-auto" />
         <div className="w-[32px] h-[32px] rounded-full flex justify-center align-middle overflow-hidden">
-          <img className="object-cover" src="https://yt3.ggpht.com/yti/AGOGRCqQl9wuLJFhjx1cdrdcMexTLA9StA3OveWfAA=s88-c-k-c0x00ffffff-no-rj-mo"/>
+          <img
+            className="object-cover"
+            src="https://yt3.ggpht.com/yti/AGOGRCqQl9wuLJFhjx1cdrdcMexTLA9StA3OveWfAA=s88-c-k-c0x00ffffff-no-rj-mo"
+          />
         </div>
       </div>
     </div>

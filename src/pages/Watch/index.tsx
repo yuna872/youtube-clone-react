@@ -2,9 +2,11 @@ import { useQuery } from "@tanstack/react-query";
 import { useParams } from "react-router-dom";
 import Loading from "../components/Loading";
 import Error from "../components/Error";
+import { useYoutubeApi } from "../../context/YoutubeApiContext";
 
 function Watch() {
   const { videoId } = useParams();
+  const { youtube } = useYoutubeApi();
 
   const {
     isLoading,
@@ -12,10 +14,8 @@ function Watch() {
     data: video,
   } = useQuery({
     queryKey: ["video", videoId],
-    queryFn: async () => {
-      return fetch("/data/video.json")
-        .then((res) => res.json())
-        .then((data) => data.items[0]);
+    queryFn: () => {
+      return youtube.getVideo(videoId);
     },
   });
 

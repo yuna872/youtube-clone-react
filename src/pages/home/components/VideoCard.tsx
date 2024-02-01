@@ -11,7 +11,7 @@ function VideoCard({ video }: TVideoCardProps) {
   const { title, description, thumbnails, channelTitle, publishedAt } =
     video.snippet;
   return (
-    <li key={description}>
+    <li key={description} onClick={() => navigate(`/watch/${video.id}`)}>
       <img src={thumbnails.medium.url} alt={title} className="w-full" />
       <div className="flex flex-row w-full mt-[12px]">
         {/* <div className="bg-white rounded-[100%] w-[36px] h-[36px]"></div> */}
