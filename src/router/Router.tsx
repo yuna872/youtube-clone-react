@@ -13,11 +13,17 @@ const router = createBrowserRouter([
     children: [
       {
         path: "",
-        element: <Videos />, // 홈 페이지
-      },
-      {
-        path: "/results/:keyword",
-        element: <Results />, // 키워드로 검색한 결과
+        element: <LayoutWithSideBar />, // with SideBar
+        children: [
+          {
+            path: "",
+            element: <Videos />, // 홈 페이지
+          },
+          {
+            path: "/results/:keyword",
+            element: <Results />, // 키워드로 검색한 결과
+          },
+        ],
       },
       {
         path: "/watch/:videoId",
@@ -27,18 +33,27 @@ const router = createBrowserRouter([
   },
 ]);
 
+// 기본 레이아웃 (only Search Header)
 function Layout(): JSX.Element {
   return (
     <div className="relative">
       <SearchHeader />
-      <div className="flex flex-row">
-        <SideBar />
-        <div className="flex flex-col w-full">
-          <Chips />
-          <Outlet />
-        </div>
+      <Outlet />
+    </div>
+  );
+}
+
+// sideBar를 포함하는 레이아웃
+function LayoutWithSideBar(): JSX.Element {
+  return (
+    <div className="flex flex-row">
+      <SideBar />
+      <div className="flex flex-col w-full">
+        <Chips />
+        <Outlet />
       </div>
     </div>
   );
 }
+
 export default router;

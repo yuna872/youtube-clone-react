@@ -9,7 +9,7 @@ export default class FakeGetVideos {
   }
 
   async getVideo(id: string) {
-    return this.listByKeyword(id);
+    return this.listByVideoId(id);
   }
 
   private async mostPopular(): Promise<TPopularVideo[]> {

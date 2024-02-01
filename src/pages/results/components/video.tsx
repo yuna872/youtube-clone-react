@@ -1,3 +1,5 @@
+import { useNavigate } from "react-router-dom";
+
 type TVideoProps = {
   video: {
     thumbnails: string;

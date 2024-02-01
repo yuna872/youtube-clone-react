@@ -1,64 +1,89 @@
 {
     "kind": "youtube#videoListResponse",
-    "etag": "k2UThIKqSdfeJnuWr05x9UYpHUs",
+    "etag": "tnZwXvdAw9vYJ_94szv1Tq6E_5A",
     "items": [
         {
             "kind": "youtube#video",
-            "etag": "fxS5HK3pIPDEMB0BbC1IjHr_X94",
-            "id": "ll5LV8Ty8Kg",
+            "etag": "IfeQR6TgBkkrcnxjpXR_19acoZ4",
+            "id": "K-ve8HQX55M",
             "snippet": {
-                "publishedAt": "2024-01-18T09:01:34Z",
-                "channelId": "UCoe-0EVDJnjlSoPK8ygcGwQ",
-                "title": "놀뭐 회식에서 뭐하니... (Feat. 놀면 뭐하니)",
-                "description": "이런 즉흥적인 콘텐츠가 또 짐종국의 묘미 아니겠습니까 ㅎ\n간만에 하하네 가게.. 가 아닌 하하와 저의 가게! 홍대 401에 방문했습니다! \n\n지난번 새해 러이브를 가던 중 길 건너 401에서 ‘놀면 뭐하니’ 팀의 회식 소식에 아주 잠깐 들러서 재밌는 토크 뽑아 왔습니다 ㅋ\n\n아쉽게 불발된 놀뭐와 런닝맨의 콜라보 계획! 과연 다시 한번 불을 붙일 수 있을지! \n\n사랑 넘치는 덕담으로 가득 찬 오늘 영상 재밌게 보시고 많이 웃으시길 바랍니다!",
+                "publishedAt": "2024-01-31T09:00:04Z",
+                "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+                "title": "[EN] 이달의 계원ㅣ1월 이동휘 - 산책의 효능",
+                "description": "12년 차 배우 이동휘와 함께 서울을 걷다\n\n\"빌딩숲 속에서 유유히 걷고 있는 저 자신? 그런 거를 되게 좀 좋아하는 것 같아요\"\n\n조금은 쌀쌀했던 2024년 1월 중순 서울 남산 일대. 뜬뜬 제작진이 배우 이동휘를 만났다. 평소 걷기를 좋아한다고 밝힌 바 있던 그는 쑥스러운 듯 모습을 드러냈다. 그의 산책 코스를 함께 따라 걷고 또 진솔한 대화마저 조금씩 곁들어 본다. 재미에 대한 약간의 강박과 초조함은 잠시, 바쁜 일상 속 도심 산책의 정취를 그와 함께 느끼며 여러 가지 산책의 효능을 고스란히 담아보고자 한다.\n\nㅡㅡㅡ\n\n✨2024 핑계고 스핀오프 프로젝트✨\n🗓이달의 계원🗓 매월 한 편씩 공개!\n\nㅡㅡㅡ\n\n[채널 '뜬뜬' of 안테나플러스]\n연출 | 조은진 이은솔 추형록\n작가 | 김송화 최수정\n\nㅡㅡㅡ\n\n👇’뜬뜬’ 소식 보러가기\n[https://instagram.com/ddeun._.ddeun]\n#뜬뜬 #핑계고스핀오프 #이달의계원 #1월 #이동휘 #산책\n\n*본 콘텐츠와 무관한 내용의 댓글과 출연자에 대한 무분별한 욕설, 비난 및 조롱 등 악의적인 댓글은 무통보 삭제될 수 있습니다.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/ll5LV8Ty8Kg/default.jpg",
+                        "url": "https://i.ytimg.com/vi/K-ve8HQX55M/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/ll5LV8Ty8Kg/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/K-ve8HQX55M/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/ll5LV8Ty8Kg/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/K-ve8HQX55M/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/ll5LV8Ty8Kg/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/K-ve8HQX55M/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/ll5LV8Ty8Kg/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/K-ve8HQX55M/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "김종국 GYM JONG KOOK",
+                "channelTitle": "뜬뜬 DdeunDdeun",
                 "tags": [
-                    "김종국",
-                    "짐종국",
-                    "런닝맨",
-                    "미우새",
-                    "헬스",
-                    "운동",
-                    "유재석",
-                    "하하",
-                    "이광수",
-                    "송지효",
-                    "스포츠"
+                    "뜬뜬",
+                    "핑계고",
+                    "핑계고스핀오프",
+                    "스핀오프",
+                    "이달계",
+                    "이달의계원",
+                    "이동휘",
+                    "산책의효능",
+                    "산책",
+                    "플레이리스트",
+                    "플리추천",
+                    "겨울감성플리",
+                    "자기전에",
+                    "효능정보",
+                    "이것해야합니다",
+                    "이것알고계셨나요",
+                    "안보면후회",
+                    "신작",
+                    "신규예능",
+                    "드라마추천",
+                    "졸업은핑계고"
                 ],
-                "categoryId": "17",
+                "categoryId": "23",
                 "liveBroadcastContent": "none",
                 "localized": {
-                    "title": "놀뭐 회식에서 뭐하니... (Feat. 놀면 뭐하니)",
-                    "description": "이런 즉흥적인 콘텐츠가 또 짐종국의 묘미 아니겠습니까 ㅎ\n간만에 하하네 가게.. 가 아닌 하하와 저의 가게! 홍대 401에 방문했습니다! \n\n지난번 새해 러이브를 가던 중 길 건너 401에서 ‘놀면 뭐하니’ 팀의 회식 소식에 아주 잠깐 들러서 재밌는 토크 뽑아 왔습니다 ㅋ\n\n아쉽게 불발된 놀뭐와 런닝맨의 콜라보 계획! 과연 다시 한번 불을 붙일 수 있을지! \n\n사랑 넘치는 덕담으로 가득 찬 오늘 영상 재밌게 보시고 많이 웃으시길 바랍니다!"
+                    "title": "[EN] 이달의 계원ㅣ1월 이동휘 - 산책의 효능",
+                    "description": "12년 차 배우 이동휘와 함께 서울을 걷다\n\n\"빌딩숲 속에서 유유히 걷고 있는 저 자신? 그런 거를 되게 좀 좋아하는 것 같아요\"\n\n조금은 쌀쌀했던 2024년 1월 중순 서울 남산 일대. 뜬뜬 제작진이 배우 이동휘를 만났다. 평소 걷기를 좋아한다고 밝힌 바 있던 그는 쑥스러운 듯 모습을 드러냈다. 그의 산책 코스를 함께 따라 걷고 또 진솔한 대화마저 조금씩 곁들어 본다. 재미에 대한 약간의 강박과 초조함은 잠시, 바쁜 일상 속 도심 산책의 정취를 그와 함께 느끼며 여러 가지 산책의 효능을 고스란히 담아보고자 한다.\n\nㅡㅡㅡ\n\n✨2024 핑계고 스핀오프 프로젝트✨\n🗓이달의 계원🗓 매월 한 편씩 공개!\n\nㅡㅡㅡ\n\n[채널 '뜬뜬' of 안테나플러스]\n연출 | 조은진 이은솔 추형록\n작가 | 김송화 최수정\n\nㅡㅡㅡ\n\n👇’뜬뜬’ 소식 보러가기\n[https://instagram.com/ddeun._.ddeun]\n#뜬뜬 #핑계고스핀오프 #이달의계원 #1월 #이동휘 #산책\n\n*본 콘텐츠와 무관한 내용의 댓글과 출연자에 대한 무분별한 욕설, 비난 및 조롱 등 악의적인 댓글은 무통보 삭제될 수 있습니다."
                 },
                 "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT25M45S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "662993",
+                "likeCount": "21276",
+                "favoriteCount": "0",
+                "commentCount": "1380"
             }
         }
     ],

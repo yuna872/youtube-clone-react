@@ -1,5 +1,5 @@
 import { useQuery } from "@tanstack/react-query";
-import { useParams } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 import Loading from "../components/Loading";
 import Error from "../components/Error";
 import Video from "./components/video";
@@ -8,6 +8,7 @@ import { TVideo } from "../../types/Video";
 import { useYoutubeApi } from "../../context/YoutubeApiContext";
 
 function Results() {
+  const navigate = useNavigate()
   const { keyword } = useParams();
   const { youtube } = useYoutubeApi();
 
