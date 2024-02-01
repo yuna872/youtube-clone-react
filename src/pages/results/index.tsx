@@ -19,7 +19,7 @@ function Results() {
     queryKey: ["videos", keyword],
     queryFn: () => {
       if (keyword) {
-        return youtube.searchByKeyword(keyword);
+        return youtube.getVideos(keyword);
       }
     },
   });

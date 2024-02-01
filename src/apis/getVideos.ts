@@ -11,7 +11,11 @@ export default class GetVideos {
     });
   }
 
-  async searchByKeyword(keyword: string) {
+  async getVideos(keyword : string | undefined) {
+    return keyword  ? this.searchByKeyword(keyword): this.mostPopular();
+  }
+
+  private async searchByKeyword(keyword: string) {
     return this.httpClient
       .get("search", {
         params: {
@@ -26,7 +30,7 @@ export default class GetVideos {
       });
   }
 
-  async mostPopular() {
+  private async mostPopular() {
     return this.httpClient
       .get("videos", {
         params: {
