@@ -1,5 +1,4 @@
 import axios, { AxiosInstance } from "axios";
-import { TVideo } from "../types/Video";
 
 export default class GetVideos {
   private httpClient: AxiosInstance;
@@ -7,16 +6,15 @@ export default class GetVideos {
   constructor() {
     this.httpClient = axios.create({
       baseURL: "https://www.googleapis.com/youtube/v3",
-      params: { key: process.env.REACT_APP_YOUTUBE_API_KEY },
+      params: { key: import.meta.env.VITE_YOUTUBE_API_KEY },
     });
   }
 
-  async getVideos(keyword : string | undefined) {
-    return keyword  ? this.listByKeyword(keyword): this.mostPopular();
+  async getVideos(keyword: string | undefined) {
+    return keyword ? this.listByKeyword(keyword) : this.mostPopular();
   }
 
-
-  async getVideo(id:string) {
+  async getVideo(id: string) {
     return this.listByVideoId(id);
   }
 
@@ -54,14 +52,12 @@ export default class GetVideos {
   }
 
   // 비디오 상세
-  private async listByVideoId(id : string) {
-    return this.httpClient.get(
-    "videos", {
-      params : {
-        part : "snippet,contentDetails,statistics",
+  private async listByVideoId(id: string) {
+    return this.httpClient.get("videos", {
+      params: {
+        part: "snippet,contentDetails,statistics",
         id,
-      }
-    }
-    )
+      },
+    });
   }
 }
