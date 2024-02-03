@@ -1,4 +1,4 @@
-import { TPopularVideo, TVideo } from "../types/Video";
+import { TPopularVideo, TVideo } from "../../types/Video";
 import axios from "axios";
 
 export default class FakeGetVideos {

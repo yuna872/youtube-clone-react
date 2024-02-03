@@ -3,7 +3,7 @@ import { useParams } from "react-router-dom";
 import Loading from "../components/Loading";
 import Error from "../components/Error";
 import { useYoutubeApi } from "../../context/YoutubeApiContext";
-import WatchVideo from "./component/WatchVideo";
+import VideoPlayer from "./component/VideoPlayer";
 import RelatedVideos from "./component/RelatedVideos";
 
 function Watch() {
@@ -21,7 +21,6 @@ function Watch() {
     },
   });
 
-
   return (
     <>
       {isLoading && <Loading />}
@@ -30,11 +29,11 @@ function Watch() {
         <div className="flex flex-row">
           <article className="p-[24px]">
             {/* 영화 컨텐츠 */}
-            <WatchVideo video={video[0]} />
+            <VideoPlayer video={video[0]} />
             {/* 댓글 */}
           </article>
           {/* 연관된 영상 */}
-<RelatedVideos/>
+          <RelatedVideos />
         </div>
       )}
     </>

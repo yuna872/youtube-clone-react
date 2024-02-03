@@ -8,7 +8,6 @@ import {
 } from "@heroicons/react/24/outline";
 import { MicrophoneIcon } from "@heroicons/react/24/solid";
 import { useNavigate, useParams } from "react-router-dom";
-import { ReactComponent as Logo } from "../../assets/logo.svg";
 
 function SearchHeader() {
   const navigate = useNavigate();
@@ -33,7 +32,7 @@ function SearchHeader() {
         onClick={() => navigate("/")}
       >
         <Bars3Icon className="fill-white-100 w-[24px] h-[24px] storke-white m-[8px]" />
-        <Logo />
+        {/* <Logo /> */}
       </div>
       {/* 키워드 입력 */}
       <div className="flex flex-row basis-[35%] gap-3">
@@ -46,7 +45,7 @@ function SearchHeader() {
               placeholder="검색"
               value={text}
               onChange={(e) => setText(e.target.value)}
-              className="bg-transparent text-white ml-[32px] w-full"
+              className="bg-[#0f0f0f] text-white ml-[32px] w-full"
             />
             {text && <XMarkIcon onClick={() => setText("")} />}
             <div className="w-[64px] flex justify-center bg-[#FFFFFF1A]">
