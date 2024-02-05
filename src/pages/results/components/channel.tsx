@@ -26,7 +26,7 @@ function Channel({ channel }: TChannelProps) {
         </p>
       </div>
       <div className="flex flex-col justify-center">
-        <button className="text-[14px] bg-youtubeWhite text-black rounded-[18px] px-[16px] h-[36px] whitespace-nowrap">
+        <button className="text-[14px] bg-youtubeWhite text-[#000] rounded-[18px] px-[16px] h-[36px] whitespace-nowrap">
           구독
         </button>
       </div>

@@ -1,42 +1,55 @@
 {
     "kind": "youtube#channelListResponse",
-    "etag": "Uwa5-B4DC5bxyUVKudihcWOhvLI",
+    "etag": "WRugo9XvlJTjDLFfTE19utos5hw",
     "pageInfo": {
-        "totalResults": 1,
-        "resultsPerPage": 5
+      "totalResults": 1,
+      "resultsPerPage": 5
     },
     "items": [
-        {
-            "kind": "youtube#channel",
-            "etag": "pf_FJcGCJ5ekrrN_AE8Dju_wZJo",
-            "id": "UCBCJHYNHAWcD041KKlgbnKg",
-            "snippet": {
-                "title": "매아리넷",
-                "description": "안녕하세요:)\n저는 이화여자대학교 음악대학원에 다니는!\n졸업 앞두고 발등에 불 떨어져서 2024 갓생살기 프로젝트\n진행중인 사람입니다.\n이 곳은 저의 생각, 고민, 다재다능(?)함을 알리기 위한 공간이에요.\n나는 참 괜찮은 사람인데 누가 날 써주면 좋겠다는 생각을 하다가 제가 직접 저를 써보기로 결심했습니다. \n\n또 하고싶은 것도 되고싶은 것도 넘치는 사람이라,\n그 과정을 기록하는 공간이 될 것 같기도 합니다.\n\n단기간에 확실한 성취를 위해서 제가 선택한 방법은 미라클 모닝인데요. 과연 (주말빼고) 매일 새벽 5시에 일어나는 사람에게 1년동안 무슨일이 일어날지. \n\n한번 지켜봐주세요 😎\n\n\n🎀 INSTAGRAM\n@kimhyehwa__\n\n\n📍업로드 주기\n:  일주일에 1개 이상\n   아직 요일 미정이라 당분간은 막무가내로 업로드 예정  \n\n\n",
-                "customUrl": "@maearinet",
-                "publishedAt": "2013-03-12T11:40:48Z",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://yt3.ggpht.com/7xEZjqclnae7u0dvimRFiozmRu3L7u2wgni8LvrCqlbosHHLTjUjKtnpkW0jrXm3jAHD5HSf=s88-c-k-c0x00ffffff-no-rj",
-                        "width": 88,
-                        "height": 88
-                    },
-                    "medium": {
-                        "url": "https://yt3.ggpht.com/7xEZjqclnae7u0dvimRFiozmRu3L7u2wgni8LvrCqlbosHHLTjUjKtnpkW0jrXm3jAHD5HSf=s240-c-k-c0x00ffffff-no-rj",
-                        "width": 240,
-                        "height": 240
-                    },
-                    "high": {
-                        "url": "https://yt3.ggpht.com/7xEZjqclnae7u0dvimRFiozmRu3L7u2wgni8LvrCqlbosHHLTjUjKtnpkW0jrXm3jAHD5HSf=s800-c-k-c0x00ffffff-no-rj",
-                        "width": 800,
-                        "height": 800
-                    }
-                },
-                "localized": {
-                    "title": "매아리넷",
-                    "description": "안녕하세요:)\n저는 이화여자대학교 음악대학원에 다니는!\n졸업 앞두고 발등에 불 떨어져서 2024 갓생살기 프로젝트\n진행중인 사람입니다.\n이 곳은 저의 생각, 고민, 다재다능(?)함을 알리기 위한 공간이에요.\n나는 참 괜찮은 사람인데 누가 날 써주면 좋겠다는 생각을 하다가 제가 직접 저를 써보기로 결심했습니다. \n\n또 하고싶은 것도 되고싶은 것도 넘치는 사람이라,\n그 과정을 기록하는 공간이 될 것 같기도 합니다.\n\n단기간에 확실한 성취를 위해서 제가 선택한 방법은 미라클 모닝인데요. 과연 (주말빼고) 매일 새벽 5시에 일어나는 사람에게 1년동안 무슨일이 일어날지. \n\n한번 지켜봐주세요 😎\n\n\n🎀 INSTAGRAM\n@kimhyehwa__\n\n\n📍업로드 주기\n:  일주일에 1개 이상\n   아직 요일 미정이라 당분간은 막무가내로 업로드 예정  \n\n\n"
-                }
+      {
+        "kind": "youtube#channel",
+        "etag": "CDqHh3Gilw4wumZDd6Rvi3LCvO4",
+        "id": "UCBCJHYNHAWcD041KKlgbnKg",
+        "snippet": {
+          "title": "매아리넷",
+          "description": "안녕하세요:)\n저는 이화여자대학교 음악대학원에 다니는!\n졸업 앞두고 발등에 불 떨어져서 2024 갓생살기 프로젝트\n진행중인 사람입니다.\n이 곳은 저의 생각, 고민, 다재다능(?)함을 알리기 위한 공간이에요.\n나는 참 괜찮은 사람인데 누가 날 써주면 좋겠다는 생각을 하다가 제가 직접 저를 써보기로 결심했습니다. \n\n또 하고싶은 것도 되고싶은 것도 넘치는 사람이라,\n그 과정을 기록하는 공간이 될 것 같기도 합니다.\n\n단기간에 확실한 성취를 위해서 제가 선택한 방법은 미라클 모닝인데요. 과연 (주말빼고) 매일 새벽 5시에 일어나는 사람에게 1년동안 무슨일이 일어날지. \n\n한번 지켜봐주세요 😎\n\n\n🎀 INSTAGRAM\n@kimhyehwa__\n\n\n📍업로드 주기\n:  일주일에 1개 이상\n   아직 요일 미정이라 당분간은 막무가내로 업로드 예정  \n\n\n",
+          "customUrl": "@maearinet",
+          "publishedAt": "2013-03-12T11:40:48Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/7xEZjqclnae7u0dvimRFiozmRu3L7u2wgni8LvrCqlbosHHLTjUjKtnpkW0jrXm3jAHD5HSf=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/7xEZjqclnae7u0dvimRFiozmRu3L7u2wgni8LvrCqlbosHHLTjUjKtnpkW0jrXm3jAHD5HSf=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/7xEZjqclnae7u0dvimRFiozmRu3L7u2wgni8LvrCqlbosHHLTjUjKtnpkW0jrXm3jAHD5HSf=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
             }
+          },
+          "localized": {
+            "title": "매아리넷",
+            "description": "안녕하세요:)\n저는 이화여자대학교 음악대학원에 다니는!\n졸업 앞두고 발등에 불 떨어져서 2024 갓생살기 프로젝트\n진행중인 사람입니다.\n이 곳은 저의 생각, 고민, 다재다능(?)함을 알리기 위한 공간이에요.\n나는 참 괜찮은 사람인데 누가 날 써주면 좋겠다는 생각을 하다가 제가 직접 저를 써보기로 결심했습니다. \n\n또 하고싶은 것도 되고싶은 것도 넘치는 사람이라,\n그 과정을 기록하는 공간이 될 것 같기도 합니다.\n\n단기간에 확실한 성취를 위해서 제가 선택한 방법은 미라클 모닝인데요. 과연 (주말빼고) 매일 새벽 5시에 일어나는 사람에게 1년동안 무슨일이 일어날지. \n\n한번 지켜봐주세요 😎\n\n\n🎀 INSTAGRAM\n@kimhyehwa__\n\n\n📍업로드 주기\n:  일주일에 1개 이상\n   아직 요일 미정이라 당분간은 막무가내로 업로드 예정  \n\n\n"
+          }
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UUBCJHYNHAWcD041KKlgbnKg"
+          }
+        },
+        "statistics": {
+          "viewCount": "5147",
+          "subscriberCount": "54",
+          "hiddenSubscriberCount": false,
+          "videoCount": "8"
         }
+      }
     ]
-}
+  }
+  
