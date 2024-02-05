@@ -6,7 +6,12 @@ import { useYoutubeApi } from "../../../context/YoutubeApiContext";
 import Loading from "../../components/Loading";
 import Error from "../../components/Error";
 import ChannelInfo from "./ChannelInfo";
-import { ArrowDownTrayIcon, HandThumbDownIcon, HandThumbUpIcon, ShareIcon } from "@heroicons/react/24/outline";
+import {
+  ArrowDownTrayIcon,
+  HandThumbDownIcon,
+  HandThumbUpIcon,
+  ShareIcon,
+} from "@heroicons/react/24/outline";
 
 type TVideoPlayerProps = {
   video: TVideo;
@@ -36,7 +41,7 @@ function VideoPlayer({ video }: TVideoPlayerProps) {
     enabled: !!channelId,
   });
 
-  const iconStyle="text-youtubeWhite w-[20px] h-[20px] my-auto"
+  const iconStyle = "text-youtubeWhite w-[20px] h-[20px] my-auto";
   const Chip = ({ children }: { children: React.ReactNode }) => {
     return (
       <div className="flex flex-row h-[36px] rounded-[18px] bg-[rgba(255,255,255,0.1)] text-youtubeWhite px-[16px] gap-2 align-middle [&_p]:my-auto text-[14px] font-bold">
@@ -66,17 +71,16 @@ function VideoPlayer({ video }: TVideoPlayerProps) {
             <ChannelInfo channelInfo={channelInfo[0]} />
             <div className="flex flex-row gap-2">
               <Chip>
-                <HandThumbUpIcon className={iconStyle}/>
+                <HandThumbUpIcon className={iconStyle} />
                 <p className="border-r pr-2">{likeCount}</p>
-
-                <HandThumbDownIcon className={iconStyle}/>
+                <HandThumbDownIcon className={iconStyle} />
               </Chip>
               <Chip>
                 <ShareIcon className={iconStyle} />
                 <p>공유</p>
               </Chip>
               <Chip>
-                <ArrowDownTrayIcon className={iconStyle}/>
+                <ArrowDownTrayIcon className={iconStyle} />
                 <p>오프라인 저장</p>
               </Chip>
             </div>
@@ -84,7 +88,7 @@ function VideoPlayer({ video }: TVideoPlayerProps) {
           <div className="bg-[rgba(255,255,255,0.1)] text-white rounded-[12px] p-[12px]">
             <div className="flex flex-row gap-1">
               <p className="text-[14px] font-bold">
-                조회수 {Number(viewCount).toLocaleString("ko-KR")}회{" "}
+                조회수 {Number(viewCount).toLocaleString("ko-KR")}회
               </p>
               <p className="text-[14px] font-bold">{publishedDate}</p>
             </div>

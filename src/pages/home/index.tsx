@@ -17,9 +17,7 @@ function Videos() {
     data: videos,
   } = useQuery({
     queryKey: keyword ? QUERY_KEYS.VIDEO.search(keyword) : QUERY_KEYS.VIDEO.all,
-    queryFn: () => {
-      return youtube.getVideos();
-    },
+    queryFn: () => youtube.getVideos(),
   });
 
   return (

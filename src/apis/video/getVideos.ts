@@ -27,6 +27,7 @@ export default class GetVideos {
           maxResults: 25,
           type: "video",
           q: keyword,
+          // [TODO] fields 옵션 설정
         },
       })
       .then((res) => {
@@ -43,6 +44,8 @@ export default class GetVideos {
           maxResults: 25,
           chart: "mostPopular",
           regionCode: "KR",
+          // fields:
+          //   "items(id,snippet(publishedAt,channelId,title,description,thumbnails(medium(url)),channelTitle,tags))"
         },
       })
       .then((res) => {
@@ -57,6 +60,7 @@ export default class GetVideos {
       params: {
         part: "snippet,contentDetails,statistics",
         id,
+        // [TODO] : fields 옵션 설정
       },
     });
   }

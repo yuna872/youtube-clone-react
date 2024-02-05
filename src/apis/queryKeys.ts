@@ -7,5 +7,6 @@ export const QUERY_KEYS = {
   CHANNEL: {
     all: ["channel"],
     item: (id: string) => [...QUERY_KEYS.CHANNEL.all, id], // single inquiry
+    thumbnail : (id:string) => [...QUERY_KEYS.CHANNEL.all, 'thumbnail', id] // thumbnail
   },
 };
