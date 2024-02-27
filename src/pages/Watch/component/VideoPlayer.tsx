@@ -39,6 +39,7 @@ function VideoPlayer({ video }: TVideoPlayerProps) {
     queryKey: QUERY_KEYS.CHANNEL.item(channelId),
     queryFn: () => channel.getChannelInfo(channelId),
     enabled: !!channelId,
+    staleTime : 1000 * 60 * 5,
   });
 
   const iconStyle = "text-youtubeWhite w-[20px] h-[20px] my-auto";

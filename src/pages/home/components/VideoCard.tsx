@@ -26,6 +26,7 @@ function VideoCard({ video }: TVideoCardProps) {
     queryFn: () => {
       return channel.getChannelThumbnail(channelId);
     },
+    staleTime:1000 * 60 * 5 // 채널정보는 자주 update 되지 않으니 staleTime 5분으로 설정
   });
 
   return (
