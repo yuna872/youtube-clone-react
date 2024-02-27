@@ -21,8 +21,6 @@ function Watch() {
     },
   });
 
-
-  console.log(video);
   
   return (
     <>
@@ -30,10 +28,9 @@ function Watch() {
       {error && <Error />}
       {video && (
         <div className="flex flex-row">
-          {JSON.stringify(video[0])}
           <article className="p-[24px]">
             {/* 영화 컨텐츠 */}
-            <VideoPlayer video={video[0]} />
+            <VideoPlayer video={video} />
             {/* 댓글 */}
           </article>
           {/* 연관된 영상 */}

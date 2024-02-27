@@ -23,7 +23,7 @@ export default class GetChannelInfo {
         part: "snippet,contentDetails,statistics",
         id,
       },
-    })
+    }).then((res) => res.data.items[0])
   }
 
   private async getThumbnailUrl(id : string) {

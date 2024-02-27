@@ -62,6 +62,6 @@ export default class GetVideos {
         id,
         // [TODO] : fields 옵션 설정
       },
-    });
+    }).then((res) => res.data.items[0]);
   }
 }

@@ -23,6 +23,6 @@ export default class FakeGetVideos {
   }
 
   private async listByVideoId(id: string) {
-    return axios.get(`/data/video.json`).then((res) => res.data.items);
+    return axios.get(`/data/video.json`).then((res) => res.data.items[0]);
   }
 }

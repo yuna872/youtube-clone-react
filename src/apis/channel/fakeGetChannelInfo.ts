@@ -12,7 +12,7 @@ export default class FakeGetChannelInfo {
   }
 
   private async listByChannelId(id: string) {
-    return axios.get(`/data/channel.json`).then((res) => res.data.items);
+    return axios.get(`/data/channel.json`).then((res) => res.data.items[0]);
   }
 
   private async getThumbnailUrl(id: string) {

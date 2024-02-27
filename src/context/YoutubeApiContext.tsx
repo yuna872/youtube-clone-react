@@ -12,10 +12,10 @@ type TYoutubeApiProviderProps = {
 };
 
 export function YoutubeApiProvider({ children }: TYoutubeApiProviderProps) {
-  // const youtube = new FakeGetVideos();
-  // const channel = new FakeGetChannelInfo();
-  const youtube = new GetVideos();
-  const channel = new GetChannelInfo();
+  const youtube = new FakeGetVideos();
+  const channel = new FakeGetChannelInfo();
+  // const youtube = new GetVideos();
+  // const channel = new GetChannelInfo();
 
   return (
     <YoutubeApiContext.Provider value={{ youtube, channel }}>

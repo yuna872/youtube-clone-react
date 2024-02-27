@@ -12,12 +12,14 @@ import {
   HandThumbUpIcon,
   ShareIcon,
 } from "@heroicons/react/24/outline";
+import React from "react";
 
 type TVideoPlayerProps = {
   video: TVideo;
 };
 
-function VideoPlayer({ video }: TVideoPlayerProps) {
+function VideoPlayer({ video }: any) {
+  console.log(video);
   const { channel } = useYoutubeApi();
   const {
     title,
@@ -39,7 +41,7 @@ function VideoPlayer({ video }: TVideoPlayerProps) {
     queryKey: QUERY_KEYS.CHANNEL.item(channelId),
     queryFn: () => channel.getChannelInfo(channelId),
     enabled: !!channelId,
-    staleTime : 1000 * 60 * 5,
+    staleTime: 1000 * 60 * 5,
   });
 
   const iconStyle = "text-youtubeWhite w-[20px] h-[20px] my-auto";
@@ -49,6 +51,16 @@ function VideoPlayer({ video }: TVideoPlayerProps) {
         {children}
       </div>
     );
+  };
+
+  const [seeMore, setSeeMore] = React.useState(true);
+  // [더보기] 버튼 클릭 시
+  const handleClickSeeMore = () => {
+    setSeeMore(false);
+  };
+  // [간략히] 버튼 클릭 시
+  const handleClickBriefly = () => {
+    setSeeMore(true);
   };
 
   return (
@@ -69,7 +81,7 @@ function VideoPlayer({ video }: TVideoPlayerProps) {
           <p className="text-[20px] font-bold text-youtubeWhite">{title}</p>
           <div className="flex flex-row justify-between">
             {/* channel info */}
-            <ChannelInfo channelInfo={channelInfo[0]} />
+            <ChannelInfo channelInfo={channelInfo} />
             <div className="flex flex-row gap-2">
               <Chip>
                 <HandThumbUpIcon className={iconStyle} />
@@ -93,7 +105,11 @@ function VideoPlayer({ video }: TVideoPlayerProps) {
               </p>
               <p className="text-[14px] font-bold">{publishedDate}</p>
             </div>
-            <p className="whitespace-pre-wrap">{description}</p>
+            <span className={`whitespace-pre-wrap cursor-pointer ${seeMore ? 'line-clamp-2' : 'line-clamp-none'}`}>
+              {description}
+              {!seeMore && <p onClick={handleClickBriefly} className="mt-[20px] text-[14px]">간략히</p>}
+            </span>
+            {seeMore && <span onClick={handleClickSeeMore} className="text-[14px]">더보기</span>}
           </div>
         </section>
       )}

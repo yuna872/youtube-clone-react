@@ -30,11 +30,11 @@ function VideoCard({ video }: TVideoCardProps) {
   });
 
   return (
-    <li key={description} onClick={() => navigate(`/watch/${video.id}`)}>
+    <li key={description} onClick={() => navigate(`/watch/${video.id}`)} className="cursor-pointer">
       <img src={thumbnails.medium.url} alt={title} className="w-full rounded-[4px]" />
-      <div className="flex flex-row w-full mt-[12px]">
-        <div className="rounded-full w-[36px] h-[36px] overflow-hidden">
-          <img src={channelThumbnail} className="object-cover"/>
+      <div className="flex flex-row w-full mt-[12px] gap-[12px]">
+        <div className="rounded-full max-w-[36px] max-h-[36px] overflow-hidden">
+          <img src={channelThumbnail} className="object-cover w-full h-full"/>
         </div>
         <div className="flex flex-col w-full">
           <p className="text-[#f1f1f1] text-[16px] break-words line-clamp-2">
