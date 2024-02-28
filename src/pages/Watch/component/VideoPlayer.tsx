@@ -1,4 +1,4 @@
-import { useQuery } from "@tanstack/react-query";
+import { useQueries, useQuery } from "@tanstack/react-query";
 import { TVideo } from "../../../types/Video";
 import { formatWithDots } from "../../../util/date";
 import { QUERY_KEYS } from "../../../apis/queryKeys";
@@ -12,7 +12,7 @@ import {
   HandThumbUpIcon,
   ShareIcon,
 } from "@heroicons/react/24/outline";
-import React from "react";
+import React, { useEffect } from "react";
 
 type TVideoPlayerProps = {
   video: TVideo;
@@ -20,7 +20,9 @@ type TVideoPlayerProps = {
 
 function VideoPlayer({ video }: any) {
   console.log(video);
-  const { channel } = useYoutubeApi();
+  const { channel, comments } = useYoutubeApi();
+
+  // 재생할 비디오 정보
   const {
     title,
     description,
@@ -29,10 +31,12 @@ function VideoPlayer({ video }: any) {
     channelTitle,
     channelId,
   } = video.snippet;
+
   const { viewCount, likeCount } = video.statistics;
 
   const publishedDate = formatWithDots(publishedAt);
 
+  // 채널 정보
   const {
     isLoading,
     error,
@@ -43,6 +47,37 @@ function VideoPlayer({ video }: any) {
     enabled: !!channelId,
     staleTime: 1000 * 60 * 5,
   });
+
+  const result = useQueries({
+    queries: [
+      {
+        queryKey: QUERY_KEYS.CHANNEL.item(channelId),
+        queryFn: () => channel.getChannelInfo(channelId),
+        enabled: !!channelId,
+        staleTime: 1000 * 60 * 5,
+      },
+      {
+        queryKey: QUERY_KEYS.COMMENTS.item(''),
+        queryFn: () => comments.getComments(''),
+      },
+    ],
+  });
+
+  console.log(result)
+useEffect(() => {
+  const channelInfo = result[0].data
+})
+  // const result = useQueries({
+  //       queryKey: QUERY_KEYS.CHANNEL.item(channelId),
+  //       queryFn: () => channel.getChannelInfo(channelId),
+  //       enabled: !!channelId,
+  //       staleTime: 1000 * 60 * 5,
+  //     },{
+  //       queryKey: QUERY_KEYS.COMMENTS.item('')),
+  //       queryFn: () => comments.getComments(''),
+  //       staleTime: 1000 * 60 * 5,
+  //     }
+  // )
 
   const iconStyle = "text-youtubeWhite w-[20px] h-[20px] my-auto";
   const Chip = ({ children }: { children: React.ReactNode }) => {
@@ -105,11 +140,29 @@ function VideoPlayer({ video }: any) {
               </p>
               <p className="text-[14px] font-bold">{publishedDate}</p>
             </div>
-            <span className={`whitespace-pre-wrap cursor-pointer ${seeMore ? 'line-clamp-2' : 'line-clamp-none'}`}>
+            <span
+              className={`whitespace-pre-wrap cursor-pointer ${
+                seeMore ? "line-clamp-2" : "line-clamp-none"
+              }`}
+            >
               {description}
-              {!seeMore && <p onClick={handleClickBriefly} className="mt-[20px] text-[14px]">간략히</p>}
+              {!seeMore && (
+                <p
+                  onClick={handleClickBriefly}
+                  className="mt-[20px] text-[14px]"
+                >
+                  간략히
+                </p>
+              )}
             </span>
-            {seeMore && <span onClick={handleClickSeeMore} className="text-[14px]">더보기</span>}
+            {seeMore && (
+              <span
+                onClick={handleClickSeeMore}
+                className="text-[14px] cursor-pointer"
+              >
+                더보기
+              </span>
+            )}
           </div>
         </section>
       )}
