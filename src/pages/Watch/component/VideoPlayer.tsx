@@ -19,7 +19,6 @@ type TVideoPlayerProps = {
 };
 
 function VideoPlayer({ video }: any) {
-  console.log(video);
   const { channel, comments } = useYoutubeApi();
 
   // 재생할 비디오 정보
@@ -48,36 +47,29 @@ function VideoPlayer({ video }: any) {
     staleTime: 1000 * 60 * 5,
   });
 
-  const result = useQueries({
-    queries: [
-      {
-        queryKey: QUERY_KEYS.CHANNEL.item(channelId),
-        queryFn: () => channel.getChannelInfo(channelId),
-        enabled: !!channelId,
-        staleTime: 1000 * 60 * 5,
-      },
-      {
-        queryKey: QUERY_KEYS.COMMENTS.item(''),
-        queryFn: () => comments.getComments(''),
-      },
-    ],
-  });
+//   const result = useQueries({
+//     queries: [
+//       {
+//         queryKey: QUERY_KEYS.CHANNEL.item(channelId),
+//         queryFn: () => channel.getChannelInfo(channelId),
+//         enabled: !!channelId,
+//         staleTime: 1000 * 60 * 5,
+//       },
+//       {
+//         queryKey: QUERY_KEYS.COMMENTS.item(''),
+//         queryFn: () => comments.getComments(''),
+//       },
+//     ],
+//   });
 
-  console.log(result)
-useEffect(() => {
-  const channelInfo = result[0].data
-})
-  // const result = useQueries({
-  //       queryKey: QUERY_KEYS.CHANNEL.item(channelId),
-  //       queryFn: () => channel.getChannelInfo(channelId),
-  //       enabled: !!channelId,
-  //       staleTime: 1000 * 60 * 5,
-  //     },{
-  //       queryKey: QUERY_KEYS.COMMENTS.item('')),
-  //       queryFn: () => comments.getComments(''),
-  //       staleTime: 1000 * 60 * 5,
-  //     }
-  // )
+//   const [channelInfo, setChannelInfo] = React.useState([]);
+//   const [commentList, setCommentList] = React.useState([]);
+
+// useEffect(() => {
+//   setChannelInfo(result[0].data)
+//   setCommentList(result[1].data)
+// })
+ 
 
   const iconStyle = "text-youtubeWhite w-[20px] h-[20px] my-auto";
   const Chip = ({ children }: { children: React.ReactNode }) => {

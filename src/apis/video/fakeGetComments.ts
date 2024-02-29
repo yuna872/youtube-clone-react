@@ -3,11 +3,11 @@ import axios from "axios";
 export default class FakeGetComments {
   constructor() {}
 
-  async getComments(id: string) {
-    return this.commentByVideoId(id);
+  async getComments(videoId: string) {
+    return this.commentByVideoId(videoId);
   }
 
-  private async commentByVideoId(id: string) {
-    return axios.get(`/data/comments.json`).then((res) => res.data);
+  private async commentByVideoId(videoId: string) {
+    return axios.get(`/data/comments.json`).then((res) => res.data.items);
   }
 }

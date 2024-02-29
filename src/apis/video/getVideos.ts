@@ -44,12 +44,9 @@ export default class GetVideos {
           maxResults: 25,
           chart: "mostPopular",
           regionCode: "KR",
-          // fields:
-          //   "items(id,snippet(publishedAt,channelId,title,description,thumbnails(medium(url)),channelTitle,tags))"
         },
       })
       .then((res) => {
-        console.log(res.data.items);
         return res.data.items;
       });
   }
