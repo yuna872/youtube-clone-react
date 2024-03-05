@@ -5,6 +5,7 @@ import SearchHeader from "../pages/components/SearchHeader";
 import Videos from "../pages/home/index";
 import SideBar from "../pages/components/SideBar";
 import Chips from "../pages/components/Chips";
+import React from "react";
 
 const router = createBrowserRouter([
   {
@@ -13,17 +14,11 @@ const router = createBrowserRouter([
     children: [
       {
         path: "",
-        element: <LayoutWithSideBar />, // with SideBar
-        children: [
-          {
-            path: "",
-            element: <Videos />, // 홈 페이지
-          },
-          {
-            path: "/results/:keyword",
-            element: <Results />, // 키워드로 검색한 결과
-          },
-        ],
+        element: <Videos />, // 홈 페이지
+      },
+      {
+        path: "/results/:keyword",
+        element: <Results />, // 키워드로 검색한 결과
       },
       {
         path: "/watch/:videoId",
@@ -35,21 +30,12 @@ const router = createBrowserRouter([
 
 // 기본 레이아웃 (only Search Header)
 function Layout(): JSX.Element {
+  const [openSidebar, setOpenSidebar] = React.useState(false);
   return (
     <div className="relative">
-      <SearchHeader />
-      <Outlet />
-    </div>
-  );
-}
-
-// sideBar를 포함하는 레이아웃
-function LayoutWithSideBar(): JSX.Element {
-  return (
-    <div className="flex flex-row">
-      <SideBar />
-      <div className="flex flex-col w-full">
-        <Chips />
+      <SearchHeader setOpenSidebar={setOpenSidebar}/>
+      <div className="flex">
+        <SideBar open={openSidebar} />
         <Outlet />
       </div>
     </div>
